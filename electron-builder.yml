@@ -69,6 +69,15 @@ nsis:
   allowToChangeInstallationDirectory: true
   createDesktopShortcut: true
   createStartMenuShortcut: true
+  # MUST differ from the portable target's name. Both produce a .exe, so with only
+  # the global artifactName below they resolved to the identical filename —
+  # clobbering each other on disk, then racing to upload the same release asset
+  # (GitHub answers the second one with 400 Bad Request). Linux never hit this
+  # because AppImage/deb/rpm have distinct extensions.
+  artifactName: ${name}-${version}-${os}-${arch}-setup.${ext}
+
+portable:
+  artifactName: ${name}-${version}-${os}-${arch}-portable.${ext}
 
 mac:
   icon: build/icon.png
