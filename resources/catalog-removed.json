@@ -1,0 +1,5066 @@
+[
+  {
+    "id": "ahstudios",
+    "label": "A.H Studio",
+    "url": "https://ahstudios.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.007Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "aiinscan",
+    "label": "Aiinscan",
+    "url": "https://aiinscan.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "language": "pt",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.008Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "akaiyuhimun",
+    "label": "AkaiYuhiMun Team",
+    "url": "https://akaiyuhimun.ru",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "russian",
+      "scanlation"
+    ],
+    "path": "/manga/directory/",
+    "language": "russian",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.008Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "akumanotenshi",
+    "label": "AkumanoTenshi",
+    "url": "https://akumanotenshi.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "manga",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.008Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "alceascan",
+    "label": "Alceascan",
+    "url": "https://alceascan.my.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.008Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "ancientempirescan",
+    "label": "Ancient Empire Scan",
+    "url": "https://www.ancientempirescan.website",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.008Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "anirune",
+    "label": "AniRune",
+    "url": "https://anirune.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "anisamanga",
+    "label": "Anisa manga",
+    "url": "https://anisamanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "anivizyon",
+    "label": "Anivizyon",
+    "url": "https://www.anivizyon.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "atmsubs",
+    "label": "ATM Subs",
+    "url": "https://atm-subs.fr",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "french"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "bacakomikid",
+    "label": "BacaKomikID",
+    "url": "https://bacakomikid.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/?list",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "birmanga",
+    "label": "Bir Manga",
+    "url": "https://birmanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "blackarmy",
+    "label": "Black Army",
+    "url": "https://blackarmy.fr",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "french"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "bdsfansub",
+    "label": "Black Dragons no Fansub",
+    "url": "https://bdsfansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "catonhead",
+    "label": "Cat on Head Translations",
+    "url": "https://catonhead.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "chiotaku",
+    "label": "ChiOtaku",
+    "url": "https://chiotaku.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/?list",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "nonbiri",
+    "label": "Comic21",
+    "url": "https://comic21.me",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "comichub",
+    "label": "ComicHub",
+    "url": "https://comiconline.org/",
+    "template": "wordpress-madara",
+    "tags": [
+      "comic",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "cronosscan",
+    "label": "Cronos Scan",
+    "url": "https://cronosscan.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "language": "pt",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "cutiepie",
+    "label": "Cutie Pie",
+    "url": "https://cutiepie.ga",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "dalsei",
+    "label": "Dalsei",
+    "url": "https://dalsei.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "darkskyprojects",
+    "label": "DarkSky Projects",
+    "url": "https://darkskyprojects.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "darkyuerealm",
+    "label": "DarkYue Realm",
+    "url": "https://darkyuerealm.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "portuguese"
+    ],
+    "path": "/web",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.009Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "prismascans",
+    "label": "Demon Scan",
+    "url": "https://seitacelestial.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "path": "/comics/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "diabolickscan",
+    "label": "Diabolick Scan",
+    "url": "https://diabolickscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "manga",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "doujinland",
+    "label": "DOUJINLAND",
+    "url": "https://doujinland.online",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "indonesian"
+    ],
+    "path": "/manga-list/?list",
+    "overrides": {
+      "querMangaTitleFromURI": "div.series-title h2",
+      "queryMangas": "div.mangalist-blc ul li a",
+      "queryChapters": "div.series-chapter ul.series-chapterlist li div.flexch-infoz a",
+      "queryChaptersTitle": "span",
+      "queryChaptersTitleBloat": "span > span.date",
+      "queryPages": "div.reader-area img[src]:not([src=\"\"])"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "doujinmitai",
+    "label": "DoujinMitai",
+    "url": "https://doujinmitai.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "hentai",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "drkmangas",
+    "label": "DRK Mangas",
+    "url": "https://drkmangas.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "eclypse",
+    "label": "Eclypse",
+    "url": "https://eclypse-scan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "scanlation",
+      "webtoons",
+      "french"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "einherjarscans",
+    "label": "Einherjar Scans",
+    "url": "https://einherjarscans.space",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "eternalscans",
+    "label": "Eternal Scans",
+    "url": "https://eternalscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english",
+      "webtoon",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "evilflowers",
+    "label": "EvilFlowers",
+    "url": "http://reader.evilflowers.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "fdmscan",
+    "label": "Fdm scan",
+    "url": "https://fdmscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "fenixscanlator",
+    "label": "Fênix Scanlator",
+    "url": "https://fenixscanlator.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "finalscans",
+    "label": "Final Scans",
+    "url": "https://finalscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "forgottenscans",
+    "label": "ForgottenScans",
+    "url": "http://reader.fos-scans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "franxxmangas",
+    "label": "Franxx Mangas",
+    "url": "https://franxxmangas.net",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "fnyscantrad",
+    "label": "Fukushuu no Yuusha",
+    "url": "https://fny-scantrad.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "french"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "funlist",
+    "label": "Funlist Online",
+    "url": "https://funlist.online",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "gabutscans",
+    "label": "Gabut Scans",
+    "url": "https://gabutscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "geasshentai",
+    "label": "Geass Hentai",
+    "url": "https://geassscan.xyz/",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "portuguese"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "parked"
+  },
+  {
+    "id": "geassscan",
+    "label": "Geass Scan",
+    "url": "https://geassscan.net/",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "geceninlordu",
+    "label": "Gecenin Lordu",
+    "url": "https://geceninlordu.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "gloryscanshentai",
+    "label": "Glory Scans Hentai",
+    "url": "https://hentai.gloryscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "godsrealmscan",
+    "label": "God's Realm Scan",
+    "url": "https://godsrealmscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "gogomanga",
+    "label": "Gogomanga",
+    "url": "https://gogomanga.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english",
+      "manga"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "grafimanga",
+    "label": "GrafiManga",
+    "url": "https://grafimanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "hadesnofansub",
+    "label": "Hades No Fansub",
+    "url": "https://mangareaderpro.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "path": "/es",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "hakaiscan",
+    "label": "Hakai Scan",
+    "url": "http://hakaiscan.xyz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "happyteascans",
+    "label": "Happy Tea Scans",
+    "url": "https://happyteascans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "herozscans",
+    "label": "Heroz Scans",
+    "url": "https://herozscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.010Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "hidokuceviri",
+    "label": "Hidoku Çeviri",
+    "url": "http://oku.hidokuceviri.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "turkish"
+    ],
+    "language": "tr",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "hikariscan",
+    "label": "Hikari Scan",
+    "url": "https://hikariscan.com.br",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "portuguese"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "hoshikuzuuscans",
+    "label": "HoshikuzuuScans",
+    "url": "http://hoshiscans.shounen-ai.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "parked"
+  },
+  {
+    "id": "hzmangas",
+    "label": "Hz Manga",
+    "url": "http://hzmangas.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "ichirinnohanayuri",
+    "label": "Ichirin No Hana Yuri",
+    "url": "https://ichirinnohanayuriscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "overrides": {
+      "queryMangas": "div.post-title.font-title h4 a",
+      "queryChapters": "li.wp-manga-chapter a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "imperiodosotakus",
+    "label": "Imperio dos Otakus",
+    "url": "https://imperiodosotakus.tk",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "imperioscans",
+    "label": "Império Scans",
+    "url": "https://imperioscans.com.br",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "jirocomics",
+    "label": "JiroComics",
+    "url": "https://jirocomics.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "jjutsuscans",
+    "label": "JJutsu Scans",
+    "url": "https://www.jjutsuscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "jokerfansub",
+    "label": "JokerFansub",
+    "url": "https://reader.jkrfb.xyz",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "jpmangas",
+    "label": "Jpmangas",
+    "url": "https://jpmangas.xyz",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "webtoon",
+      "french"
+    ],
+    "language": "fr",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "komiksave",
+    "label": "Komik Save",
+    "url": "https://komiksave.me",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "indonesian"
+    ],
+    "path": "/komik/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "komikgue",
+    "label": "KomikGue",
+    "url": "https://www.komikgue.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "language": "id",
+    "overrides": {
+      "queryChapters": "div.chapter-wrapper table td.chapter a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "refused"
+  },
+  {
+    "id": "komikmanga",
+    "label": "KomikManga",
+    "url": "https://komikmanga.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "language": "in",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "komiknesia",
+    "label": "KomikNesia",
+    "url": "https://komiknesia.xyz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "komikru",
+    "label": "Komikru",
+    "url": "https://komikru.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/?list",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "kraw",
+    "label": "KRAW",
+    "url": "https://kraw.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "hentai",
+      "porn",
+      "multi-lingual"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "kumascans",
+    "label": "Kuma Scans",
+    "url": "https://kumascans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "parked"
+  },
+  {
+    "id": "kumamanga",
+    "label": "KumaManga",
+    "url": "https://kumamanga.my.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga-list/?list",
+    "overrides": {
+      "querMangaTitleFromURI": "div.series-title h2",
+      "queryMangas": "div.mangalist-blc ul li a",
+      "queryChapters": "div.series-chapter ul.series-chapterlist li div.flexch-infoz a",
+      "queryChaptersTitle": "span",
+      "queryChaptersTitleBloat": "span > span.date",
+      "queryPages": "div.reader-area img[src]:not([src=\"\"])"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "lazyboysscan",
+    "label": "Lazy Boys",
+    "url": "https://lazyboysscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "leermanhua",
+    "label": "Leermanhua",
+    "url": "https://leermanhua.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "lemonjuicescan",
+    "label": "Lemon Juice Scan",
+    "url": "https://lemonjuicescan.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "leviatanscans-xxx",
+    "label": "LeviatanScans (XXX)",
+    "url": "https://xxx.leviatanscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "english",
+      "scanlation",
+      "hentai"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "lilyreader",
+    "label": "Lilyreader",
+    "url": "https://manga.smuglo.li",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "refused"
+  },
+  {
+    "id": "littlemonsterscan",
+    "label": "Little Monster Scan",
+    "url": "https://littlemonsterscan.com.br",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "luxyscans",
+    "label": "LuxyScans",
+    "url": "https://luxyscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mabushimajo",
+    "label": "Mabushimajo",
+    "url": "http://mabushimajo.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "turkish"
+    ],
+    "path": "/onlineokuma/directory/",
+    "language": "turkish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "morpheusfansub",
+    "label": "Manga Bilgini",
+    "url": "https://mangabilgini.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "overrides": {
+      "queryTitleForURI": "div.profile-manga div.post-title h1",
+      "queryChapters": "li[class*=wp-manga-chapter-] > a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangaboruto",
+    "label": "Manga Boruto",
+    "url": "https://sensibleiowans.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "hentai",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangahane",
+    "label": "Manga Hane",
+    "url": "https://manga-hane.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.011Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangakitsu",
+    "label": "Manga Kitsu",
+    "url": "https://mangakitsu.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "manganelolink",
+    "label": "Manga Nelo Link",
+    "url": "https://manganelo.link",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "manganeloteam",
+    "label": "Manga Nelo Team",
+    "url": "https://manganeloteam.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangaokur",
+    "label": "Manga Okur",
+    "url": "https://www.mangaokur.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangaroma",
+    "label": "Manga Roma",
+    "url": "https://mangaroma.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangasepeti",
+    "label": "Manga Sepeti",
+    "url": "https://www.mangasepeti.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangaturf",
+    "label": "Manga Turf",
+    "url": "https://mangaturf.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangawar",
+    "label": "Manga War",
+    "url": "https://mangawar.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english"
+    ],
+    "language": "en",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "refused"
+  },
+  {
+    "id": "mangayurdu",
+    "label": "Manga Yurdu",
+    "url": "https://mangayurdu.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangacim",
+    "label": "Mangacim",
+    "url": "https://www.mangacim.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "refused"
+  },
+  {
+    "id": "mangaichiscans",
+    "label": "MangaichiScans",
+    "url": "http://mangaichiscans.mokkori.fr",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/fs/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangaid",
+    "label": "MangaID",
+    "url": "https://www.mangaid.click",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "language": "id",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangajinnofansub",
+    "label": "MangajinNoFansub",
+    "url": "https://www.mangajinnofansub.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "path": "/lector/directory/",
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangakik",
+    "label": "MangaKik",
+    "url": "https://mangakik.biz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangame",
+    "label": "MangaMe",
+    "url": "https://mangareading.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "manga",
+      "english"
+    ],
+    "overrides": {
+      "queryMangas": "div.card-item-title a",
+      "queryChapters": "div.plm-chapters div.plm-grid a",
+      "queryChaptersTitleBloat": "span"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "manganettr",
+    "label": "MangaNetTR",
+    "url": "https://www.manganettr.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.012Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangareaderpro",
+    "label": "MangaReaderPro",
+    "url": "https://mangareaderpro.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "spanish",
+      "webtoon"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangaschan",
+    "label": "Mangás Chan",
+    "url": "https://mangaschan.net",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangascouts",
+    "label": "MangaScouts",
+    "url": "http://onlinereader.mangascouts.org",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "german",
+      "scanlation"
+    ],
+    "path": "/directory/",
+    "language": "german",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangasubes",
+    "label": "MangaSubES",
+    "url": "http://mangasubes.patyscans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangasusureborn",
+    "label": "MangaSusu Reborn",
+    "url": "https://mangasusu.biz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangatopya",
+    "label": "MangaTopya",
+    "url": "https://mangatopya.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangavadisi",
+    "label": "MangaVadisi",
+    "url": "http://manga-v2.mangavadisi.org",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "turkish",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangawt",
+    "label": "MangaWT",
+    "url": "https://mangawt.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "language": "tr",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangax18",
+    "label": "Mangax18",
+    "url": "https://mangax18.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangayaku",
+    "label": "MangaYaku",
+    "url": "https://mangayaku.my.id",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "indonesian"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangazuki-site",
+    "label": "MangaZukiSite",
+    "url": "https://www.mangazuki.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "parked"
+  },
+  {
+    "id": "mangareceh",
+    "label": "MANGCEH",
+    "url": "https://mangceh.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "overrides": {
+      "queryChapters": "li.wp-manga-chapter > a:first-of-type"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangkomik",
+    "label": "Mangkomik",
+    "url": "https://mangkomik.net",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "manhwapool",
+    "label": "ManhwaPool",
+    "url": "https://manhwapool.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "parked"
+  },
+  {
+    "id": "manhwataro",
+    "label": "ManhwaTaro",
+    "url": "https://manhwataro.xyz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "indonesian"
+    ],
+    "path": "/komik/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "markscanshentai",
+    "label": "Mark Scans Hentai",
+    "url": "https://mhentais.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese",
+      "hentai"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "martialmanga",
+    "label": "MartialManga",
+    "url": "https://martialmanga.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "miradscanlator",
+    "label": "Mirad Scanlator",
+    "url": "https://miradscanlator.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation",
+      "hentai"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "miscans",
+    "label": "MiScans",
+    "url": "https://miscans.my.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mixedmanga",
+    "label": "MixedManga",
+    "url": "https://mixedmanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "refused"
+  },
+  {
+    "id": "muchodoujins",
+    "label": "MuchoDoujins",
+    "url": "https://muchodoujins.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mundomangakun",
+    "label": "Mundo Mangá-Kun",
+    "url": "https://mundomangakun.com.br",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "portuguese"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.013Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "nazarickscans",
+    "label": "Nazarick Scans",
+    "url": "https://nazarickscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "nekobreakerscan",
+    "label": "NekoBreaker Scan",
+    "url": "https://nekobreakerscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "nekomik",
+    "label": "Nekomik",
+    "url": "https://nekomik.me",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "neoprojectscans",
+    "label": "NeoProjectScans",
+    "url": "http://npscan.mangaea.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "path": "/slide/directory/",
+    "language": "spanish",
+    "overrides": {
+      "defaultPageCount": 5,
+      "queryMangas": "div.directory div.grid div.grid-item a",
+      "queryChapters": "div.list div.list-group div.list-group-item div.title a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "ninjavi",
+    "label": "NINJAVI",
+    "url": "https://ninjavi.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "novelfrance",
+    "label": "Novel France",
+    "url": "http://novel-france.fr",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "french"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "noxsubs",
+    "label": "Nox Subs",
+    "url": "https://noxsubs.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "manga",
+      "turkish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "offscan",
+    "label": "OFF SCAN",
+    "url": "https://offscan.top",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "okamiyomi",
+    "label": "Okamiyomi",
+    "url": "https://okamiyomi.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "olhodalua",
+    "label": "Olho da Lua",
+    "url": "https://olhodalua.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "onetimescans",
+    "label": "OneTimeScans",
+    "url": "https://reader.otscans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "origamiorpheans",
+    "label": "ORIGAMI ORPHEANS",
+    "url": "https://origami-orpheans.com.br",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "otsugami",
+    "label": "Otsugami",
+    "url": "https://otsugami.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.014Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "ozulscans",
+    "label": "Ozul Scans",
+    "url": "https://ozulscans.net",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "arabic",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "patatescan",
+    "label": "Patatescans",
+    "url": "https://patatescans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "french"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "patyscans",
+    "label": "PatyScans",
+    "url": "http://lector.patyscans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "pcnet",
+    "label": "PCNet",
+    "url": "http://pcnet.patyscans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "phenomenalnofansub",
+    "label": "Phenomenal No Fansub",
+    "url": "https://phenomenalnofansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "phoenixfansub",
+    "label": "Phoenix Fansub",
+    "url": "https://phoenixfansub.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "spanish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "phoenixserenade",
+    "label": "PhoenixSerenade",
+    "url": "https://reader.serenade.moe",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "piscans",
+    "label": "Piscans",
+    "url": "https://piscans.in",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "pocketangelscans",
+    "label": "Pocket Angel Scans",
+    "url": "https://pocketangelscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "pojokmanga",
+    "label": "PojokManga",
+    "url": "https://pojokmanga.id",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "overrides": {
+      "queryTitleForURI": "div.profile-manga div.post-title h1"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "raikiscan",
+    "label": "Raiki Scan",
+    "url": "https://raikiscan.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "spanish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "randomtranslations",
+    "label": "Random Translations",
+    "url": "https://randomtranslations.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "rawmangaupdate",
+    "label": "RawMangaUpdate",
+    "url": "http://rawmangaupdate.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "chinese",
+      "scanlation"
+    ],
+    "language": "zh",
+    "overrides": {
+      "queryChapters": "ul.chapters li h5.chapter-title-rtl a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "readkomik",
+    "label": "ReadKomik",
+    "url": "https://www.readkomik.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "readmangatv",
+    "label": "readmanga.tv",
+    "url": "https://readmanga.tv",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "novel",
+      "hentai",
+      "porn",
+      "japanese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "readrawmanga",
+    "label": "ReadRawManga",
+    "url": "https://www.readrawmanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "redribbon",
+    "label": "Red Ribbon",
+    "url": "https://redribbon.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "remangas",
+    "label": "Remangas",
+    "url": "https://remangas.top",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "portuguese"
+    ],
+    "language": "pt",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "riceballicious",
+    "label": "Riceballicious",
+    "url": "http://riceballicious.info",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/fs/reader/list/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "parked"
+  },
+  {
+    "id": "roseliascanlations",
+    "label": "RoseliaScanlations",
+    "url": "http://reader.roseliascans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "smangavfws",
+    "label": "S-MangaWF.ws",
+    "url": "https://scan-manga.me",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "french"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "s2scans",
+    "label": "S2Scans",
+    "url": "https://reader.s2smanga.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sakurafansub",
+    "label": "Sakura Fansub",
+    "url": "https://sakurafansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "scanlatorhunters",
+    "label": "Scanlator Hunters",
+    "url": "https://scanlatorhunters.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sdlscans",
+    "label": "SDL Scans",
+    "url": "https://sdlscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "spanish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.015Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sdlgfansub",
+    "label": "SDLG Fansub",
+    "url": "https://www.sdlg-fansub.tk",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "seaotterscans",
+    "label": "SeaOtterScans",
+    "url": "https://reader.seaotterscans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "seikouscans",
+    "label": "Seikou Scans",
+    "url": "https://seikouscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "high-quality",
+      "portuguese",
+      "scanlation",
+      "webtoon"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sensainayuri",
+    "label": "Sensaina Yuri (Drope Scan)",
+    "url": "https://sensainayuri.dropescan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "language": "pt",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sereinscans",
+    "label": "Serein Scans",
+    "url": "https://sereinscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sksubs",
+    "label": "Seven King Scanlation",
+    "url": "https://sksubs.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "shiraiscans",
+    "label": "Shirai Scans",
+    "url": "https://shiraiscans.com.br",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "silentskyscans",
+    "label": "SilentSkyScans",
+    "url": "http://reader.silentsky-scans.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sindriascanlator",
+    "label": "Sindria Scanlator",
+    "url": "https://sindriascanlator.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sisigelap",
+    "label": "SISI GELAP",
+    "url": "https://sisigelap.club",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "indonesian"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sixiangscans",
+    "label": "SiXiang Scans",
+    "url": "http://www.sixiangscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "skymanhwa",
+    "label": "Skymanhwa",
+    "url": "https://skymanhwa.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "smashscan",
+    "label": "Smash Scan",
+    "url": "https://smashscan.com.br",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sodascan",
+    "label": "Soda Scan",
+    "url": "https://sodascan.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "solitarionofansub",
+    "label": "SolitarioNoFansub",
+    "url": "http://snf.mangaea.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "path": "/slide/directory/",
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sosscanlation",
+    "label": "SOSScanlation",
+    "url": "https://sosscanlation.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "spartanmanga",
+    "label": "SpartanManga",
+    "url": "https://spartanmanga.com.tr",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "turkish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "ssgtscan",
+    "label": "Ssgt Scan",
+    "url": "https://ssgtscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "language": "pt",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "sugarlab",
+    "label": "SugarLab",
+    "url": "https://sugarlab.my.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "hentai",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "tenshiid",
+    "label": "TenshiID",
+    "url": "https://tenshi01.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "komik/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "thetopcomic",
+    "label": "The Top Comic",
+    "url": "https://thetopcomic.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "threequeensscanlator",
+    "label": "Three Queens Scanlator",
+    "url": "https://tqscan.com.br",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "tiempodewebeo",
+    "label": "Tiempo de Webeo",
+    "url": "https://tiempodewebeo.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "toonilynet",
+    "label": "Toonily.net",
+    "url": "https://toonily.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "tredrage",
+    "label": "TreDrage",
+    "url": "https://tredragefansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "truecolorsscan",
+    "label": "TrueColorsScan",
+    "url": "https://truecolorsscans.miocio.org",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "tsubakinoscan",
+    "label": "Tsubaki No Scan",
+    "url": "https://tsubakinoscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "french"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "tsubasasociety",
+    "label": "Tsubasa Society",
+    "url": "https://www.tsubasasociety.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/reader/master/Xreader/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "unemployedscans",
+    "label": "Unemployed Scans",
+    "url": "https://unemployedscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "uyuyanbalik",
+    "label": "Uyuyan Balık",
+    "url": "https://uyuyanbalik.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "vaposcan",
+    "label": "Vapo Scan",
+    "url": "https://vaposcan.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.016Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "warqueenscan",
+    "label": "War Queen Scan",
+    "url": "https://wqscan.com.br",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "whitecloudpavilion",
+    "label": "White Cloud Pavilion",
+    "url": "https://www.whitecloudpavilion.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/read/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "refused"
+  },
+  {
+    "id": "winterscan",
+    "label": "Winter Scan",
+    "url": "https://winterscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "wonderlandwebtoons",
+    "label": "Wonderland - Land Webtoons",
+    "url": "https://landwebtoons.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "wordhero",
+    "label": "WordHero",
+    "url": "https://wordhero.my.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "xanimeseduccion",
+    "label": "XAnimeSeduccion",
+    "url": "http://xanime-seduccion.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "yamitenshinofansub",
+    "label": "YamiTenshiNoFansub",
+    "url": "http://lector.ytnofan.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "yaoiislife",
+    "label": "YaoiIsLife",
+    "url": "http://yaoislife.shounen-ai.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/reader/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "parked"
+  },
+  {
+    "id": "yayupw",
+    "label": "Yayu Pw",
+    "url": "https://yayu.pw",
+    "template": "mangareader-cms",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "language": "tr",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "yayutoon",
+    "label": "YAYUTOON",
+    "url": "https://yayutoon.fun",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "language": "tr",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "yokaijump",
+    "label": "Yokai Jump",
+    "url": "https://yokaijump.fr",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "french"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "yomanga",
+    "label": "YoManga",
+    "url": "https://yomanga.info",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "zmanga",
+    "label": "ZMANGA",
+    "url": "https://zmanga.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "russification",
+    "label": "Русификация (Russification)",
+    "url": "https://rusmanga.ru",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "russian",
+      "scanlation"
+    ],
+    "path": "/directory/",
+    "language": "russian",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "olaoemanga",
+    "label": "مانجا اونلاين (Olaoe Manga)",
+    "url": "https://olaoe.giize.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "arabic"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangaarchive",
+    "label": "مانجا عرب اون لاين (Manga Archive)",
+    "url": "https://mangaarabonline.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangaarabteam",
+    "label": "مانجا عرب تيم (Manga Arab Team)",
+    "url": "https://mangaarabteam.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "mangalandarabic",
+    "label": "مانجا لاند عربي (Manga Land Arabic)",
+    "url": "https://mangalandarabic.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:22:11.017Z",
+    "removedBecause": "nxdomain"
+  },
+  {
+    "id": "oniscans",
+    "label": "Oniscans",
+    "url": "https://www.oniscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-14T12:42:01.292Z",
+    "removedBecause": "refused"
+  },
+  {
+    "id": "mangahentai",
+    "label": "Manga Hentai",
+    "url": "https://mangahentai.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T16:35:31.341Z",
+    "removedBecause": "hijacked"
+  },
+  {
+    "id": "manhwaraw",
+    "label": "Manhwa Raw",
+    "url": "https://manhwaraw.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T16:35:31.341Z",
+    "removedBecause": "hijacked"
+  },
+  {
+    "id": "manhwahentaime",
+    "label": "ManhwaHentai.me",
+    "url": "https://manhwahentai.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "div.page-break source"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-14T16:35:31.341Z",
+    "removedBecause": "hijacked"
+  },
+  {
+    "id": "manytooncom",
+    "label": "ManyToon",
+    "url": "https://manytoon.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T16:35:31.341Z",
+    "removedBecause": "hijacked"
+  },
+  {
+    "id": "manytoon",
+    "label": "ManyToon (Porn)",
+    "url": "https://manytoon.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T16:35:31.341Z",
+    "removedBecause": "hijacked"
+  },
+  {
+    "id": "manytoonkr",
+    "label": "ManyToonKR",
+    "url": "https://manytoon.club",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "raw",
+      "korean"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T16:35:31.341Z",
+    "removedBecause": "hijacked"
+  },
+  {
+    "id": "painfulnightz",
+    "label": "PainfulNightz",
+    "url": "https://painfulnightz.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-14T16:35:31.341Z",
+    "removedBecause": "hijacked"
+  },
+  {
+    "id": "1stkissmanhua",
+    "label": "1st Kiss Manhua",
+    "url": "https://1stkissmanhua.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "aloalivn",
+    "label": "Aloalivn",
+    "url": "https://aloalivn.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "li.blocks-gallery-item source"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "amascan",
+    "label": "AMAScan",
+    "url": "https://amascan.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "portuguese"
+    ],
+    "language": "pt",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "anatanomotokare",
+    "label": "Anata no Motokare",
+    "url": "http://motokare.xyz",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/reader/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "aquamanga",
+    "label": "AquaManga",
+    "url": "https://aquamanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english",
+      "webtoon"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "ascalon",
+    "label": "Ascalon",
+    "url": "https://ascalonscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "ayatoon",
+    "label": "AYATOON",
+    "url": "https://ayatoon.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "path": "/manga/list-mode",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "bestmanga",
+    "label": "Best Manga",
+    "url": "https://bestmanga.club",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "russian"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "biamam",
+    "label": "Biamam Scans",
+    "url": "http://biamam.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "en",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "comicdom",
+    "label": "ComicDom",
+    "url": "https://comicdom.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryMangas": "div.post-title h3 a:last-of-type"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "cosmicscans",
+    "label": "Cosmic Scans",
+    "url": "https://cosmicscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english",
+      "webtoon",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "cosmicscansid",
+    "label": "Cosmic Scans ID",
+    "url": "https://cosmicscans.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian",
+      "webtoon",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "covenscan",
+    "label": "Coven Scan",
+    "url": "https://cvnscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "cypherscans",
+    "label": "Cypher Scans",
+    "url": "https://cypherscans.xyz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "manhwa",
+      "manhua",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "diskusscan",
+    "label": "Diskus Scan",
+    "url": "https://diskusscan.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "dokifansubs",
+    "label": "DokiFansubs",
+    "url": "https://kobato.hologfx.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/reader/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "fizmanga",
+    "label": "FizManga",
+    "url": "https://fizmanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "foxwhitescan",
+    "label": "Fox White Scan",
+    "url": "https://foxwhite.com.br",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "freecomiconline",
+    "label": "Free Comic Online",
+    "url": "https://freecomiconline.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "freewebtooncoins",
+    "label": "Free Webtoon Coins",
+    "url": "https://freewebtooncoins.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "furioscans",
+    "label": "Furio Scans",
+    "url": "https://furioscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "gekkouscans",
+    "label": "Gekkou Scans",
+    "url": "https://gekkou.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "getmanhwa",
+    "label": "GetManhwa",
+    "url": "https://getmanhwa.co",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.727Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "ghostfansub",
+    "label": "Ghost Fansub",
+    "url": "https://ghostfansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "turkish"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "gooffansub",
+    "label": "Goof Fansub",
+    "url": "https://gooffansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "grazescans",
+    "label": "GrazeScans",
+    "url": "https://grazescans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "overrides": {
+      "queryChapters": "div#chapterlist ul li a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "guncelmanga",
+    "label": "Güncel Manga",
+    "url": "https://guncelmanga.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "gurukomik",
+    "label": "GuruKomik",
+    "url": "https://gurukomik.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "fusionscanlation-hentai",
+    "label": "H Fusion Scanlation",
+    "url": "https://h.fusionscanlation.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "spanish"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "helveticascans",
+    "label": "HelveticaScans",
+    "url": "https://helveticascans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/r/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "hniscantrad",
+    "label": "HNI-Scantrad",
+    "url": "http://hni-scantrad.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "french",
+      "scanlation"
+    ],
+    "path": "/lel/directory/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "immortalupdates",
+    "label": "Immortal Updates",
+    "url": "https://mortalsgroove.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "isekaiscan",
+    "label": "IsekaiScan.to",
+    "url": "https://isekaiscan.to",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "iskultripscans",
+    "label": "Iskultrip Scans",
+    "url": "http://www.maryfaye.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/reader/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "japitcomics",
+    "label": "Japit Comics",
+    "url": "https://j-comics.ru",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "russian"
+    ],
+    "language": "ru",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "jiangzaitoon",
+    "label": "Jiangzaitoon",
+    "url": "https://jiangzaitoon.dev",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "turkish"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "justforfun",
+    "label": "Just for Fun",
+    "url": "https://just-for-fun.ru",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "russian"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "katakomik",
+    "label": "Katakomik",
+    "url": "https://katakomik.my.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "kawascans",
+    "label": "KawaScans",
+    "url": "https://kawascans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "kireicake",
+    "label": "KireiCake",
+    "url": "https://reader.kireicake.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "kirishimafansub",
+    "label": "KirishimaFansub",
+    "url": "https://www.kirishimafansub.net",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "path": "/reader/",
+    "language": "spanish",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "klankomik",
+    "label": "KlanKomik",
+    "url": "https://klankomik.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "komikgo",
+    "label": "KomikGo",
+    "url": "https://komikgo.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "komikmama",
+    "label": "Komikmama",
+    "url": "https://komikmama.co",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "overrides": {
+      "queryChapters": "div.bxcl ul li div.eph-num a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "komikplay",
+    "label": "KomikPlay",
+    "url": "https://komikplay.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/daftar-komik/",
+    "overrides": {
+      "querMangaTitleFromURI": "div.series-title h2",
+      "queryMangas": "div.mangalist-blc ul li.Manga a.series",
+      "queryChapters": "div.series-chapter ul.series-chapterlist li div.flexch-infoz a",
+      "queryChaptersTitle": "span",
+      "queryChaptersTitleBloat": "span > span.date",
+      "queryPages": "div.reader-area img[src]:not([src=\"\"])"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "komiktap-mdo",
+    "label": "KomikTap (MDO)",
+    "url": "https://manhwa.komiktap.co",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "indonesian"
+    ],
+    "overrides": {
+      "queryTitleForURI": "div.post-title h1"
+    },
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "leryaoi",
+    "label": "LerYaoi",
+    "url": "https://leryaoi.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "portuguese",
+      "webtoon"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "lunarscans",
+    "label": "Lunar Scans",
+    "url": "https://lunarscan.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english",
+      "scanlation",
+      "hentai"
+    ],
+    "path": "/series/list-mode/",
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "secretscans",
+    "label": "Lynx Scans",
+    "url": "https://lynxscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/comics/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.728Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangacave",
+    "label": "Manga Cave",
+    "url": "https://mangacave.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangacrab",
+    "label": "Manga Crab",
+    "url": "https://mangacrab.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "fenixscan",
+    "label": "Manga Fenix",
+    "url": "https://manga-fenix.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangagohan",
+    "label": "Manga Gohan",
+    "url": "https://mangagohan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "japanese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangakeyfi",
+    "label": "Manga Keyfi",
+    "url": "https://mangakeyfi.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "mangakio",
+    "label": "Manga Kio",
+    "url": "https://mangakio.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "mangalord",
+    "label": "Manga Lord",
+    "url": "https://www.mangalord.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "manga-nato",
+    "label": "Manga Nato",
+    "url": "https://manga-nato.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangarockteam",
+    "label": "Manga Rock Team",
+    "url": "https://mangarockteam.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangarocky",
+    "label": "Manga Rocky",
+    "url": "https://mangarocky.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangaweebs",
+    "label": "Manga Weebs",
+    "url": "https://mangaweebs.in",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "manga68",
+    "label": "Manga68",
+    "url": "https://manga68.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangabob",
+    "label": "MangaBob",
+    "url": "https://mangabob.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "mangaboss",
+    "label": "Mangaboss",
+    "url": "https://mangaboss.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english",
+      "webtoon"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangachill",
+    "label": "MangaChill",
+    "url": "https://toonchill.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "mangadiyari",
+    "label": "MangaDiyari",
+    "url": "https://manga-diyari.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangaforfree",
+    "label": "MangaForFree",
+    "url": "https://mangaforfree.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english",
+      "hentai"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangagenki",
+    "label": "MangaGenki",
+    "url": "https://mangagenki.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/?list",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangaindoMe",
+    "label": "MangaindoMe",
+    "url": "https://mangaindo.me",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangalaw",
+    "label": "Mangalaw",
+    "url": "https://mangalaw.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "japanese"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangasusuku",
+    "label": "MangaSusuku",
+    "url": "https://mangasusuku.xyz ",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/komik/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "mangateca",
+    "label": "MangaTeca",
+    "url": "https://www.mangateca.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "hentai",
+      "portuguese"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangatellers",
+    "label": "Mangatellers",
+    "url": "http://www.mangatellers.gr",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/reader/reader/list/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangazuki",
+    "label": "Mangazuki",
+    "url": "https://mangazuki.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangazuki-club",
+    "label": "Mangazuki Raws",
+    "url": "https://mangazuki.club",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "high-quality",
+      "raw"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "manhuabox",
+    "label": "ManhuaBox",
+    "url": "https://manhuabox.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "div.reading-content p source"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "manhuadex",
+    "label": "ManHuaDex",
+    "url": "https://manhuadex.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "manhuadragon",
+    "label": "ManhuaDragon",
+    "url": "https://manhuadragon.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.729Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "manhuaes",
+    "label": "ManhuaES",
+    "url": "https://manhuaes.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "figure source, div.page-break source"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "manhuas",
+    "label": "Manhuamix",
+    "url": "https://manhuamix.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "manhwalist",
+    "label": "Manhwa List",
+    "url": "https://manhwalist.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/?list",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "miraclescans",
+    "label": "Miracle Scans",
+    "url": "https://miraclescans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mmscans",
+    "label": "MMSCANS",
+    "url": "https://mm-scans.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryMangas": "div.item-summary a",
+      "queryPlaceholder": "[id^=\"manga-chapters-holder\"]",
+      "queryChapters": "li.chapter-li > a",
+      "queryChaptersTitleBloat": "span.chapter-release-date"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "moonwitchinlove",
+    "label": "Moon Witch In Love",
+    "url": "https://moonwitchinlovescan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mundowuxia",
+    "label": "Mundo Wuxia",
+    "url": "https://mundowuxia.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "natsuid",
+    "label": "NatsuID",
+    "url": "https://natsu.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "nekoscan",
+    "label": "NEKOSCAN",
+    "url": "https://nekoscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "div.page-break source, div.text-left p source"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "ninjascan",
+    "label": "Ninja Scan",
+    "url": "https://ninjascan.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "ninjascans",
+    "label": "NinjaScans",
+    "url": "https://ninjascans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "onmanga",
+    "label": "On Manga",
+    "url": "https://onmanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "owscan",
+    "label": "Ow Scan",
+    "url": "https://owscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "pairoftwo",
+    "label": "Pair of 2",
+    "url": "https://po2scans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "pijamalikoi",
+    "label": "Pijamalı Koi",
+    "url": "https://pijamalikoi.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish",
+      "scanlation"
+    ],
+    "path": "/m/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "platinumscans",
+    "label": "PlatinumScans",
+    "url": "https://platinumscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.730Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "pmscans-archive",
+    "label": "PMScans (Archive)",
+    "url": "https://www.pmscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "porncomixonline",
+    "label": "PornComixOnline",
+    "url": "https://www.porncomixonline.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "porn",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "prismahentai",
+    "label": "Prisma Hentai",
+    "url": "https://prismahentai.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "lyrascans",
+    "label": "Quantum Scans",
+    "url": "https://readers-point.space",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english",
+      "scanlation"
+    ],
+    "path": "/series/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "rawmangas",
+    "label": "RAWMangas",
+    "url": "https://rawmangas.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "realmscansarabic",
+    "label": "RealmScans Arabic",
+    "url": "https://ar.realmscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "arabic"
+    ],
+    "path": "/series/?list",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "renascencescans",
+    "label": "RenascenceScans",
+    "url": "https://new.renascans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "resetscans",
+    "label": "Reset Scans",
+    "url": "https://reset-scans.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryChapters": "li.wp-manga-chapter div.li__text > a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "rio2manga",
+    "label": "Rio2Manga",
+    "url": "https://rio2manga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "senpaiediciones",
+    "label": "Senpai Ediciones",
+    "url": "https://senpaiediciones.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "sheamanga",
+    "label": "Shea Manga",
+    "url": "https://sheamanga.my.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "shieldmanga",
+    "label": "Shield Manga",
+    "url": "https://shieldmanga.club",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryChapters": "li.wp-manga-chapter > a, li.wp-manga-hapter > a",
+      "queryPages": "div.page-break source, div.page-beak source"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "shojoscans",
+    "label": "ShojoScans",
+    "url": "https://shojoscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english",
+      "scanlation"
+    ],
+    "path": "/comics/list-mode/",
+    "overrides": {
+      "queryChapters": "div#chapterlist ul li a"
+    },
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.731Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "shoujohearts",
+    "label": "ShoujoHearts",
+    "url": "http://shoujohearts.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/reader/directory/",
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "shoujosense",
+    "label": "ShoujoSense",
+    "url": "http://reader.shoujosense.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "silencescan",
+    "label": "Silence Scan",
+    "url": "https://silencescan.com.br",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "skscans",
+    "label": "SK Scans (Sleeping Knight)",
+    "url": "https://skscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "stickhorse",
+    "label": "Stick Horse",
+    "url": "https://www.stickhorse.cl",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "comic",
+      "spanish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "storminheaven",
+    "label": "Storm in Heaven",
+    "url": "https://www.storm-in-heaven.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "italian",
+      "scanlation"
+    ],
+    "path": "/reader-sih/directory/",
+    "language": "italian",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "summanga",
+    "label": "SumManga",
+    "url": "https://summanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english",
+      "webtoon"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "teabeercomics",
+    "label": "Teabeer Comics",
+    "url": "https://teabeercomics.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "comic",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "apolloteam",
+    "label": "The Apollo Team",
+    "url": "https://theapollo.team",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.732Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "titanmanga",
+    "label": "Titan Manga",
+    "url": "https://titanmanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "turkish",
+      "webtoon"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "tortugaceviri",
+    "label": "Tortuga Çeviri",
+    "url": "https://tortuga-ceviri.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "turkish"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "trashscanlations",
+    "label": "TrashScanlations",
+    "url": "https://trashscanlations.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "tukangkomik",
+    "label": "TukangKomik",
+    "url": "https://tukangkomik.co",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "twilightscans",
+    "label": "Twilight Scans",
+    "url": "https://twilightscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "visbellum",
+    "label": "Visbellum",
+    "url": "https://visbellum.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "wakascan",
+    "label": "WAKASCAN",
+    "url": "https://wakascan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "french"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "webcomicme",
+    "label": "WebComic (Webcomic.me)",
+    "url": "https://webcomic.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "webtoonily",
+    "label": "WebToonily",
+    "url": "https://webtoonily.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "westmanga",
+    "label": "WestManga",
+    "url": "https://westmanga.me",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "whatstatus",
+    "label": "WhatStatus",
+    "url": "https://whatstatus.co",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "worldthree",
+    "label": "WorldThree",
+    "url": "http://www.slide.world-three.org",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "yanpfansub",
+    "label": "Yanp Fansub",
+    "url": "https://yanpfansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "yaoifanclube",
+    "label": "Yaoi Fan Clube",
+    "url": "https://yaoifanclube2.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "portuguese"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "unreachable"
+  },
+  {
+    "id": "yaoitoshokan",
+    "label": "Yaoi Toshokan",
+    "url": "https://www.yaoitoshokan.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "nsfw": true,
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  },
+  {
+    "id": "mangaaction",
+    "label": "مانجا اكشن (Manga Action)",
+    "url": "https://mangaaction.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled",
+    "removedAt": "2026-07-15T13:07:01.733Z",
+    "removedBecause": "dead"
+  }
+]

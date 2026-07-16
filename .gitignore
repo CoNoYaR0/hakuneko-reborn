@@ -1,0 +1,15 @@
+# Dependencies & build output
+node_modules/
+out/
+dist/
+*.log
+*.tsbuildinfo
+
+# Python bytecode (skill scripts)
+__pycache__/
+*.pyc
+
+# Third-party dev skill, vendored locally and ships no license of its own — not
+# ours to redistribute. Install it yourself if you're doing UI work here:
+# https://github.com/nextlevelbuilder/ui-ux-pro-max-skill  →  .claude/skills/
+.claude/skills/

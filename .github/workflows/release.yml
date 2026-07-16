@@ -1,0 +1,49 @@
+name: Release
+
+# Tag a release: `git tag v1.0.0-alpha.0 && git push --tags`
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write   # electron-builder uploads installers to the GitHub Release
+
+jobs:
+  build:
+    name: Build & publish (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest   # AppImage + deb + rpm
+          - os: windows-latest  # NSIS installer + portable
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - run: npm ci
+      - run: npm run build
+
+      # electron-builder reads publish: from electron-builder.yml and uploads
+      # the installers + latest*.yml update manifests to the tag's GitHub Release.
+      #
+      # Code signing is opt-in: electron-builder auto-signs when these env vars
+      # are present. Leave the secrets unset and the build stays unsigned (fine
+      # for Linux and testing). Add them (repo → Settings → Secrets) to sign:
+      #   Windows: CSC_LINK (base64 .pfx), CSC_KEY_PASSWORD
+      #   macOS:   CSC_LINK/CSC_KEY_PASSWORD (.p12) + APPLE_ID,
+      #            APPLE_APP_SPECIFIC_PASSWORD, APPLE_TEAM_ID (for notarization)
+      - name: Package & publish
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CSC_LINK: ${{ secrets.CSC_LINK }}
+          CSC_KEY_PASSWORD: ${{ secrets.CSC_KEY_PASSWORD }}
+          APPLE_ID: ${{ secrets.APPLE_ID }}
+          APPLE_APP_SPECIFIC_PASSWORD: ${{ secrets.APPLE_APP_SPECIFIC_PASSWORD }}
+          APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+        run: npx electron-builder --publish always

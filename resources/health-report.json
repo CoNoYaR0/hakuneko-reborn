@@ -1,0 +1,4446 @@
+{
+  "generatedAt": "2026-07-14T12:42:01.215Z",
+  "passes": 3,
+  "counts": {
+    "alive": 174,
+    "unknown": 116,
+    "protected": 50,
+    "moved": 13,
+    "tls-broken": 3,
+    "origin-down": 3,
+    "refused": 1
+  },
+  "sources": [
+    {
+      "id": "1stkissmanhua",
+      "label": "1st Kiss Manhua",
+      "url": "https://1stkissmanhua.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4657b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "365manga",
+      "label": "365Manga",
+      "url": "https://365manga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 474b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "8musesxxx",
+      "label": "8 MUSES XXX",
+      "url": "https://8muses.xxx",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "acescans",
+      "label": "Ace Scans",
+      "url": "https://acescans.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 474b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "akumanga",
+      "label": "AkuManga",
+      "url": "https://akumanga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 474b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "aloalivn",
+      "label": "Aloalivn",
+      "url": "https://aloalivn.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4645b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "alphascans",
+      "label": "Alpha Scans",
+      "url": "https://alpha-scans.org",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 477b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "anikiga",
+      "label": "Anikiga",
+      "url": "https://anikiga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "animaregia",
+      "label": "Anima Regia",
+      "url": "https://animaregia.net",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1060b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "anitationarts",
+      "label": "Anitation Arts",
+      "url": "https://anitationarts.org",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "antisensescans",
+      "label": "AntisenseScans",
+      "url": "http://antisensescans.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "anubisscans",
+      "label": "Anubis Scans",
+      "url": "https://anubisscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "arthurscan",
+      "label": "Arthur Scan",
+      "url": "https://arthurscan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "bacamangaorg",
+      "label": "MangaTale",
+      "url": "https://mangatale.id",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 523, 0b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "blmanhwaclub",
+      "label": "BL Manhwa Club",
+      "url": "https://blmanhwa.club",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1056b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "chibimanga",
+      "label": "ChibiManga",
+      "url": "https://www.cmreader.info",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 479b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "cizgiromanarsivi",
+      "label": "Çizgi Roman Arşivi (CizgiRomanArsivi)",
+      "url": "https://cizgiromanarsivi.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 530, 8259b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "cocorip",
+      "label": "CocoRip",
+      "url": "https://cocorip.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1048b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "comicdom",
+      "label": "ComicDom",
+      "url": "https://comicdom.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4641b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "copypastescan",
+      "label": "Copy & Paste Scan",
+      "url": "https://copypastescan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "culturedworks",
+      "label": "CulturedWorks",
+      "url": "https://culturedworks.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 56284b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "deathtollscans",
+      "label": "DeathTollScans",
+      "url": "https://reader.deathtollscans.net",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 22213b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "decadencescans",
+      "label": "Decadence",
+      "url": "https://reader.decadencescans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 118670b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "deliscan",
+      "label": "Deliscan",
+      "url": "https://deliscan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1033b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "diamondfansub",
+      "label": "DiamondFansub",
+      "url": "https://diamondfansub.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "disasterscans",
+      "label": "Disaster Scans",
+      "url": "https://disasterscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 479b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "doujin69",
+      "label": "Doujin69",
+      "url": "https://doujin69.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "duniakomik",
+      "label": "Dunia Komik",
+      "url": "https://duniakomik.org",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1060b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "fallenangelsscans",
+      "label": "FallenAngelsScans",
+      "url": "https://manga.fascans.com",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 479b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "fbsquads",
+      "label": "Fleur Blanche Squads",
+      "url": "https://fbsquadx.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "fizmanga",
+      "label": "FizManga",
+      "url": "https://fizmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4645b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "foxwhitescan",
+      "label": "Fox White Scan",
+      "url": "https://foxwhite.com.br",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 28805b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "freakscans",
+      "label": "Freak Scans",
+      "url": "https://freakscans.com/",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 476b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "futari",
+      "label": "Futari",
+      "url": "https://futari.info",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1048b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "galaxyaction",
+      "label": "Galaxy Action",
+      "url": "https://galaxyaction.site",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "gdscans",
+      "label": "GD Scans",
+      "url": "https://gdscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "glorymanga",
+      "label": "GloryManga",
+      "url": "https://glorymanga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 476b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "hentaizone",
+      "label": "HentaiZone",
+      "url": "https://hentaizone.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "heromanhua",
+      "label": "HeroManhua ✕ Leveler",
+      "url": "https://levelerscans.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "hniscantrad",
+      "label": "HNI-Scantrad",
+      "url": "http://hni-scantrad.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 7626b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "hscans",
+      "label": "HSCANS",
+      "url": "https://hscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "hunterfansub",
+      "label": "Hunter Fansub",
+      "url": "https://hunterfansub.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "hunterscan",
+      "label": "Hunters Scan",
+      "url": "https://htoons.online",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1576b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "imperfectcomic",
+      "label": "Imperfect Comic",
+      "url": "https://imperfectcomic.org",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 480b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "infrafandub",
+      "label": "Infra Fandub",
+      "url": "https://infrafandub.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "inmortalscan",
+      "label": "Inmortal Scan",
+      "url": "https://manga.mundodrama.site",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1580b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "isekaiscan",
+      "label": "IsekaiScan.to",
+      "url": "https://isekaiscan.to",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4649b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "iskultripscans",
+      "label": "Iskultrip Scans",
+      "url": "http://www.maryfaye.net",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 7102b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "japitcomics",
+      "label": "Japit Comics",
+      "url": "https://j-comics.ru",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 9708b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "kaiscans",
+      "label": "Kai Scans",
+      "url": "https://kaiscans.org",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 474b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "kangaryuteam",
+      "label": "Kangaryu Team",
+      "url": "https://kangaryu-team.fr",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 47883b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "kanzenin",
+      "label": "Kanzenin",
+      "url": "https://kanzenin.info",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "karatcamscans",
+      "label": "Karatcam Scans",
+      "url": "https://karatcam-scans.fr",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1159b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "katakomik",
+      "label": "Katakomik",
+      "url": "https://katakomik.my.id",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 23388b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "kirishimafansub",
+      "label": "KirishimaFansub",
+      "url": "https://www.kirishimafansub.net",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1092b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "klankomik",
+      "label": "KlanKomik",
+      "url": "https://klankomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 11279b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "klikmanga",
+      "label": "KlikManga",
+      "url": "https://klikmanga.id",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "kombatch",
+      "label": "KoMBatch",
+      "url": "https://kombatch.cc",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 94157b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "komikgo",
+      "label": "KomikGo",
+      "url": "https://komikgo.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4641b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "komikindo",
+      "label": "KomikIndo",
+      "url": "https://komiksin.id",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 473b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "komikmama",
+      "label": "Komikmama",
+      "url": "https://komikmama.co",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4645b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "komiktap",
+      "label": "KomikTap",
+      "url": "https://komiktap.info",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "komiktap-mdo",
+      "label": "KomikTap (MDO)",
+      "url": "https://manhwa.komiktap.co",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1069b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "ksgroupscans",
+      "label": "KSGroupScans",
+      "url": "https://ksgroupscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "legionscan",
+      "label": "LegionScan",
+      "url": "https://legionscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "lelmanga",
+      "label": "LELManga",
+      "url": "https://www.lelmanga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "leomanga",
+      "label": "LeoManga",
+      "url": "https://leomanga.me",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 473b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "leryaoi",
+      "label": "LerYaoi",
+      "url": "https://leryaoi.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4641b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "lhtranslation",
+      "label": "LHTranslation",
+      "url": "https://lhtranslation.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "lilymanga",
+      "label": "Lily Manga",
+      "url": "https://lilymanga.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "limascans",
+      "label": "Lima Scans",
+      "url": "http://limascans.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "lolivault",
+      "label": "LoliVault",
+      "url": "https://lolivault.net",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "lordmanga",
+      "label": "Lord Manga",
+      "url": "https://lordmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "lunarscans",
+      "label": "Lunar Scans",
+      "url": "https://lunarscan.org",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 5298b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "manga41",
+      "label": "Manga 41",
+      "url": "https://manga41.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 473b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "manga68",
+      "label": "Manga68",
+      "url": "https://manga68.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4641b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangaarabics",
+      "label": "MangaArabics",
+      "url": "https://mangaarabics.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangabaz",
+      "label": "Mangabaz",
+      "url": "https://mangabaz.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 474b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangaboss",
+      "label": "Mangaboss",
+      "url": "https://mangaboss.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 27105b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangacanblog",
+      "label": "MangaCan Blog",
+      "url": "https://mangacanblog.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 80593b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangachill",
+      "label": "MangaChill",
+      "url": "https://toonchill.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1056b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangaclash",
+      "label": "Manga Clash",
+      "url": "https://mangaclash.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangadods",
+      "label": "MANGADODS",
+      "url": "https://www.mangadods.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangagohan",
+      "label": "Manga Gohan",
+      "url": "https://mangagohan.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 476b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangagreat",
+      "label": "MANGAGREAT",
+      "url": "https://mangagreat.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangahubfr",
+      "label": "MangaHub.FR",
+      "url": "https://mangahub.fr",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangaindoMe",
+      "label": "MangaindoMe",
+      "url": "https://mangaindo.me",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4641b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangakomi",
+      "label": "Manga Komi",
+      "url": "https://mangakomi.io",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 474b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangamitsu",
+      "label": "Manga Mitsu",
+      "url": "https://mangamitsu.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangamonarca",
+      "label": "Monarcamanga",
+      "url": "https://monarcamanga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 478b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "manganine",
+      "label": "Manga Nine",
+      "url": "https://manganine.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangaonlineteam",
+      "label": "Manga Online Team",
+      "url": "https://mangaonlineteam.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangaowlio",
+      "label": "MangaOwl.io",
+      "url": "https://mangaowl.io",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangapl",
+      "label": "MangaPL",
+      "url": "https://mangapl.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 473b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangaproz",
+      "label": "Manga Pro Z",
+      "url": "https://mangaproz.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangarawr",
+      "label": "MangaRawr",
+      "url": "https://mangarawr.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangaread",
+      "label": "MangaRead",
+      "url": "https://www.mangaread.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangareadco",
+      "label": "Manga Read",
+      "url": "https://mangaread.co",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangarolls",
+      "label": "MangaRolls",
+      "url": "https://mangarolls.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1060b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangarose",
+      "label": "MangaRose",
+      "url": "https://mangarose.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 475b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangarow",
+      "label": "MangaRow",
+      "url": "https://www.mangarow.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 478b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangastreamcc",
+      "label": "MangaStream",
+      "url": "https://www.mangastream.cc",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 480b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangasushi",
+      "label": "Mangasushi",
+      "url": "https://mangasushi.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangasusu",
+      "label": "MangaSusu",
+      "url": "https://m.mangasusu.co",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 476b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangasusuku",
+      "label": "MangaSusuku",
+      "url": "https://mangasusuku.xyz ",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 477b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangatellers",
+      "label": "Mangatellers",
+      "url": "http://www.mangatellers.gr",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 26362b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangatx",
+      "label": "Mangatx",
+      "url": "https://mangatx.to",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 472b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangawow",
+      "label": "MangaWOW",
+      "url": "https://mangawow.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangayuca",
+      "label": "MangaYuca",
+      "url": "https://mangayuca.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangazuki",
+      "label": "Mangazuki",
+      "url": "https://mangazuki.me",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4645b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mangazuki-club",
+      "label": "Mangazuki Raws",
+      "url": "https://mangazuki.club",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1060b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "manhatic",
+      "label": "ManHatic",
+      "url": "https://manhatic.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "manhwaid",
+      "label": "Manhwaid",
+      "url": "https://manhwaid.fun",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 474b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "manhwax",
+      "label": "Manhwax",
+      "url": "https://manhwax.org",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 473b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "markscans",
+      "label": "Mark Scans",
+      "url": "https://markscans.online",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "masterkomik",
+      "label": "MasterKomik",
+      "url": "https://masterkomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1064b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "menudofansub",
+      "label": "MenudoFansub",
+      "url": "http://www.menudo-fansub.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 75236b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "milftoon",
+      "label": "Milftoon Comics",
+      "url": "https://milftoon.xxx",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "miraclescans",
+      "label": "Miracle Scans",
+      "url": "https://miraclescans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "mundowuxia",
+      "label": "Mundo Wuxia",
+      "url": "https://mundowuxia.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 3129b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "natsuid",
+      "label": "NatsuID",
+      "url": "https://natsu.id",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 29505b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "nightcomic",
+      "label": "NIGHT COMIC",
+      "url": "https://www.nightcomic.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 2857b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "nijitranslations",
+      "label": "مدونة نيجي (Niji Translations)",
+      "url": "https://niji-translations.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "ninjascans",
+      "label": "NinjaScans",
+      "url": "https://ninjascans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4649b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "nirvanamanga",
+      "label": "NirvanaManga",
+      "url": "https://nirvanamanga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "noranofansub",
+      "label": "NoraNoFansub",
+      "url": "https://www.noranofansub.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 0b",
+      "passes": [
+        "unknown",
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "novelmic",
+      "label": "NovelMic",
+      "url": "https://novelmic.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "nyrax",
+      "label": "Nyrax",
+      "url": "https://nyraxmanga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "otakusekaiscan",
+      "label": "OtakuSekai Scan",
+      "url": "https://otkscanlator.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "oxapk",
+      "label": "Oxapk",
+      "url": "https://oxapk.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 0b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "ozulscans-en",
+      "label": "Ozul Scans (EN)",
+      "url": "https://ozulscansen.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 477b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "piedpiperfb",
+      "label": "Pied Piper",
+      "url": "https://piedpiperfansub.me",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1584b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "pmscans",
+      "label": "Rackus",
+      "url": "https://rackusreads.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "powermanga",
+      "label": "PowerManga",
+      "url": "http://read.powermanga.org",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "projetoscanlator",
+      "label": "Projeto Scanlator",
+      "url": "https://projetoscanlator.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1588b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "pzykosis666hfansub",
+      "label": "Pzykosis666HFansub",
+      "url": "https://pzykosis666hfansub.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "raiderscans",
+      "label": "RaiderScans",
+      "url": "https://raiderscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "randomscan",
+      "label": "Lura Toon",
+      "url": "https://luratoon.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "rawkuma",
+      "label": "Rawkuma",
+      "url": "https://rawkuma.net",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "rawmangas",
+      "label": "RAWMangas",
+      "url": "https://rawmangas.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4645b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "resetscans",
+      "label": "Reset Scans",
+      "url": "https://reset-scans.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 8027b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "rightdarkscan",
+      "label": "RightDarkScan",
+      "url": "https://rightdark-scan.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1584b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "rio2manga",
+      "label": "Rio2Manga",
+      "url": "https://rio2manga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4645b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "ruyamanga",
+      "label": "Rüya Manga",
+      "url": "https://www.ruyamanga2.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "samuraiscan",
+      "label": "Samurai Scan",
+      "url": "https://latan.visorsmr.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "scanfr",
+      "label": "Scan FR",
+      "url": "https://www.scan-fr.org",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 477b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "scanop",
+      "label": "Scan OP",
+      "url": "https://scan-op.cc",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1044b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "scanvf",
+      "label": "Scan VF",
+      "url": "https://www.scan-vf.net",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 68667b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "secretscans",
+      "label": "Lynx Scans",
+      "url": "https://lynxscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 89247b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "sectscans",
+      "label": "Sect Scans",
+      "url": "https://sectscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1056b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "shadowmangas",
+      "label": "ShadowMangas",
+      "url": "https://shadowmangas.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 478b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "sheakomik",
+      "label": "SheaKomik",
+      "url": "https://sheakomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1056b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "shinzooscans",
+      "label": "Shinzoo Scans",
+      "url": "https://shinzooscan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "shootingstarscans",
+      "label": "Shooting Star Scans",
+      "url": "https://shootingstarscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 521, 0b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "shoujohearts",
+      "label": "ShoujoHearts",
+      "url": "http://shoujohearts.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 5298b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "silencescan",
+      "label": "Silence Scan",
+      "url": "https://silencescan.com.br",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 2855b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "sugarbbscan",
+      "label": "Sugar Babies Scans",
+      "url": "https://sugarbbscan.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 27378b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "summertoon",
+      "label": "Summertoon",
+      "url": "https://summertoon.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "taptrans",
+      "label": "TapTrans",
+      "url": "https://taptaptaptaptap.net",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 16508b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "tatakaescan",
+      "label": "Tatakae Scan",
+      "url": "https://tatakaescan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 114b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "thecatscans",
+      "label": "TheCatScans",
+      "url": "https://reader2.thecatscans.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 485b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "theguildscans",
+      "label": "The Guild Scans",
+      "url": "https://theguildscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1072b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "toomtam",
+      "label": "ToomTam",
+      "url": "https://toomtam-manga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "toonmanga",
+      "label": "ToonManga",
+      "url": "https://toonmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 429, 17b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "topmanhuanet",
+      "label": "LatestManga",
+      "url": "https://latestmanga.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 477b",
+      "passes": [
+        "unknown",
+        "alive"
+      ]
+    },
+    {
+      "id": "tortugaceviri",
+      "label": "Tortuga Çeviri",
+      "url": "https://tortuga-ceviri.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 3931b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "tritiniascans",
+      "label": "Tritinia Scans",
+      "url": "https://tritinia.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "tukangkomik",
+      "label": "TukangKomik",
+      "url": "https://tukangkomik.co",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1060b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "twilightscans",
+      "label": "Twilight Scans",
+      "url": "https://twilightscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 4657b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "vinmanga",
+      "label": "Vinmanga",
+      "url": "https://vinload.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1048b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "wantedteam",
+      "label": "Wanted Team",
+      "url": "http://reader.onepiecenakama.pl",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "HTTP 404, 1249b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "warungkomik",
+      "label": "WarungKomik",
+      "url": "https://warungkomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1064b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "webtoonily",
+      "label": "WebToonily",
+      "url": "https://webtoonily.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 1060b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "zinmanga",
+      "label": "Zin Manga",
+      "url": "https://mangazin.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "HTTP 200, 120000b",
+      "passes": [
+        "alive"
+      ]
+    },
+    {
+      "id": "anzmanga",
+      "label": "AnzManga",
+      "url": "https://www.anzmangashd.com",
+      "template": "mangareader-cms",
+      "verdict": "moved",
+      "evidence": "redirects to anzmanga25.com",
+      "movedTo": "https://www.anzmanga25.com/",
+      "passes": [
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "guncelmanga",
+      "label": "Güncel Manga",
+      "url": "https://guncelmanga.net",
+      "template": "wordpress-madara",
+      "verdict": "moved",
+      "evidence": "redirects to minka.in",
+      "movedTo": "https://minka.in/",
+      "passes": [
+        "unknown",
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "helveticascans",
+      "label": "HelveticaScans",
+      "url": "https://helveticascans.com",
+      "template": "foolslide",
+      "verdict": "moved",
+      "evidence": "redirects to assortedscans.com",
+      "movedTo": "https://assortedscans.com/",
+      "passes": [
+        "unknown",
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "imperiodabritannia",
+      "label": "Imperio Da Britannia",
+      "url": "https://imperiodabritannia.com",
+      "template": "wordpress-madara",
+      "verdict": "moved",
+      "evidence": "redirects to imperiodabritannia.net",
+      "movedTo": "https://imperiodabritannia.net/",
+      "passes": [
+        "unknown",
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "lamimanga",
+      "label": "Lami-Manga",
+      "url": "https://lami-manga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "moved",
+      "evidence": "redirects to mangalami.com",
+      "movedTo": "https://mangalami.com/",
+      "passes": [
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "mangarawonline",
+      "label": "Mangaraw Online",
+      "url": "http://mangaraw.online",
+      "template": "mangareader-cms",
+      "verdict": "moved",
+      "evidence": "redirects to kuronavi.one",
+      "movedTo": "https://kuronavi.one/",
+      "passes": [
+        "unknown",
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "platinumscans",
+      "label": "PlatinumScans",
+      "url": "https://platinumscans.com",
+      "template": "wordpress-madara",
+      "verdict": "moved",
+      "evidence": "redirects to itsybelle.net",
+      "movedTo": "https://itsybelle.net/",
+      "passes": [
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "readmanhua",
+      "label": "ReadManhua",
+      "url": "https://readmanhua.net",
+      "template": "wordpress-madara",
+      "verdict": "moved",
+      "evidence": "redirects to themeraider.com",
+      "movedTo": "https://themeraider.com/",
+      "passes": [
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "storminheaven",
+      "label": "Storm in Heaven",
+      "url": "https://www.storm-in-heaven.net",
+      "template": "foolslide",
+      "verdict": "moved",
+      "evidence": "redirects to theycalleditthediamondblog.com",
+      "movedTo": "https://theycalleditthediamondblog.com/",
+      "passes": [
+        "unknown",
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "universoyuri",
+      "label": "Universo Yuri",
+      "url": "http://www.universoyuri.com",
+      "template": "mangareader-cms",
+      "verdict": "moved",
+      "evidence": "redirects to expireddomains.com",
+      "movedTo": "https://expireddomains.com/domain/universoyuri.com?utm_source=redi",
+      "passes": [
+        "moved"
+      ]
+    },
+    {
+      "id": "vermanhwas",
+      "label": "VerManhwas",
+      "url": "https://vermanhwa.es",
+      "template": "wordpress-madara",
+      "verdict": "moved",
+      "evidence": "redirects to vermanhwa.com",
+      "movedTo": "https://vermanhwa.com/",
+      "passes": [
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "westmanga",
+      "label": "WestManga",
+      "url": "https://westmanga.me",
+      "template": "wordpress-mangastream",
+      "verdict": "moved",
+      "evidence": "redirects to westmanga.site",
+      "movedTo": "https://westmanga.site/",
+      "passes": [
+        "unknown",
+        "moved"
+      ]
+    },
+    {
+      "id": "yuriverso",
+      "label": "Yuri Verso",
+      "url": "https://yuri.live",
+      "template": "wordpress-madara",
+      "verdict": "moved",
+      "evidence": "redirects to yurionair.top",
+      "movedTo": "https://yurionair.top/",
+      "passes": [
+        "moved"
+      ]
+    },
+    {
+      "id": "flamescans-fr",
+      "label": "Mangas Scans",
+      "url": "https://mangas-scans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "origin-down",
+      "evidence": "HTTP 525 + CDN origin-down page",
+      "passes": [
+        "unknown",
+        "origin-down",
+        "origin-down"
+      ]
+    },
+    {
+      "id": "mangagecesi",
+      "label": "Manga Gecesi",
+      "url": "https://mangagecesi.com",
+      "template": "wordpress-madara",
+      "verdict": "origin-down",
+      "evidence": "HTTP 525 + CDN origin-down page",
+      "passes": [
+        "unknown",
+        "origin-down",
+        "origin-down"
+      ]
+    },
+    {
+      "id": "xunscans",
+      "label": "XuNScans",
+      "url": "https://xunscans.xyz",
+      "template": "wordpress-madara",
+      "verdict": "origin-down",
+      "evidence": "HTTP 526 + CDN origin-down page",
+      "passes": [
+        "origin-down",
+        "origin-down",
+        "origin-down"
+      ]
+    },
+    {
+      "id": "allporncomic",
+      "label": "AllPornComic",
+      "url": "https://allporncomic.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "amascan",
+      "label": "AMAScan",
+      "url": "https://amascan.com",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "astralmanga",
+      "label": "Astral-manga",
+      "url": "https://astral-manga.fr",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "bokugents",
+      "label": "Bokugen Translations",
+      "url": "https://bokugents.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "comicsvalley",
+      "label": "Comics Valley",
+      "url": "https://comicsvalley.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "detectiveconanar",
+      "label": "العربية  كونان (Conan Arabic)",
+      "url": "https://manga.detectiveconanar.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "doujinku",
+      "label": "Doujinku",
+      "url": "https://doujinku.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "dragontea",
+      "label": "Dragon Tea Scans",
+      "url": "https://dragontea.ink",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "drakescans",
+      "label": "DrakeScans",
+      "url": "https://drakecomic.org",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "dropescan",
+      "label": "Drope Scan",
+      "url": "https://dropescan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "eromanhwas",
+      "label": "Eromanhwas",
+      "url": "https://eromanhwas.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "fusionscanlation-hentai",
+      "label": "H Fusion Scanlation",
+      "url": "https://h.fusionscanlation.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "ghostfansub",
+      "label": "Ghost Fansub",
+      "url": "https://ghostfansub.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "hayalistic",
+      "label": "Hayalistic",
+      "url": "https://hayalistic.com.tr",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "hmanhwa",
+      "label": "HManhwa",
+      "url": "https://hmanhwa.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "itsyourightmanhua",
+      "label": "Its Your Right Manhua",
+      "url": "https://itsyourightmanhua.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "kissmangain",
+      "label": "Kissmanga",
+      "url": "https://kissmanga.in",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "komikav",
+      "label": "APKomik",
+      "url": "https://apkomik.cc",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "komikid",
+      "label": "Komikid",
+      "url": "https://www.komikid.com",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "manga-scantrad",
+      "label": "Manga-Scantrad",
+      "url": "https://manga-scantrad.net",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "mangaforfree",
+      "label": "MangaForFree",
+      "url": "https://mangaforfree.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "mangalike",
+      "label": "mangalike",
+      "url": "https://mangalike.org",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 404 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "mangalord",
+      "label": "Manga Lord",
+      "url": "https://www.mangalord.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "mangasorigines",
+      "label": "Mangas Origines",
+      "url": "https://mangas-origines.fr",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "mangaspark",
+      "label": "مانجا سبارك (MangaSpark)",
+      "url": "https://mangaspark.org",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 404 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "mangastarz",
+      "label": "مانجا ستارز (Mangastarz)",
+      "url": "https://manga-starz.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "mangazuki-raws",
+      "label": "Mangazuki RAWS",
+      "url": "https://raws.mangazuki.co",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "mangazuki-scans",
+      "label": "Mangazuki Scans",
+      "url": "https://mangazuki.co",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "manhuafast",
+      "label": "Manhuafast",
+      "url": "https://manhuafast.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "manhuaus",
+      "label": "Manhua Us",
+      "url": "https://manhuaus.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "manhwatop",
+      "label": "MANHWATOP",
+      "url": "https://manhwatop.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "minitwoscan",
+      "label": "MiniTwo Scan",
+      "url": "https://minitwoscan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "onmanga",
+      "label": "On Manga",
+      "url": "https://onmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "owscan",
+      "label": "Ow Scan",
+      "url": "https://owscan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "phoenix-scans",
+      "label": "Phoenix-Scans",
+      "url": "http://phoenix-scans.pl",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "ragnarokscan",
+      "label": "RagnarokScan",
+      "url": "https://ragnarokscan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "raijinscans",
+      "label": "Raijin Scans",
+      "url": "https://raijinscans.fr",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "setsuscans",
+      "label": "SetsuScans",
+      "url": "https://setsuscans.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "shirakami",
+      "label": "Shirakami",
+      "url": "https://shirakami.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "shojoscans",
+      "label": "ShojoScans",
+      "url": "https://shojoscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "shoujosense",
+      "label": "ShoujoSense",
+      "url": "http://reader.shoujosense.com",
+      "template": "foolslide",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "soulscans",
+      "label": "SoulsSans",
+      "url": "https://soulscans.my.id",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "titanmanga",
+      "label": "Titan Manga",
+      "url": "https://titanmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "unknown",
+        "protected"
+      ]
+    },
+    {
+      "id": "toongod",
+      "label": "ToonGod",
+      "url": "https://www.toongod.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "topcomicporno",
+      "label": "Top Comic Porno",
+      "url": "https://topcomicporno.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "topmanhua",
+      "label": "ManhuaTop",
+      "url": "https://manhuatop.org",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "traduccionesamistosas",
+      "label": "Traducciones Amistosas",
+      "url": "https://nartag.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 200 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "webtoonxyz",
+      "label": "WebtoonXYZ",
+      "url": "https://www.webtoon.xyz",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "xxxyaoi",
+      "label": "XXXYaoi",
+      "url": "https://3xyaoi.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "yaoiscan",
+      "label": "YaoiScan",
+      "url": "https://yaoiscan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "HTTP 403 + challenge page",
+      "passes": [
+        "protected"
+      ]
+    },
+    {
+      "id": "oniscans",
+      "label": "Oniscans",
+      "url": "https://www.oniscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "refused",
+      "evidence": "TCP connection refused",
+      "passes": [
+        "refused",
+        "refused",
+        "refused"
+      ]
+    },
+    {
+      "id": "apolloteam",
+      "label": "The Apollo Team",
+      "url": "https://theapollo.team",
+      "template": "wordpress-mangastream",
+      "verdict": "tls-broken",
+      "evidence": "TLS: ERR_TLS_CERT_ALTNAME_INVALID",
+      "passes": [
+        "tls-broken",
+        "tls-broken",
+        "tls-broken"
+      ]
+    },
+    {
+      "id": "kawascans",
+      "label": "KawaScans",
+      "url": "https://kawascans.com",
+      "template": "wordpress-madara",
+      "verdict": "tls-broken",
+      "evidence": "TLS: CERT_HAS_EXPIRED",
+      "passes": [
+        "unknown",
+        "tls-broken",
+        "tls-broken"
+      ]
+    },
+    {
+      "id": "whatstatus",
+      "label": "WhatStatus",
+      "url": "https://whatstatus.co",
+      "template": "wordpress-madara",
+      "verdict": "tls-broken",
+      "evidence": "TLS: CERT_HAS_EXPIRED",
+      "passes": [
+        "tls-broken",
+        "tls-broken",
+        "tls-broken"
+      ]
+    },
+    {
+      "id": "anatanomotokare",
+      "label": "Anata no Motokare",
+      "url": "http://motokare.xyz",
+      "template": "foolslide",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "apollcomics",
+      "label": "Apoll Comics",
+      "url": "https://apollcomics.xyz",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "apolltoons",
+      "label": "Apolltoons",
+      "url": "https://apolltoons.xyz",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "aquamanga",
+      "label": "AquaManga",
+      "url": "https://aquamanga.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "arcanescans",
+      "label": "Arcane Scans",
+      "url": "https://arcanescans.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "aresmanga",
+      "label": "Ares Manga",
+      "url": "https://fl-ares.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "ascalon",
+      "label": "Ascalon",
+      "url": "https://ascalonscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "atikrost",
+      "label": "Atikrost",
+      "url": "https://atikrost.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "ayatoon",
+      "label": "AYATOON",
+      "url": "https://ayatoon.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "azuremanga",
+      "label": "Azure Manga",
+      "url": "https://azuremanga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "bananascan",
+      "label": "Banana Scan",
+      "url": "https://banana-scan.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "bestmanga",
+      "label": "Best Manga",
+      "url": "https://bestmanga.club",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "bestmanhua",
+      "label": "Best Manhua",
+      "url": "https://bestmanhua.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "biamam",
+      "label": "Biamam Scans",
+      "url": "http://biamam.com",
+      "template": "mangareader-cms",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "cosmicscans",
+      "label": "Cosmic Scans",
+      "url": "https://cosmicscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "cosmicscansid",
+      "label": "Cosmic Scans ID",
+      "url": "https://cosmicscans.id",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "covenscan",
+      "label": "Coven Scan",
+      "url": "https://cvnscan.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "cypherscans",
+      "label": "Cypher Scans",
+      "url": "https://cypherscans.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "diskusscan",
+      "label": "Diskus Scan",
+      "url": "https://diskusscan.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "dokifansubs",
+      "label": "DokiFansubs",
+      "url": "https://kobato.hologfx.com",
+      "template": "foolslide",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "fenixscan",
+      "label": "Manga Fenix",
+      "url": "https://manga-fenix.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "freecomiconline",
+      "label": "Free Comic Online",
+      "url": "https://freecomiconline.me",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "freemanga",
+      "label": "Free Manga",
+      "url": "https://freemanga.me/",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "freewebtooncoins",
+      "label": "Free Webtoon Coins",
+      "url": "https://freewebtooncoins.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "furioscans",
+      "label": "Furio Scans",
+      "url": "https://furioscans.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "gateanimemanga",
+      "label": "GateAnimeMANGA",
+      "url": "https://manga.gateanime.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "gekkouscans",
+      "label": "Gekkou Scans",
+      "url": "https://gekkou.site",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "getmanhwa",
+      "label": "GetManhwa",
+      "url": "https://getmanhwa.co",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "gooffansub",
+      "label": "Goof Fansub",
+      "url": "https://gooffansub.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "grazescans",
+      "label": "GrazeScans",
+      "url": "https://grazescans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "gurukomik",
+      "label": "GuruKomik",
+      "url": "https://gurukomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "hentaiwebtoon",
+      "label": "Hentai Webtoon",
+      "url": "https://hentaiwebtoon.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "redirects to junk domain stripchat.com",
+      "movedTo": "https://stripchat.com/justmilaa?abTest=gototheroom_adsrankChpD20260714&abTestVariant=gototheroom_adsrankChpD20260714_PaidForce1GC_80&affiliateId=140726jf2k03y6b2glewnf073axv5m01r72d5xuqkpd4m05fonj65hmp7bx78617&campaignId=1f2e37304cf88d60d1e6679d5ab8ba778791685ef0f3f41a5c5e41f8152313c0&landing=goToTheRoom&modelId=168896521&modelName=justmilaa&realDomain=go.mayzaent.com&schemeType=mediabuyer&sound=off&trafficType=popunder&userId=318ae1f319b6a0ba51fa7159f8746cd6117d63c82ab61b791acc5d52009b130d&variationId=35372",
+      "passes": [
+        "nxdomain",
+        "unknown",
+        "hijacked"
+      ]
+    },
+    {
+      "id": "illuminatimanga",
+      "label": "IlluminatiManga",
+      "url": "http://reader.manga-download.org",
+      "template": "foolslide",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "immortalupdates",
+      "label": "Immortal Updates",
+      "url": "https://mortalsgroove.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "japanime",
+      "label": "Japanime",
+      "url": "https://japanime.ch",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "jiangzaitoon",
+      "label": "Jiangzaitoon",
+      "url": "https://jiangzaitoon.dev",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "justforfun",
+      "label": "Just for Fun",
+      "url": "https://just-for-fun.ru",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNSPECIFIED",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "kaisarkomik",
+      "label": "KaisarKomik",
+      "url": "https://kaisarkomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "redirects to junk domain hosmervetclinic.com",
+      "movedTo": "https://hosmervetclinic.com/",
+      "passes": [
+        "unknown",
+        "unknown",
+        "hijacked"
+      ]
+    },
+    {
+      "id": "kireicake",
+      "label": "KireiCake",
+      "url": "https://reader.kireicake.com",
+      "template": "foolslide",
+      "verdict": "unknown",
+      "evidence": "net: ERR_SSL_TLSV1_UNRECOGNIZED_NAME",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "komiklab",
+      "label": "KomikLab (English)",
+      "url": "https://komiklab.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "redirects to junk domain okiklan.top",
+      "movedTo": "https://creative.okiklan.top/widgets/v4/Universal?autoplay=onHover&playButton=1&sourceId=komiklab.com&tag=girls&targetDomain=plexstorm.com&userId=7a8f6c5436a2485126fdcf43d53d211c2f7e2be1a95d908452272527fbb3db29",
+      "passes": [
+        "unknown",
+        "hijacked"
+      ]
+    },
+    {
+      "id": "komikplay",
+      "label": "KomikPlay",
+      "url": "https://komikplay.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "leviatanscans-es",
+      "label": "LeviatanScans (Spanish)",
+      "url": "https://es.leviatanscans.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "lyrascans",
+      "label": "Quantum Scans",
+      "url": "https://readers-point.space",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manga-nato",
+      "label": "Manga Nato",
+      "url": "https://manga-nato.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manga3s",
+      "label": "Manga3S",
+      "url": "https://manga3s.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangaaction",
+      "label": "مانجا اكشن (Manga Action)",
+      "url": "https://mangaaction.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangabob",
+      "label": "MangaBob",
+      "url": "https://mangabob.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangacave",
+      "label": "Manga Cave",
+      "url": "https://mangacave.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangacrab",
+      "label": "Manga Crab",
+      "url": "https://mangacrab.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangadenizi",
+      "label": "MangaDenizi",
+      "url": "http://www.mangadenizi.net",
+      "template": "mangareader-cms",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangadiyari",
+      "label": "MangaDiyari",
+      "url": "https://manga-diyari.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangagenki",
+      "label": "MangaGenki",
+      "url": "https://mangagenki.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangahanta",
+      "label": "MangaHanta",
+      "url": "http://www.mangahanta.com",
+      "template": "mangareader-cms",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangahentai",
+      "label": "Manga Hentai",
+      "url": "https://mangahentai.me",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "redirects to junk domain stripchat.com",
+      "movedTo": "https://stripchat.com/justmilaa?abTest=gototheroom_adsrankChpD20260714&abTestVariant=gototheroom_adsrankChpD20260714_PaidForce1GA_1&affiliateId=140726ebbuyr5t3g2d9g2cxh89uiutul6178k0ju7aysmb45kpg2uxtw536hulnm&campaignId=1f2e37304cf88d60d1e6679d5ab8ba778791685ef0f3f41a5c5e41f8152313c0&landing=goToTheRoom&modelId=168896521&modelName=justmilaa&realDomain=go.mayzaent.com&schemeType=mediabuyer&sound=off&trafficType=popunder&userId=318ae1f319b6a0ba51fa7159f8746cd6117d63c82ab61b791acc5d52009b130d&variationId=35372",
+      "passes": [
+        "unknown",
+        "unknown",
+        "hijacked"
+      ]
+    },
+    {
+      "id": "mangakeyfi",
+      "label": "Manga Keyfi",
+      "url": "https://mangakeyfi.net",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangakio",
+      "label": "Manga Kio",
+      "url": "https://mangakio.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangakiss",
+      "label": "Mangakiss",
+      "url": "https://mangakiss.org",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "nxdomain",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangakyo",
+      "label": "Mangakyo",
+      "url": "https://mangakyo.org",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangalaw",
+      "label": "Mangalaw",
+      "url": "https://mangalaw.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangalover",
+      "label": "3asq (مانجا العاشق)",
+      "url": "https://3asq.org",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangarockteam",
+      "label": "Manga Rock Team",
+      "url": "https://mangarockteam.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangarocky",
+      "label": "Manga Rocky",
+      "url": "https://mangarocky.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangastein",
+      "label": "MangaStein",
+      "url": "https://mangastein.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangateca",
+      "label": "MangaTeca",
+      "url": "https://www.mangateca.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangaweebs",
+      "label": "Manga Weebs",
+      "url": "https://mangaweebs.in",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mangazuki-online",
+      "label": "MangaZukiOnline",
+      "url": "https://www.mangazuki.online",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhuabox",
+      "label": "ManhuaBox",
+      "url": "https://manhuabox.net",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhuadex",
+      "label": "ManHuaDex",
+      "url": "https://manhuadex.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhuadragon",
+      "label": "ManhuaDragon",
+      "url": "https://manhuadragon.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhuaes",
+      "label": "ManhuaES",
+      "url": "https://manhuaes.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhuas",
+      "label": "Manhuamix",
+      "url": "https://manhuamix.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhwa68",
+      "label": "Manhwa68",
+      "url": "https://manhwa68.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhwaclub",
+      "label": "ManhwaClub",
+      "url": "https://manhwaclub.net",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhwafull",
+      "label": "ManhwaFull",
+      "url": "https://manhwafull.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhwahentaime",
+      "label": "ManhwaHentai.me",
+      "url": "https://manhwahentai.me",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhwaindo",
+      "label": "ManhwaIndo",
+      "url": "https://manhwaindo.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhwalist",
+      "label": "Manhwa List",
+      "url": "https://manhwalist.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhwaraw",
+      "label": "Manhwa Raw",
+      "url": "https://manhwaraw.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "nxdomain",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manhwaworld",
+      "label": "Manhwa World",
+      "url": "https://manhwaworld.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manytoon",
+      "label": "ManyToon (Porn)",
+      "url": "https://manytoon.me",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manytooncom",
+      "label": "ManyToon",
+      "url": "https://manytoon.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "manytoonkr",
+      "label": "ManyToonKR",
+      "url": "https://manytoon.club",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "martialscans",
+      "label": "Martial Scans",
+      "url": "https://martialscans.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mindafansub",
+      "label": "Minda Fansub",
+      "url": "https://mindafansub.online",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "mmscans",
+      "label": "MMSCANS",
+      "url": "https://mm-scans.org",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "moonwitchinlove",
+      "label": "Moon Witch In Love",
+      "url": "https://moonwitchinlovescan.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "nekoscan",
+      "label": "NEKOSCAN",
+      "url": "https://nekoscan.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "ninjascan",
+      "label": "Ninja Scan",
+      "url": "https://ninjascan.site",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "on-manga",
+      "label": "مانجا أون لاين (On-Manga)",
+      "url": "https://onma.top",
+      "template": "mangareader-cms",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "painfulnightz",
+      "label": "PainfulNightz",
+      "url": "https://painfulnightz.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "redirects to junk domain collectbladders.com",
+      "movedTo": "https://collectbladders.com/nek4kxu5p?key=b40b51591f98b465e14db928a230173d",
+      "passes": [
+        "unknown",
+        "hijacked"
+      ]
+    },
+    {
+      "id": "pairoftwo",
+      "label": "Pair of 2",
+      "url": "https://po2scans.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "pijamalikoi",
+      "label": "Pijamalı Koi",
+      "url": "https://pijamalikoi.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "pmscans-archive",
+      "label": "PMScans (Archive)",
+      "url": "https://www.pmscans.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "porncomixonline",
+      "label": "PornComixOnline",
+      "url": "https://www.porncomixonline.net",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "prismahentai",
+      "label": "Prisma Hentai",
+      "url": "https://prismahentai.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "rawmangasite",
+      "label": "RawMangaSite",
+      "url": "https://rawmanga.site",
+      "template": "mangareader-cms",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "realmscansarabic",
+      "label": "RealmScans Arabic",
+      "url": "https://ar.realmscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "renascencescans",
+      "label": "RenascenceScans",
+      "url": "https://new.renascans.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: ERR_SSL_TLSV1_UNRECOGNIZED_NAME",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "scansraw",
+      "label": "ScansRaw",
+      "url": "https://scansraw.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "senpaiediciones",
+      "label": "Senpai Ediciones",
+      "url": "https://senpaiediciones.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "sheamanga",
+      "label": "Shea Manga",
+      "url": "https://sheamanga.my.id",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "shieldmanga",
+      "label": "Shield Manga",
+      "url": "https://shieldmanga.club",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "skscans",
+      "label": "SK Scans (Sleeping Knight)",
+      "url": "https://skscans.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "skymanga",
+      "label": "Sky Manga",
+      "url": "https://skymanga.xyz",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "stickhorse",
+      "label": "Stick Horse",
+      "url": "https://www.stickhorse.cl",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "summanga",
+      "label": "SumManga",
+      "url": "https://summanga.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "teabeercomics",
+      "label": "Teabeer Comics",
+      "url": "https://teabeercomics.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "tempestscans",
+      "label": "Tempest Scans",
+      "url": "https://tempestmangas.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "trashscanlations",
+      "label": "TrashScanlations",
+      "url": "https://trashscanlations.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "visbellum",
+      "label": "Visbellum",
+      "url": "https://visbellum.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "wakascan",
+      "label": "WAKASCAN",
+      "url": "https://wakascan.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: ECONNRESET",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "webcomicme",
+      "label": "WebComic (Webcomic.me)",
+      "url": "https://webcomic.me",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UND_ERR_CONNECT_TIMEOUT",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "worldthree",
+      "label": "WorldThree",
+      "url": "http://www.slide.world-three.org",
+      "template": "foolslide",
+      "verdict": "unknown",
+      "evidence": "net: 20",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "yanpfansub",
+      "label": "Yanp Fansub",
+      "url": "https://yanpfansub.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "yaoifanclube",
+      "label": "Yaoi Fan Clube",
+      "url": "https://yaoifanclube2.com",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    },
+    {
+      "id": "yaoitoshokan",
+      "label": "Yaoi Toshokan",
+      "url": "https://www.yaoitoshokan.net",
+      "template": "wordpress-madara",
+      "verdict": "unknown",
+      "evidence": "net: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "passes": [
+        "unknown",
+        "unknown",
+        "unknown"
+      ]
+    }
+  ]
+}

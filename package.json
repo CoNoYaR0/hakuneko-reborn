@@ -1,0 +1,41 @@
+{
+  "name": "hakuneko-reborn",
+  "version": "1.0.0-alpha.0",
+  "description": "HakuNeko Reborn — a modern rebuild of the HakuNeko manga downloader",
+  "author": "The HakuNeko Reborn contributors",
+  "license": "Unlicense",
+  "main": "out/main/index.js",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "preview": "electron-vite preview",
+    "typecheck": "tsc -p tsconfig.node.json --noEmit && svelte-check --tsconfig ./tsconfig.web.json",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "codemod": "node scripts/codemod-connectors.mjs",
+    "health": "node scripts/health-check.mjs",
+    "smoke": "electron-vite build && electron .",
+    "dist:linux": "electron-vite build && electron-builder --linux",
+    "dist:win": "electron-vite build && electron-builder --win"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^6.0.0",
+    "@types/node": "latest",
+    "@types/yazl": "^3.3.1",
+    "acorn": "^8.17.0",
+    "electron": "latest",
+    "electron-builder": "latest",
+    "electron-vite": "latest",
+    "svelte": "latest",
+    "svelte-check": "latest",
+    "typescript": "^5.9.3",
+    "vite": "^7.0.0",
+    "vitest": "^4.1.10"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "electron-updater": "^6.8.9",
+    "pdf-lib": "^1.17.1",
+    "yazl": "^3.3.1"
+  }
+}

@@ -1,0 +1,2904 @@
+{
+  "generatedAt": "2026-07-15T13:07:01.715Z",
+  "counts": {
+    "dead": 96,
+    "protected": 78,
+    "alive": 76,
+    "unreachable": 35,
+    "js-shell": 67
+  },
+  "results": [
+    {
+      "id": "1stkissmanhua",
+      "label": "1st Kiss Manhua",
+      "url": "https://1stkissmanhua.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4679b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "365manga",
+      "label": "365Manga",
+      "url": "https://365manga.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangalover",
+      "label": "3asq (مانجا العاشق)",
+      "url": "https://3asq.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "32 manga found",
+      "sample": "00a"
+    },
+    {
+      "id": "8musesxxx",
+      "label": "8 MUSES XXX",
+      "url": "https://8muses.xxx",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "36 manga found",
+      "sample": "06-Pilot Playthin"
+    },
+    {
+      "id": "acescans",
+      "label": "Ace Scans",
+      "url": "https://acescans.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "akumanga",
+      "label": "AkuManga",
+      "url": "https://akumanga.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "allporncomic",
+      "label": "AllPornComic",
+      "url": "https://allporncomic.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "15 manga found",
+      "sample": "ALL SERIES"
+    },
+    {
+      "id": "aloalivn",
+      "label": "Aloalivn",
+      "url": "https://aloalivn.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "alphascans",
+      "label": "Alpha Scans",
+      "url": "https://alpha-scans.org",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "amascan",
+      "label": "AMAScan",
+      "url": "https://amascan.com",
+      "template": "mangareader-cms",
+      "verdict": "dead",
+      "evidence": "responds (43618b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "anatanomotokare",
+      "label": "Anata no Motokare",
+      "url": "http://motokare.xyz",
+      "template": "foolslide",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "anikiga",
+      "label": "Anikiga",
+      "url": "https://anikiga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "39 manga found",
+      "sample": "37007 (1)"
+    },
+    {
+      "id": "animaregia",
+      "label": "Anima Regia",
+      "url": "https://animaregia.net",
+      "template": "mangareader-cms",
+      "verdict": "js-shell",
+      "evidence": "responds (1078b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "anitationarts",
+      "label": "Anitation Arts",
+      "url": "https://anitationarts.org",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (120b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "antisensescans",
+      "label": "AntisenseScans",
+      "url": "http://antisensescans.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "5 manga found",
+      "sample": "Read Online"
+    },
+    {
+      "id": "anubisscans",
+      "label": "Anubis Scans",
+      "url": "https://anubisscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "73 manga found",
+      "sample": "A Maid’s Peaceful Life Behind Hidden Power"
+    },
+    {
+      "id": "anzmanga",
+      "label": "AnzManga",
+      "url": "https://www.anzmangashd.com",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "51 manga found",
+      "sample": "Batsu Hare"
+    },
+    {
+      "id": "komikav",
+      "label": "APKomik",
+      "url": "https://apkomik.cc",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "apollcomics",
+      "label": "Apoll Comics",
+      "url": "https://apollcomics.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "36 manga found",
+      "sample": "Amoríos en clase"
+    },
+    {
+      "id": "apolltoons",
+      "label": "Apolltoons",
+      "url": "https://apolltoons.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "36 manga found",
+      "sample": "A su merced"
+    },
+    {
+      "id": "aquamanga",
+      "label": "AquaManga",
+      "url": "https://aquamanga.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "arcanescans",
+      "label": "Arcane Scans",
+      "url": "https://arcanescans.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 522) but content is JS-rendered — kept"
+    },
+    {
+      "id": "aresmanga",
+      "label": "Ares Manga",
+      "url": "https://fl-ares.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 524) but content is JS-rendered — kept"
+    },
+    {
+      "id": "arthurscan",
+      "label": "Arthur Scan",
+      "url": "https://arthurscan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "62 manga found",
+      "sample": "Ascension to Godhood by Slaying Demons"
+    },
+    {
+      "id": "ascalon",
+      "label": "Ascalon",
+      "url": "https://ascalonscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (4701b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "astralmanga",
+      "label": "Astral-manga",
+      "url": "https://astral-manga.fr",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "atikrost",
+      "label": "Atikrost",
+      "url": "https://atikrost.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "80 manga found",
+      "sample": "0 One-Shot"
+    },
+    {
+      "id": "ayatoon",
+      "label": "AYATOON",
+      "url": "https://ayatoon.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "azuremanga",
+      "label": "Azure Manga",
+      "url": "https://azuremanga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (1250b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "bananascan",
+      "label": "Banana Scan",
+      "url": "https://banana-scan.com",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "bestmanga",
+      "label": "Best Manga",
+      "url": "https://bestmanga.club",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "bestmanhua",
+      "label": "Best Manhua",
+      "url": "https://bestmanhua.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "biamam",
+      "label": "Biamam Scans",
+      "url": "http://biamam.com",
+      "template": "mangareader-cms",
+      "verdict": "dead",
+      "evidence": "responds (44540b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "blmanhwaclub",
+      "label": "BL Manhwa Club",
+      "url": "https://blmanhwa.club",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1074b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "bokugents",
+      "label": "Bokugen Translations",
+      "url": "https://bokugents.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "chibimanga",
+      "label": "ChibiManga",
+      "url": "https://www.cmreader.info",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "cizgiromanarsivi",
+      "label": "Çizgi Roman Arşivi (CizgiRomanArsivi)",
+      "url": "https://cizgiromanarsivi.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (17b, HTTP 530) but content is JS-rendered — kept"
+    },
+    {
+      "id": "cocorip",
+      "label": "CocoRip",
+      "url": "https://cocorip.net",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1066b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "comicdom",
+      "label": "ComicDom",
+      "url": "https://comicdom.org",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "comicsvalley",
+      "label": "Comics Valley",
+      "url": "https://comicsvalley.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "copypastescan",
+      "label": "Copy & Paste Scan",
+      "url": "https://copypastescan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "cosmicscans",
+      "label": "Cosmic Scans",
+      "url": "https://cosmicscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "cosmicscansid",
+      "label": "Cosmic Scans ID",
+      "url": "https://cosmicscans.id",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "covenscan",
+      "label": "Coven Scan",
+      "url": "https://cvnscan.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4663b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "culturedworks",
+      "label": "CulturedWorks",
+      "url": "https://culturedworks.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "14 manga found",
+      "sample": "Become a Legend as an All-Rounder"
+    },
+    {
+      "id": "cypherscans",
+      "label": "Cypher Scans",
+      "url": "https://cypherscans.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (4697b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "deathtollscans",
+      "label": "DeathTollScans",
+      "url": "https://reader.deathtollscans.net",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "3 manga found",
+      "sample": "D.Diver"
+    },
+    {
+      "id": "decadencescans",
+      "label": "Decadence",
+      "url": "https://reader.decadencescans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "25 manga found",
+      "sample": "Ashi-Girl"
+    },
+    {
+      "id": "deliscan",
+      "label": "Deliscan",
+      "url": "https://deliscan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1033b, HTTP 404) but content is JS-rendered — kept"
+    },
+    {
+      "id": "diamondfansub",
+      "label": "DiamondFansub",
+      "url": "https://diamondfansub.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "62 manga found",
+      "sample": "Ahlaksız Skandal"
+    },
+    {
+      "id": "disasterscans",
+      "label": "Disaster Scans",
+      "url": "https://disasterscans.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "diskusscan",
+      "label": "Diskus Scan",
+      "url": "https://diskusscan.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (4692b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "dokifansubs",
+      "label": "DokiFansubs",
+      "url": "https://kobato.hologfx.com",
+      "template": "foolslide",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "doujin69",
+      "label": "Doujin69",
+      "url": "https://doujin69.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "1534 manga found",
+      "sample": "(C101) [Tamagobou (Kumakiti)] Joou to Toroketai _ Please Seduce Me, Your Majesty (Fate-Grand Order)"
+    },
+    {
+      "id": "doujinku",
+      "label": "Doujinku",
+      "url": "https://doujinku.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "dragontea",
+      "label": "Dragon Tea Scans",
+      "url": "https://dragontea.ink",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "drakescans",
+      "label": "DrakeScans",
+      "url": "https://drakecomic.org",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "dropescan",
+      "label": "Drope Scan",
+      "url": "https://dropescan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 200) — site is live"
+    },
+    {
+      "id": "duniakomik",
+      "label": "Dunia Komik",
+      "url": "https://duniakomik.org",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (1108b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "eromanhwas",
+      "label": "Eromanhwas",
+      "url": "https://eromanhwas.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "fallenangelsscans",
+      "label": "FallenAngelsScans",
+      "url": "https://manga.fascans.com",
+      "template": "mangareader-cms",
+      "verdict": "js-shell",
+      "evidence": "responds (485b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "fizmanga",
+      "label": "FizManga",
+      "url": "https://fizmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "fbsquads",
+      "label": "Fleur Blanche Squads",
+      "url": "https://fbsquadx.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "57 manga found",
+      "sample": "10 horas ago"
+    },
+    {
+      "id": "foxwhitescan",
+      "label": "Fox White Scan",
+      "url": "https://foxwhite.com.br",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (28805b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "freakscans",
+      "label": "Freak Scans",
+      "url": "https://freakscans.com/",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "freecomiconline",
+      "label": "Free Comic Online",
+      "url": "https://freecomiconline.me",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (125377b, HTTP 500) but no manga and no anti-bot"
+    },
+    {
+      "id": "freemanga",
+      "label": "Free Manga",
+      "url": "https://freemanga.me/",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "40 manga found",
+      "sample": "Ahegao"
+    },
+    {
+      "id": "freewebtooncoins",
+      "label": "Free Webtoon Coins",
+      "url": "https://freewebtooncoins.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "furioscans",
+      "label": "Furio Scans",
+      "url": "https://furioscans.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "futari",
+      "label": "Futari",
+      "url": "https://futari.info",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (1096b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "galaxyaction",
+      "label": "Galaxy Action",
+      "url": "https://galaxyaction.site",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "gateanimemanga",
+      "label": "GateAnimeMANGA",
+      "url": "https://manga.gateanime.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "8 manga found",
+      "sample": "جميع فصول مانجا Fullmetal Alchemist كاملة"
+    },
+    {
+      "id": "gdscans",
+      "label": "GD Scans",
+      "url": "https://gdscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "21 manga found",
+      "sample": "A Story About a Dragon and the Rising of an Adventurer"
+    },
+    {
+      "id": "gekkouscans",
+      "label": "Gekkou Scans",
+      "url": "https://gekkou.site",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4663b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "getmanhwa",
+      "label": "GetManhwa",
+      "url": "https://getmanhwa.co",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "ghostfansub",
+      "label": "Ghost Fansub",
+      "url": "https://ghostfansub.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (54541b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "glorymanga",
+      "label": "GloryManga",
+      "url": "https://glorymanga.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "gooffansub",
+      "label": "Goof Fansub",
+      "url": "https://gooffansub.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "grazescans",
+      "label": "GrazeScans",
+      "url": "https://grazescans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (11713b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "guncelmanga",
+      "label": "Güncel Manga",
+      "url": "https://guncelmanga.net",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (94596b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "gurukomik",
+      "label": "GuruKomik",
+      "url": "https://gurukomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (10394b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "fusionscanlation-hentai",
+      "label": "H Fusion Scanlation",
+      "url": "https://h.fusionscanlation.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (45033b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "hayalistic",
+      "label": "Hayalistic",
+      "url": "https://hayalistic.com.tr",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "helveticascans",
+      "label": "HelveticaScans",
+      "url": "https://helveticascans.com",
+      "template": "foolslide",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "hentaiwebtoon",
+      "label": "Hentai Webtoon",
+      "url": "https://hentaiwebtoon.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "40 manga found",
+      "sample": "Ahegao"
+    },
+    {
+      "id": "hentaizone",
+      "label": "HentaiZone",
+      "url": "https://hentaizone.xyz",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "254 manga found",
+      "sample": "(C99) [Kamaboko Koubou (Kamaboko)] Rankan Gasshuku Circle De Hamerareta Shoujo Tachi [French] [pape245]"
+    },
+    {
+      "id": "heromanhua",
+      "label": "HeroManhua ✕ Leveler",
+      "url": "https://levelerscans.xyz",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "hmanhwa",
+      "label": "HManhwa",
+      "url": "https://hmanhwa.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "hniscantrad",
+      "label": "HNI-Scantrad",
+      "url": "http://hni-scantrad.com",
+      "template": "foolslide",
+      "verdict": "dead",
+      "evidence": "responds (7626b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "hscans",
+      "label": "HSCANS",
+      "url": "https://hscans.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (478b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "hunterfansub",
+      "label": "Hunter Fansub",
+      "url": "https://hunterfansub.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "hunterscan",
+      "label": "Hunters Scan",
+      "url": "https://htoons.online",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1576b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "illuminatimanga",
+      "label": "IlluminatiManga",
+      "url": "http://reader.manga-download.org",
+      "template": "foolslide",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 522) but content is JS-rendered — kept"
+    },
+    {
+      "id": "immortalupdates",
+      "label": "Immortal Updates",
+      "url": "https://mortalsgroove.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (15987b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "imperfectcomic",
+      "label": "Imperfect Comic",
+      "url": "https://imperfectcomic.org",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "imperiodabritannia",
+      "label": "Imperio Da Britannia",
+      "url": "https://imperiodabritannia.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (2234b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "infrafandub",
+      "label": "Infra Fandub",
+      "url": "https://infrafandub.xyz",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "inmortalscan",
+      "label": "Inmortal Scan",
+      "url": "https://manga.mundodrama.site",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1580b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "isekaiscan",
+      "label": "IsekaiScan.to",
+      "url": "https://isekaiscan.to",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "iskultripscans",
+      "label": "Iskultrip Scans",
+      "url": "http://www.maryfaye.net",
+      "template": "foolslide",
+      "verdict": "dead",
+      "evidence": "responds (7102b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "itsyourightmanhua",
+      "label": "Its Your Right Manhua",
+      "url": "https://itsyourightmanhua.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "japanime",
+      "label": "Japanime",
+      "url": "https://japanime.ch",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 522) but content is JS-rendered — kept"
+    },
+    {
+      "id": "japitcomics",
+      "label": "Japit Comics",
+      "url": "https://j-comics.ru",
+      "template": "mangareader-cms",
+      "verdict": "dead",
+      "evidence": "responds (9708b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "jiangzaitoon",
+      "label": "Jiangzaitoon",
+      "url": "https://jiangzaitoon.dev",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (16216b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "justforfun",
+      "label": "Just for Fun",
+      "url": "https://just-for-fun.ru",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "kaiscans",
+      "label": "Kai Scans",
+      "url": "https://kaiscans.org",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (490b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "kaisarkomik",
+      "label": "KaisarKomik",
+      "url": "https://kaisarkomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "8 manga found",
+      "sample": "Cara Pembelian"
+    },
+    {
+      "id": "kangaryuteam",
+      "label": "Kangaryu Team",
+      "url": "https://kangaryu-team.fr",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "5 manga found",
+      "sample": "Blades of the guardians"
+    },
+    {
+      "id": "kanzenin",
+      "label": "Kanzenin",
+      "url": "https://kanzenin.info",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "2329 manga found",
+      "sample": "10 kara Hajimeru Eisai Kyouiku"
+    },
+    {
+      "id": "karatcamscans",
+      "label": "Karatcam Scans",
+      "url": "https://karatcam-scans.fr",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1159b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "katakomik",
+      "label": "Katakomik",
+      "url": "https://katakomik.my.id",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (23388b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "kawascans",
+      "label": "KawaScans",
+      "url": "https://kawascans.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "kireicake",
+      "label": "KireiCake",
+      "url": "https://reader.kireicake.com",
+      "template": "foolslide",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "kirishimafansub",
+      "label": "KirishimaFansub",
+      "url": "https://www.kirishimafansub.net",
+      "template": "mangareader-cms",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "kissmangain",
+      "label": "Kissmanga",
+      "url": "https://kissmanga.in",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "klankomik",
+      "label": "KlanKomik",
+      "url": "https://klankomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (11279b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "klikmanga",
+      "label": "KlikManga",
+      "url": "https://klikmanga.id",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "64 manga found",
+      "sample": "1 hari lalu"
+    },
+    {
+      "id": "kombatch",
+      "label": "KoMBatch",
+      "url": "https://kombatch.cc",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "3816 manga found",
+      "sample": "“Chotto dake, kyuukei Shinai…?” Dekachichi Manga ~Nakadashi Dopyu Dopyu Tanetsuke Ryokou~"
+    },
+    {
+      "id": "komikgo",
+      "label": "KomikGo",
+      "url": "https://komikgo.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4663b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "komikid",
+      "label": "Komikid",
+      "url": "https://www.komikid.com",
+      "template": "mangareader-cms",
+      "verdict": "js-shell",
+      "evidence": "responds (24480b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "komikindo",
+      "label": "KomikIndo",
+      "url": "https://komiksin.id",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "komiklab",
+      "label": "KomikLab (English)",
+      "url": "https://komiklab.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (1721b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "komikmama",
+      "label": "Komikmama",
+      "url": "https://komikmama.co",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (4693b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "komikplay",
+      "label": "KomikPlay",
+      "url": "https://komikplay.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "komiktap",
+      "label": "KomikTap",
+      "url": "https://komiktap.info",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "4849 manga found",
+      "sample": "[GERAK] The Delinquent Girl Uncen"
+    },
+    {
+      "id": "komiktap-mdo",
+      "label": "KomikTap (MDO)",
+      "url": "https://manhwa.komiktap.co",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "ksgroupscans",
+      "label": "KSGroupScans",
+      "url": "https://ksgroupscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "60 manga found",
+      "sample": "Buta Kizoku wa Mirai wo Kiri Hiraku you desu"
+    },
+    {
+      "id": "lamimanga",
+      "label": "Lami-Manga",
+      "url": "https://lami-manga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (0b, HTTP 521) but content is JS-rendered — kept"
+    },
+    {
+      "id": "topmanhuanet",
+      "label": "LatestManga",
+      "url": "https://latestmanga.net",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "legionscan",
+      "label": "LegionScan",
+      "url": "https://legionscans.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "51 manga found",
+      "sample": "¡¡Y YA ABRIMOS!!"
+    },
+    {
+      "id": "lelmanga",
+      "label": "LELManga",
+      "url": "https://www.lelmanga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "73 manga found",
+      "sample": "A Dragonslayer’s Peerless Regression"
+    },
+    {
+      "id": "leomanga",
+      "label": "LeoManga",
+      "url": "https://leomanga.me",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "leryaoi",
+      "label": "LerYaoi",
+      "url": "https://leryaoi.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4663b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "leviatanscans-es",
+      "label": "LeviatanScans (Spanish)",
+      "url": "https://es.leviatanscans.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 522) but content is JS-rendered — kept"
+    },
+    {
+      "id": "lhtranslation",
+      "label": "LHTranslation",
+      "url": "https://lhtranslation.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "69 manga found",
+      "sample": "Chapter 193.2"
+    },
+    {
+      "id": "lilymanga",
+      "label": "Lily Manga",
+      "url": "https://lilymanga.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "108 manga found",
+      "sample": "Adachi to Shimamura (Novel)"
+    },
+    {
+      "id": "limascans",
+      "label": "Lima Scans",
+      "url": "http://limascans.xyz",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "lolivault",
+      "label": "LoliVault",
+      "url": "https://lolivault.net",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "25 manga found",
+      "sample": "A mi joven esposa y yo"
+    },
+    {
+      "id": "lordmanga",
+      "label": "Lord Manga",
+      "url": "https://lordmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "101 manga found",
+      "sample": "1 day ago"
+    },
+    {
+      "id": "lunarscans",
+      "label": "Lunar Scans",
+      "url": "https://lunarscan.org",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (5298b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "randomscan",
+      "label": "Lura Toon",
+      "url": "https://luratoon.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "secretscans",
+      "label": "Lynx Scans",
+      "url": "https://lynxscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (89590b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "manga41",
+      "label": "Manga 41",
+      "url": "https://manga41.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangacave",
+      "label": "Manga Cave",
+      "url": "https://mangacave.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangaclash",
+      "label": "Manga Clash",
+      "url": "https://mangaclash.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangacrab",
+      "label": "Manga Crab",
+      "url": "https://mangacrab.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "fenixscan",
+      "label": "Manga Fenix",
+      "url": "https://manga-fenix.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4679b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangagecesi",
+      "label": "Manga Gecesi",
+      "url": "https://mangagecesi.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 525) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangagohan",
+      "label": "Manga Gohan",
+      "url": "https://mangagohan.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (3084b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangakeyfi",
+      "label": "Manga Keyfi",
+      "url": "https://mangakeyfi.net",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "mangakio",
+      "label": "Manga Kio",
+      "url": "https://mangakio.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "mangakomi",
+      "label": "Manga Komi",
+      "url": "https://mangakomi.io",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangalord",
+      "label": "Manga Lord",
+      "url": "https://www.mangalord.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (43949b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangamitsu",
+      "label": "Manga Mitsu",
+      "url": "https://mangamitsu.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "manga-nato",
+      "label": "Manga Nato",
+      "url": "https://manga-nato.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "manganine",
+      "label": "Manga Nine",
+      "url": "https://manganine.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "105 manga found",
+      "sample": "1 day ago"
+    },
+    {
+      "id": "mangaonlineteam",
+      "label": "Manga Online Team",
+      "url": "https://mangaonlineteam.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangaproz",
+      "label": "Manga Pro Z",
+      "url": "https://mangaproz.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangareadco",
+      "label": "Manga Read",
+      "url": "https://mangaread.co",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "77 manga found",
+      "sample": "A-Z"
+    },
+    {
+      "id": "mangarockteam",
+      "label": "Manga Rock Team",
+      "url": "https://mangarockteam.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4679b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangarocky",
+      "label": "Manga Rocky",
+      "url": "https://mangarocky.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangaweebs",
+      "label": "Manga Weebs",
+      "url": "https://mangaweebs.in",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (15021b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "manga-scantrad",
+      "label": "Manga-Scantrad",
+      "url": "https://manga-scantrad.net",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "manga3s",
+      "label": "Manga3S",
+      "url": "https://manga3s.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (2b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "manga68",
+      "label": "Manga68",
+      "url": "https://manga68.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangaarabics",
+      "label": "MangaArabics",
+      "url": "https://mangaarabics.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangabaz",
+      "label": "Mangabaz",
+      "url": "https://mangabaz.net",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangabob",
+      "label": "MangaBob",
+      "url": "https://mangabob.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "mangaboss",
+      "label": "Mangaboss",
+      "url": "https://mangaboss.org",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (27262b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangacanblog",
+      "label": "MangaCan Blog",
+      "url": "https://mangacanblog.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "50 manga found",
+      "sample": "247211 Blue Lock"
+    },
+    {
+      "id": "mangachill",
+      "label": "MangaChill",
+      "url": "https://toonchill.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "mangadenizi",
+      "label": "MangaDenizi",
+      "url": "http://www.mangadenizi.net",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "15 manga found",
+      "sample": "#10BleachHayaletKomediDramDövüş Sanatları👁 422.9K toplam"
+    },
+    {
+      "id": "mangadiyari",
+      "label": "MangaDiyari",
+      "url": "https://manga-diyari.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (553938b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangadods",
+      "label": "MANGADODS",
+      "url": "https://www.mangadods.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangaforfree",
+      "label": "MangaForFree",
+      "url": "https://mangaforfree.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (44023b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangagenki",
+      "label": "MangaGenki",
+      "url": "https://mangagenki.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (4676b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangagreat",
+      "label": "MANGAGREAT",
+      "url": "https://mangagreat.org",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangahanta",
+      "label": "MangaHanta",
+      "url": "http://www.mangahanta.com",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "21 manga found",
+      "sample": "1 249 20th Century Boys en"
+    },
+    {
+      "id": "mangahubfr",
+      "label": "MangaHub.FR",
+      "url": "https://mangahub.fr",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "67 manga found",
+      "sample": "19 days"
+    },
+    {
+      "id": "mangaindoMe",
+      "label": "MangaindoMe",
+      "url": "https://mangaindo.me",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (4689b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangakiss",
+      "label": "Mangakiss",
+      "url": "https://mangakiss.org",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 523) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangakyo",
+      "label": "Mangakyo",
+      "url": "https://mangakyo.org",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "72 manga found",
+      "sample": "18美女腿打开无遮软件,2020国语自产拍在线观看,精品久久久爽爽久久久AV,徐子淇资料,小岛惊魂下载,裸婚时代第二部"
+    },
+    {
+      "id": "mangalaw",
+      "label": "Mangalaw",
+      "url": "https://mangalaw.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (43527b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangalike",
+      "label": "mangalike",
+      "url": "https://mangalike.org",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 404) — site is live"
+    },
+    {
+      "id": "mangaowlio",
+      "label": "MangaOwl.io",
+      "url": "https://mangaowl.io",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "44 manga found",
+      "sample": "Action"
+    },
+    {
+      "id": "mangapl",
+      "label": "MangaPL",
+      "url": "https://mangapl.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangarawonline",
+      "label": "Mangaraw Online",
+      "url": "http://mangaraw.online",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "150 manga found",
+      "sample": "5600歳の不老不死インフルエンサーいわく。"
+    },
+    {
+      "id": "mangarawr",
+      "label": "MangaRawr",
+      "url": "https://mangarawr.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangaread",
+      "label": "MangaRead",
+      "url": "https://www.mangaread.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "157 manga found",
+      "sample": "A RETURNER’S MAGIC SHOULD BE SPECIAL"
+    },
+    {
+      "id": "mangarolls",
+      "label": "MangaRolls",
+      "url": "https://mangarolls.net",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1078b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangarose",
+      "label": "MangaRose",
+      "url": "https://mangarose.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (481b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangarow",
+      "label": "MangaRow",
+      "url": "https://www.mangarow.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (484b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangasorigines",
+      "label": "Mangas Origines",
+      "url": "https://mangas-origines.fr",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "114 manga found",
+      "sample": "1 heure"
+    },
+    {
+      "id": "flamescans-fr",
+      "label": "Mangas Scans",
+      "url": "https://mangas-scans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 525) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangastein",
+      "label": "MangaStein",
+      "url": "https://mangastein.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "47 manga found",
+      "sample": "7.9Logging 10,000 Years into the Future"
+    },
+    {
+      "id": "mangastreamcc",
+      "label": "MangaStream",
+      "url": "https://www.mangastream.cc",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangasushi",
+      "label": "Mangasushi",
+      "url": "https://mangasushi.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "63 manga found",
+      "sample": "ARCHIVES"
+    },
+    {
+      "id": "mangasusu",
+      "label": "MangaSusu",
+      "url": "https://m.mangasusu.co",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangasusuku",
+      "label": "MangaSusuku",
+      "url": "https://mangasusuku.xyz ",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "bacamangaorg",
+      "label": "MangaTale",
+      "url": "https://mangatale.id",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 523) but content is JS-rendered — kept"
+    },
+    {
+      "id": "mangateca",
+      "label": "MangaTeca",
+      "url": "https://www.mangateca.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4675b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangatellers",
+      "label": "Mangatellers",
+      "url": "http://www.mangatellers.gr",
+      "template": "foolslide",
+      "verdict": "dead",
+      "evidence": "responds (259979b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangatx",
+      "label": "Mangatx",
+      "url": "https://mangatx.to",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangawow",
+      "label": "MangaWOW",
+      "url": "https://mangawow.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "102 manga found",
+      "sample": "100th Day after Disappearance"
+    },
+    {
+      "id": "mangayuca",
+      "label": "MangaYuca",
+      "url": "https://mangayuca.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "mangazuki",
+      "label": "Mangazuki",
+      "url": "https://mangazuki.me",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangazuki-club",
+      "label": "Mangazuki Raws",
+      "url": "https://mangazuki.club",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "mangazuki-raws",
+      "label": "Mangazuki RAWS",
+      "url": "https://raws.mangazuki.co",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "mangazuki-scans",
+      "label": "Mangazuki Scans",
+      "url": "https://mangazuki.co",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "mangazuki-online",
+      "label": "MangaZukiOnline",
+      "url": "https://www.mangazuki.online",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "79 manga found",
+      "sample": "one piece chapter 1180"
+    },
+    {
+      "id": "manhatic",
+      "label": "ManHatic",
+      "url": "https://manhatic.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "68 manga found",
+      "sample": "100 الفصل"
+    },
+    {
+      "id": "manhuaus",
+      "label": "Manhua Us",
+      "url": "https://manhuaus.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "manhuabox",
+      "label": "ManhuaBox",
+      "url": "https://manhuabox.net",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "manhuadex",
+      "label": "ManHuaDex",
+      "url": "https://manhuadex.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "manhuadragon",
+      "label": "ManhuaDragon",
+      "url": "https://manhuadragon.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4679b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "manhuaes",
+      "label": "ManhuaES",
+      "url": "https://manhuaes.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "manhuafast",
+      "label": "Manhuafast",
+      "url": "https://manhuafast.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "manhuas",
+      "label": "Manhuamix",
+      "url": "https://manhuamix.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "topmanhua",
+      "label": "ManhuaTop",
+      "url": "https://manhuatop.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "48 manga found",
+      "sample": "A Marriage that Decides the Fate of the World"
+    },
+    {
+      "id": "manhwalist",
+      "label": "Manhwa List",
+      "url": "https://manhwalist.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (653889b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "manhwaworld",
+      "label": "Manhwa World",
+      "url": "https://manhwaworld.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "manhwa68",
+      "label": "Manhwa68",
+      "url": "https://manhwa68.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 503) — site is live"
+    },
+    {
+      "id": "manhwaclub",
+      "label": "ManhwaClub",
+      "url": "https://manhwaclub.net",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "94 manga found",
+      "sample": "10 mins ago"
+    },
+    {
+      "id": "manhwafull",
+      "label": "ManhwaFull",
+      "url": "https://manhwafull.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "23 manga found",
+      "sample": "Born as the Daughter of the Wicked Woman"
+    },
+    {
+      "id": "manhwaid",
+      "label": "Manhwaid",
+      "url": "https://manhwaid.fun",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "manhwaindo",
+      "label": "ManhwaIndo",
+      "url": "https://manhwaindo.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "7316 manga found",
+      "sample": "-50kg Cinderella"
+    },
+    {
+      "id": "manhwatop",
+      "label": "MANHWATOP",
+      "url": "https://manhwatop.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "54 manga found",
+      "sample": "Academy’s Genius Swordmaster"
+    },
+    {
+      "id": "manhwax",
+      "label": "Manhwax",
+      "url": "https://manhwax.org",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "markscans",
+      "label": "Mark Scans",
+      "url": "https://markscans.online",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "martialscans",
+      "label": "Martial Scans",
+      "url": "https://martialscans.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1086b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "masterkomik",
+      "label": "MasterKomik",
+      "url": "https://masterkomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (1082b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "menudofansub",
+      "label": "MenudoFansub",
+      "url": "http://www.menudo-fansub.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "29 manga found",
+      "sample": "A channel"
+    },
+    {
+      "id": "milftoon",
+      "label": "Milftoon Comics",
+      "url": "https://milftoon.xxx",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "24 manga found",
+      "sample": "A Loud House"
+    },
+    {
+      "id": "mindafansub",
+      "label": "Minda Fansub",
+      "url": "https://mindafansub.online",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "20 manga found",
+      "sample": "Add to Cart on Godaddy"
+    },
+    {
+      "id": "minitwoscan",
+      "label": "MiniTwo Scan",
+      "url": "https://minitwoscan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "miraclescans",
+      "label": "Miracle Scans",
+      "url": "https://miraclescans.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (335959b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "mmscans",
+      "label": "MMSCANS",
+      "url": "https://mm-scans.org",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangamonarca",
+      "label": "Monarcamanga",
+      "url": "https://monarcamanga.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "moonwitchinlove",
+      "label": "Moon Witch In Love",
+      "url": "https://moonwitchinlovescan.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4695b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mundowuxia",
+      "label": "Mundo Wuxia",
+      "url": "https://mundowuxia.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (3129b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "natsuid",
+      "label": "NatsuID",
+      "url": "https://natsu.id",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (29507b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "nekoscan",
+      "label": "NEKOSCAN",
+      "url": "https://nekoscan.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (8911b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "nightcomic",
+      "label": "NIGHT COMIC",
+      "url": "https://www.nightcomic.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (2857b, HTTP 404) but content is JS-rendered — kept"
+    },
+    {
+      "id": "ninjascan",
+      "label": "Ninja Scan",
+      "url": "https://ninjascan.site",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "ninjascans",
+      "label": "NinjaScans",
+      "url": "https://ninjascans.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "nirvanamanga",
+      "label": "NirvanaManga",
+      "url": "https://nirvanamanga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "27 manga found",
+      "sample": "Aristite Was Blessed With a Curse"
+    },
+    {
+      "id": "noranofansub",
+      "label": "NoraNoFansub",
+      "url": "https://www.noranofansub.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "28 manga found",
+      "sample": "+a no Tachiichi"
+    },
+    {
+      "id": "novelmic",
+      "label": "NovelMic",
+      "url": "https://novelmic.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "nyrax",
+      "label": "Nyrax",
+      "url": "https://nyraxmanga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "2045 manga found",
+      "sample": "10 Ways To Get Rejected By The Tyrant"
+    },
+    {
+      "id": "onmanga",
+      "label": "On Manga",
+      "url": "https://onmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (43556b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "otakusekaiscan",
+      "label": "OtakuSekai Scan",
+      "url": "https://otkscanlator.xyz",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "owscan",
+      "label": "Ow Scan",
+      "url": "https://owscan.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (54405b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "oxapk",
+      "label": "Oxapk",
+      "url": "https://oxapk.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "6 manga found",
+      "sample": "NextUrl"
+    },
+    {
+      "id": "ozulscans-en",
+      "label": "Ozul Scans (EN)",
+      "url": "https://ozulscansen.com",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "pairoftwo",
+      "label": "Pair of 2",
+      "url": "https://po2scans.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "phoenix-scans",
+      "label": "Phoenix-Scans",
+      "url": "http://phoenix-scans.pl",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "piedpiperfb",
+      "label": "Pied Piper",
+      "url": "https://piedpiperfansub.me",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1584b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "pijamalikoi",
+      "label": "Pijamalı Koi",
+      "url": "https://pijamalikoi.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "platinumscans",
+      "label": "PlatinumScans",
+      "url": "https://platinumscans.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (909878b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "pmscans-archive",
+      "label": "PMScans (Archive)",
+      "url": "https://www.pmscans.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "porncomixonline",
+      "label": "PornComixOnline",
+      "url": "https://www.porncomixonline.net",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (10278b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "powermanga",
+      "label": "PowerManga",
+      "url": "http://read.powermanga.org",
+      "template": "foolslide",
+      "verdict": "js-shell",
+      "evidence": "responds (486b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "prismahentai",
+      "label": "Prisma Hentai",
+      "url": "https://prismahentai.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4675b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "projetoscanlator",
+      "label": "Projeto Scanlator",
+      "url": "https://projetoscanlator.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1588b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "pzykosis666hfansub",
+      "label": "Pzykosis666HFansub",
+      "url": "https://pzykosis666hfansub.com",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "7 manga found",
+      "sample": "1 Comment"
+    },
+    {
+      "id": "lyrascans",
+      "label": "Quantum Scans",
+      "url": "https://readers-point.space",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (4714b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "pmscans",
+      "label": "Rackus",
+      "url": "https://rackusreads.com",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "30 manga found",
+      "sample": "A Streamer in the Past"
+    },
+    {
+      "id": "ragnarokscan",
+      "label": "RagnarokScan",
+      "url": "https://ragnarokscan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "raiderscans",
+      "label": "RaiderScans",
+      "url": "https://raiderscans.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "raijinscans",
+      "label": "Raijin Scans",
+      "url": "https://raijinscans.fr",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 404) — site is live"
+    },
+    {
+      "id": "rawkuma",
+      "label": "Rawkuma",
+      "url": "https://rawkuma.net",
+      "template": "wordpress-mangastream",
+      "verdict": "alive",
+      "evidence": "187 manga found",
+      "sample": "'Kouryakuhon' o Kushi Suru Saikyou no Mahou Tsukai - to wa Iwa Senai Oreryuu Maou Tobatsu Saizen Route"
+    },
+    {
+      "id": "rawmangas",
+      "label": "RAWMangas",
+      "url": "https://rawmangas.net",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "rawmangasite",
+      "label": "RawMangaSite",
+      "url": "https://rawmanga.site",
+      "template": "mangareader-cms",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 522) but content is JS-rendered — kept"
+    },
+    {
+      "id": "readmanhua",
+      "label": "ReadManhua",
+      "url": "https://readmanhua.net",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "realmscansarabic",
+      "label": "RealmScans Arabic",
+      "url": "https://ar.realmscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "renascencescans",
+      "label": "RenascenceScans",
+      "url": "https://new.renascans.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "resetscans",
+      "label": "Reset Scans",
+      "url": "https://reset-scans.org",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (8027b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "rightdarkscan",
+      "label": "RightDarkScan",
+      "url": "https://rightdark-scan.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1584b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "rio2manga",
+      "label": "Rio2Manga",
+      "url": "https://rio2manga.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "ruyamanga",
+      "label": "Rüya Manga",
+      "url": "https://www.ruyamanga2.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "102 manga found",
+      "sample": "Akademinin Gizli Profesörü"
+    },
+    {
+      "id": "samuraiscan",
+      "label": "Samurai Scan",
+      "url": "https://latan.visorsmr.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "scanfr",
+      "label": "Scan FR",
+      "url": "https://www.scan-fr.org",
+      "template": "mangareader-cms",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "scanop",
+      "label": "Scan OP",
+      "url": "https://scan-op.cc",
+      "template": "mangareader-cms",
+      "verdict": "js-shell",
+      "evidence": "responds (1062b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "scanvf",
+      "label": "Scan VF",
+      "url": "https://www.scan-vf.net",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "34 manga found",
+      "sample": "#231. Vide"
+    },
+    {
+      "id": "scansraw",
+      "label": "ScansRaw",
+      "url": "https://scansraw.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1070b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "sectscans",
+      "label": "Sect Scans",
+      "url": "https://sectscans.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1074b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "senpaiediciones",
+      "label": "Senpai Ediciones",
+      "url": "https://senpaiediciones.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (4713b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "setsuscans",
+      "label": "SetsuScans",
+      "url": "https://setsuscans.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "shadowmangas",
+      "label": "ShadowMangas",
+      "url": "https://shadowmangas.com",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "sheamanga",
+      "label": "Shea Manga",
+      "url": "https://sheamanga.my.id",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "sheakomik",
+      "label": "SheaKomik",
+      "url": "https://sheakomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (1074b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "shieldmanga",
+      "label": "Shield Manga",
+      "url": "https://shieldmanga.club",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4679b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "shinzooscans",
+      "label": "Shinzoo Scans",
+      "url": "https://shinzooscan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "shirakami",
+      "label": "Shirakami",
+      "url": "https://shirakami.xyz",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "shojoscans",
+      "label": "ShojoScans",
+      "url": "https://shojoscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (91734b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "shootingstarscans",
+      "label": "Shooting Star Scans",
+      "url": "https://shootingstarscans.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 521) but content is JS-rendered — kept"
+    },
+    {
+      "id": "shoujohearts",
+      "label": "ShoujoHearts",
+      "url": "http://shoujohearts.com",
+      "template": "foolslide",
+      "verdict": "dead",
+      "evidence": "responds (5298b, HTTP 404) but no manga and no anti-bot"
+    },
+    {
+      "id": "shoujosense",
+      "label": "ShoujoSense",
+      "url": "http://reader.shoujosense.com",
+      "template": "foolslide",
+      "verdict": "dead",
+      "evidence": "responds (43768b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "silencescan",
+      "label": "Silence Scan",
+      "url": "https://silencescan.com.br",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "skscans",
+      "label": "SK Scans (Sleeping Knight)",
+      "url": "https://skscans.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4663b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "skymanga",
+      "label": "Sky Manga",
+      "url": "https://skymanga.xyz",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (2b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "soulscans",
+      "label": "SoulsSans",
+      "url": "https://soulscans.my.id",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "stickhorse",
+      "label": "Stick Horse",
+      "url": "https://www.stickhorse.cl",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "storminheaven",
+      "label": "Storm in Heaven",
+      "url": "https://www.storm-in-heaven.net",
+      "template": "foolslide",
+      "verdict": "dead",
+      "evidence": "responds (350652b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "sugarbbscan",
+      "label": "Sugar Babies Scans",
+      "url": "https://sugarbbscan.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (483b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "summanga",
+      "label": "SumManga",
+      "url": "https://summanga.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "summertoon",
+      "label": "Summertoon",
+      "url": "https://summertoon.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "taptrans",
+      "label": "TapTrans",
+      "url": "https://taptaptaptaptap.net",
+      "template": "foolslide",
+      "verdict": "alive",
+      "evidence": "10 manga found",
+      "sample": "Doujinshi"
+    },
+    {
+      "id": "tatakaescan",
+      "label": "Tatakae Scan",
+      "url": "https://tatakaescan.xyz",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (114b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "teabeercomics",
+      "label": "Teabeer Comics",
+      "url": "https://teabeercomics.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "tempestscans",
+      "label": "Tempest Scans",
+      "url": "https://tempestmangas.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 522) but content is JS-rendered — kept"
+    },
+    {
+      "id": "apolloteam",
+      "label": "The Apollo Team",
+      "url": "https://theapollo.team",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "theguildscans",
+      "label": "The Guild Scans",
+      "url": "https://theguildscans.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1090b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "thecatscans",
+      "label": "TheCatScans",
+      "url": "https://reader2.thecatscans.com",
+      "template": "foolslide",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "titanmanga",
+      "label": "Titan Manga",
+      "url": "https://titanmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (43736b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "toomtam",
+      "label": "ToomTam",
+      "url": "https://toomtam-manga.com",
+      "template": "wordpress-mangastream",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "toongod",
+      "label": "ToonGod",
+      "url": "https://www.toongod.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "toonmanga",
+      "label": "ToonManga",
+      "url": "https://toonmanga.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 429) — site is live"
+    },
+    {
+      "id": "topcomicporno",
+      "label": "Top Comic Porno",
+      "url": "https://topcomicporno.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "tortugaceviri",
+      "label": "Tortuga Çeviri",
+      "url": "https://tortuga-ceviri.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (3931b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "traduccionesamistosas",
+      "label": "Traducciones Amistosas",
+      "url": "https://nartag.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 404) — site is live"
+    },
+    {
+      "id": "trashscanlations",
+      "label": "TrashScanlations",
+      "url": "https://trashscanlations.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4687b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "tritiniascans",
+      "label": "Tritinia Scans",
+      "url": "https://tritinia.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "48 manga found",
+      "sample": "1c5383d1-d798-4ba3-bd3d-b10d302f577d (1)"
+    },
+    {
+      "id": "tukangkomik",
+      "label": "TukangKomik",
+      "url": "https://tukangkomik.co",
+      "template": "wordpress-mangastream",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "twilightscans",
+      "label": "Twilight Scans",
+      "url": "https://twilightscans.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4679b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "universoyuri",
+      "label": "Universo Yuri",
+      "url": "http://www.universoyuri.com",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "19 manga found",
+      "sample": "Add to Cart on Godaddy"
+    },
+    {
+      "id": "vermanhwas",
+      "label": "VerManhwas",
+      "url": "https://vermanhwa.es",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "36 manga found",
+      "sample": "¡Súbeme fuerte! (Sin censura)"
+    },
+    {
+      "id": "vinmanga",
+      "label": "Vinmanga",
+      "url": "https://vinload.com",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (1066b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "visbellum",
+      "label": "Visbellum",
+      "url": "https://visbellum.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4667b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "wakascan",
+      "label": "WAKASCAN",
+      "url": "https://wakascan.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (16394b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "wantedteam",
+      "label": "Wanted Team",
+      "url": "http://reader.onepiecenakama.pl",
+      "template": "foolslide",
+      "verdict": "js-shell",
+      "evidence": "responds (1249b, HTTP 404) but content is JS-rendered — kept"
+    },
+    {
+      "id": "warungkomik",
+      "label": "WarungKomik",
+      "url": "https://warungkomik.com",
+      "template": "wordpress-mangastream",
+      "verdict": "js-shell",
+      "evidence": "responds (1112b, HTTP 200) but content is JS-rendered — kept"
+    },
+    {
+      "id": "webcomicme",
+      "label": "WebComic (Webcomic.me)",
+      "url": "https://webcomic.me",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "webtoonily",
+      "label": "WebToonily",
+      "url": "https://webtoonily.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "webtoonxyz",
+      "label": "WebtoonXYZ",
+      "url": "https://www.webtoon.xyz",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "westmanga",
+      "label": "WestManga",
+      "url": "https://westmanga.me",
+      "template": "wordpress-mangastream",
+      "verdict": "dead",
+      "evidence": "responds (12850b, HTTP 522) but no manga and no anti-bot"
+    },
+    {
+      "id": "whatstatus",
+      "label": "WhatStatus",
+      "url": "https://whatstatus.co",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "worldthree",
+      "label": "WorldThree",
+      "url": "http://www.slide.world-three.org",
+      "template": "foolslide",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "xunscans",
+      "label": "XuNScans",
+      "url": "https://xunscans.xyz",
+      "template": "wordpress-madara",
+      "verdict": "js-shell",
+      "evidence": "responds (16b, HTTP 526) but content is JS-rendered — kept"
+    },
+    {
+      "id": "xxxyaoi",
+      "label": "XXXYaoi",
+      "url": "https://3xyaoi.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "yanpfansub",
+      "label": "Yanp Fansub",
+      "url": "https://yanpfansub.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4671b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "yaoifanclube",
+      "label": "Yaoi Fan Clube",
+      "url": "https://yaoifanclube2.com",
+      "template": "wordpress-madara",
+      "verdict": "unreachable",
+      "evidence": "no HTTP response (DNS / refused / timeout)"
+    },
+    {
+      "id": "yaoitoshokan",
+      "label": "Yaoi Toshokan",
+      "url": "https://www.yaoitoshokan.net",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4683b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "yaoiscan",
+      "label": "YaoiScan",
+      "url": "https://yaoiscan.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "yuriverso",
+      "label": "Yuri Verso",
+      "url": "https://yuri.live",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "117 manga found",
+      "sample": "A Happy Lie"
+    },
+    {
+      "id": "zinmanga",
+      "label": "Zin Manga",
+      "url": "https://mangazin.org",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "82 manga found",
+      "sample": "A Saint Who Was Adopted by the Grand Duke"
+    },
+    {
+      "id": "detectiveconanar",
+      "label": "العربية  كونان (Conan Arabic)",
+      "url": "https://manga.detectiveconanar.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "on-manga",
+      "label": "مانجا أون لاين (On-Manga)",
+      "url": "https://onma.top",
+      "template": "mangareader-cms",
+      "verdict": "alive",
+      "evidence": "19 manga found",
+      "sample": "#24. خلاص أو ربما"
+    },
+    {
+      "id": "mangaaction",
+      "label": "مانجا اكشن (Manga Action)",
+      "url": "https://mangaaction.com",
+      "template": "wordpress-madara",
+      "verdict": "dead",
+      "evidence": "responds (4675b, HTTP 200) but no manga and no anti-bot"
+    },
+    {
+      "id": "mangaspark",
+      "label": "مانجا سبارك (MangaSpark)",
+      "url": "https://mangaspark.org",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 404) — site is live"
+    },
+    {
+      "id": "mangastarz",
+      "label": "مانجا ستارز (Mangastarz)",
+      "url": "https://manga-starz.com",
+      "template": "wordpress-madara",
+      "verdict": "protected",
+      "evidence": "anti-bot challenge (HTTP 403) — site is live"
+    },
+    {
+      "id": "nijitranslations",
+      "label": "مدونة نيجي (Niji Translations)",
+      "url": "https://niji-translations.com",
+      "template": "wordpress-madara",
+      "verdict": "alive",
+      "evidence": "57 manga found",
+      "sample": "03 END"
+    }
+  ]
+}

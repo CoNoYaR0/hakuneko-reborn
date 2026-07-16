@@ -1,0 +1,68 @@
+appId: io.github.hakuneko-reborn
+productName: HakuNeko Reborn
+copyright: The HakuNeko Reborn contributors — built on HakuNeko by the HakuNeko Development Team
+
+directories:
+  output: dist
+  buildResources: build
+
+files:
+  - out/**
+  - '!**/*.map'
+
+extraResources:
+  - from: resources/catalog.json
+    to: catalog.json
+  - from: resources/schemas
+    to: schemas
+
+# Auto-update source. electron-builder generates the latest*.yml update
+# manifests next to the installers; electron-updater reads them from here, so
+# this must stay pointed at the repo that hosts HakuNeko Reborn releases (never
+# at upstream manga-download/hakuneko — that's a different project).
+publish:
+  provider: github
+  owner: CoNoYaR0
+  repo: hakuneko-reborn
+
+linux:
+  icon: build/icon.png
+  category: Utility
+  synopsis: Manga downloader
+  description: A modern, fast manga downloader with one-click sources. A rebuild of HakuNeko.
+  maintainer: The HakuNeko Reborn contributors
+  executableName: hakuneko-reborn
+  desktop:
+    entry:
+      Name: HakuNeko Reborn
+      Comment: Manga downloader with one-click sources
+      Categories: Utility;Network;
+      # Match app.setName('hakuneko-reborn') so DEs group running windows with the icon.
+      StartupWMClass: hakuneko-reborn
+  target:
+    - AppImage
+    - deb
+    - rpm
+
+win:
+  icon: build/icon.ico
+  target:
+    - nsis
+    - portable
+
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+
+mac:
+  icon: build/icon.png
+  category: public.app-category.utilities
+  target:
+    - dmg
+
+# Use ${name} (package name, "hakuneko-reborn") not ${productName} — the latter
+# contains a space, which makes for awkward download filenames and CLI paths.
+artifactName: ${name}-${version}-${os}-${arch}.${ext}

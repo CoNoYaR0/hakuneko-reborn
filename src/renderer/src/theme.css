@@ -1,0 +1,85 @@
+/*
+ * Design tokens — see v2/DESIGN.md (generated with the ui-ux-pro-max skill).
+ * Dark-first OLED with a light scheme override; single token set for both.
+ */
+:root {
+    --color-bg: #0e0e12;
+    --color-surface: #17171d;
+    --color-surface-raised: #1f1f27;
+    --color-border: #2c2c37;
+    --color-text: #e9e9f0;
+    --color-text-muted: #9a9aa8;
+    --color-accent: #f2683c;
+    --color-accent-contrast: #ffffff;
+    --color-success: #3fae6a;
+    --color-danger: #e5484d;
+    --color-ring: #f2683c;
+
+    --font-sans: 'Inter', system-ui, 'Segoe UI', Roboto, 'Noto Sans', sans-serif;
+    --font-mono: ui-monospace, 'Cascadia Code', 'Fira Code', monospace;
+
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 16px;
+    --space-4: 24px;
+    --space-5: 40px;
+}
+
+/*
+ * Light palette. Applied when the OS prefers light (and the user hasn't forced
+ * dark), or when the user explicitly picks light in Settings (data-theme="light").
+ * Settings writes data-theme on <html>; that override wins over the OS preference.
+ */
+@media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+        --color-bg: #f6f6f8;
+        --color-surface: #ffffff;
+        --color-surface-raised: #ffffff;
+        --color-border: #dcdce4;
+        --color-text: #1b1b23;
+        --color-text-muted: #5c5c68;
+        --color-accent: #e0563f;
+        --color-danger: #d64550;
+        --color-success: #2f9d5b;
+        --color-ring: #e0563f;
+    }
+}
+:root[data-theme="light"] {
+    --color-bg: #f6f6f8;
+    --color-surface: #ffffff;
+    --color-surface-raised: #ffffff;
+    --color-border: #dcdce4;
+    --color-text: #1b1b23;
+    --color-text-muted: #5c5c68;
+    --color-accent: #e0563f;
+    --color-danger: #d64550;
+    --color-success: #2f9d5b;
+    --color-ring: #e0563f;
+}
+
+:focus-visible {
+    outline: 2px solid var(--color-ring);
+    outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    line-height: 1.5;
+}

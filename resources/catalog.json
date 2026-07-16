@@ -1,0 +1,2754 @@
+[
+  {
+    "id": "365manga",
+    "label": "365Manga",
+    "url": "https://365manga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangalover",
+    "label": "3asq (مانجا العاشق)",
+    "url": "https://3asq.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "arabic"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "8musesxxx",
+    "label": "8 MUSES XXX",
+    "url": "https://8muses.xxx",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "acescans",
+    "label": "Ace Scans",
+    "url": "https://acescans.xyz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "akumanga",
+    "label": "AkuManga",
+    "url": "https://akumanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "allporncomic",
+    "label": "AllPornComic",
+    "url": "https://allporncomic.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "porn",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "alphascans",
+    "label": "Alpha Scans",
+    "url": "https://alpha-scans.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "anikiga",
+    "label": "Anikiga",
+    "url": "https://anikiga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "animaregia",
+    "label": "Anima Regia",
+    "url": "https://animaregia.net",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "language": "pt",
+    "origin": "bundled"
+  },
+  {
+    "id": "anitationarts",
+    "label": "Anitation Arts",
+    "url": "https://anitationarts.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "path": "/manga/?list",
+    "origin": "bundled"
+  },
+  {
+    "id": "antisensescans",
+    "label": "AntisenseScans",
+    "url": "http://antisensescans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/online/directory/",
+    "language": "english",
+    "origin": "bundled"
+  },
+  {
+    "id": "anubisscans",
+    "label": "Anubis Scans",
+    "url": "https://anubisscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "anzmanga",
+    "label": "AnzManga",
+    "url": "https://www.anzmangashd.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "spanish"
+    ],
+    "language": "es",
+    "origin": "bundled"
+  },
+  {
+    "id": "komikav",
+    "label": "APKomik",
+    "url": "https://apkomik.cc",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "apollcomics",
+    "label": "Apoll Comics",
+    "url": "https://apollcomics.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "apolltoons",
+    "label": "Apolltoons",
+    "url": "https://apolltoons.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "arcanescans",
+    "label": "Arcane Scans",
+    "url": "https://arcanescans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english",
+      "webtoon",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "aresmanga",
+    "label": "Ares Manga",
+    "url": "https://fl-ares.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "arabic"
+    ],
+    "path": "/series/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "arthurscan",
+    "label": "Arthur Scan",
+    "url": "https://arthurscan.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "astralmanga",
+    "label": "Astral-manga",
+    "url": "https://astral-manga.fr",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoons",
+      "french"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "atikrost",
+    "label": "Atikrost",
+    "url": "https://atikrost.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "turkish"
+    ],
+    "language": "tr",
+    "origin": "bundled"
+  },
+  {
+    "id": "azuremanga",
+    "label": "Azure Manga",
+    "url": "https://azuremanga.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "bananascan",
+    "label": "Banana Scan",
+    "url": "https://banana-scan.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "bestmanhua",
+    "label": "Best Manhua",
+    "url": "https://bestmanhua.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "ul.blocks-gallery-grid li.blocks-gallery-item figure source"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "blmanhwaclub",
+    "label": "BL Manhwa Club",
+    "url": "https://blmanhwa.club",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "bokugents",
+    "label": "Bokugen Translations",
+    "url": "https://bokugents.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish",
+      "manga",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "chibimanga",
+    "label": "ChibiManga",
+    "url": "https://www.cmreader.info",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "cizgiromanarsivi",
+    "label": "Çizgi Roman Arşivi (CizgiRomanArsivi)",
+    "url": "https://cizgiromanarsivi.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "cocorip",
+    "label": "CocoRip",
+    "url": "https://cocorip.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "spanish",
+      "webtoon"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "comicsvalley",
+    "label": "Comics Valley",
+    "url": "https://comicsvalley.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "porn",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "copypastescan",
+    "label": "Copy & Paste Scan",
+    "url": "https://copypastescan.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "culturedworks",
+    "label": "CulturedWorks",
+    "url": "https://culturedworks.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "deathtollscans",
+    "label": "DeathTollScans",
+    "url": "https://reader.deathtollscans.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled"
+  },
+  {
+    "id": "decadencescans",
+    "label": "Decadence",
+    "url": "https://reader.decadencescans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "deliscan",
+    "label": "Deliscan",
+    "url": "https://deliscan.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "french"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "diamondfansub",
+    "label": "DiamondFansub",
+    "url": "https://diamondfansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "disasterscans",
+    "label": "Disaster Scans",
+    "url": "https://disasterscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "overrides": {
+      "queryMangas": "div.post-title h3 a:last-of-type, div.post-title h5 a:last-of-type"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "doujin69",
+    "label": "Doujin69",
+    "url": "https://doujin69.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "thai"
+    ],
+    "path": "/doujin/list-mode/",
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "doujinku",
+    "label": "Doujinku",
+    "url": "https://doujinku.xyz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "hentai",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "dragontea",
+    "label": "Dragon Tea Scans",
+    "url": "https://dragontea.ink",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "drakescans",
+    "label": "DrakeScans",
+    "url": "https://drakecomic.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "dropescan",
+    "label": "Drope Scan",
+    "url": "https://dropescan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "portuguese",
+      "scanlation"
+    ],
+    "language": "pt",
+    "origin": "bundled"
+  },
+  {
+    "id": "duniakomik",
+    "label": "Dunia Komik",
+    "url": "https://duniakomik.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "eromanhwas",
+    "label": "Eromanhwas",
+    "url": "https://eromanhwas.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "spanish"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "fallenangelsscans",
+    "label": "FallenAngelsScans",
+    "url": "https://manga.fascans.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "en",
+    "origin": "bundled"
+  },
+  {
+    "id": "fbsquads",
+    "label": "Fleur Blanche Squads",
+    "url": "https://fbsquadx.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish",
+      "scanlation",
+      "yaoi"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "freakscans",
+    "label": "Freak Scans",
+    "url": "https://freakscans.com/",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode",
+    "origin": "bundled"
+  },
+  {
+    "id": "freemanga",
+    "label": "Free Manga",
+    "url": "https://freemanga.me/",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english",
+      "manga"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "futari",
+    "label": "Futari",
+    "url": "https://futari.info",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "galaxyaction",
+    "label": "Galaxy Action",
+    "url": "https://galaxyaction.site",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "arabic",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "gateanimemanga",
+    "label": "GateAnimeMANGA",
+    "url": "https://manga.gateanime.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "gdscans",
+    "label": "GD Scans",
+    "url": "https://gdscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "scanlation",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "glorymanga",
+    "label": "GloryManga",
+    "url": "https://glorymanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "hayalistic",
+    "label": "Hayalistic",
+    "url": "https://hayalistic.com.tr",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "hentaiwebtoon",
+    "label": "Hentai Webtoon",
+    "url": "https://hentaiwebtoon.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "hentaizone",
+    "label": "HentaiZone",
+    "url": "https://hentaizone.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "french"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "heromanhua",
+    "label": "HeroManhua ✕ Leveler",
+    "url": "https://levelerscans.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "hmanhwa",
+    "label": "HManhwa",
+    "url": "https://hmanhwa.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english",
+      "korean"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "hscans",
+    "label": "HSCANS",
+    "url": "https://hscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "hunterfansub",
+    "label": "Hunter Fansub",
+    "url": "https://hunterfansub.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "hunterscan",
+    "label": "Hunters Scan",
+    "url": "https://htoons.online",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "illuminatimanga",
+    "label": "IlluminatiManga",
+    "url": "http://reader.manga-download.org",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled"
+  },
+  {
+    "id": "imperfectcomic",
+    "label": "Imperfect Comic",
+    "url": "https://imperfectcomic.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "imperiodabritannia",
+    "label": "Imperio Da Britannia",
+    "url": "https://imperiodabritannia.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "manhwa",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "infrafandub",
+    "label": "Infra Fandub",
+    "url": "https://infrafandub.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "manga",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "inmortalscan",
+    "label": "Inmortal Scan",
+    "url": "https://manga.mundodrama.site",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "itsyourightmanhua",
+    "label": "Its Your Right Manhua",
+    "url": "https://itsyourightmanhua.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "japanime",
+    "label": "Japanime",
+    "url": "https://japanime.ch",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "french"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "kaiscans",
+    "label": "Kai Scans",
+    "url": "https://kaiscans.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "kaisarkomik",
+    "label": "KaisarKomik",
+    "url": "https://kaisarkomik.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/?list",
+    "origin": "bundled"
+  },
+  {
+    "id": "kangaryuteam",
+    "label": "Kangaryu Team",
+    "url": "https://kangaryu-team.fr",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "french"
+    ],
+    "language": "fr",
+    "origin": "bundled"
+  },
+  {
+    "id": "kanzenin",
+    "label": "Kanzenin",
+    "url": "https://kanzenin.info",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "hentai",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "karatcamscans",
+    "label": "Karatcam Scans",
+    "url": "https://karatcam-scans.fr",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "french",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "kissmangain",
+    "label": "Kissmanga",
+    "url": "https://kissmanga.in",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "klikmanga",
+    "label": "KlikManga",
+    "url": "https://klikmanga.id",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "kombatch",
+    "label": "KoMBatch",
+    "url": "https://kombatch.cc",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "komikid",
+    "label": "Komikid",
+    "url": "https://www.komikid.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "language": "id",
+    "origin": "bundled"
+  },
+  {
+    "id": "komikindo",
+    "label": "KomikIndo",
+    "url": "https://komiksin.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "komiklab",
+    "label": "KomikLab (English)",
+    "url": "https://komiklab.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "komiktap",
+    "label": "KomikTap",
+    "url": "https://komiktap.info",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "hentai",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "ksgroupscans",
+    "label": "KSGroupScans",
+    "url": "https://ksgroupscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "lamimanga",
+    "label": "Lami-Manga",
+    "url": "https://lami-manga.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "thai"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "topmanhuanet",
+    "label": "LatestManga",
+    "url": "https://latestmanga.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "legionscan",
+    "label": "LegionScan",
+    "url": "https://legionscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english",
+      "manga",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "lelmanga",
+    "label": "LELManga",
+    "url": "https://www.lelmanga.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "french"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "leomanga",
+    "label": "LeoManga",
+    "url": "https://leomanga.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "leviatanscans-es",
+    "label": "LeviatanScans (Spanish)",
+    "url": "https://es.leviatanscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "lhtranslation",
+    "label": "LHTranslation",
+    "url": "https://lhtranslation.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "overrides": {
+      "queryChapters": "ul li.wp-manga-chapter > a:first-of-type"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "lilymanga",
+    "label": "Lily Manga",
+    "url": "https://lilymanga.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "limascans",
+    "label": "Lima Scans",
+    "url": "http://limascans.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "path": "/v2",
+    "origin": "bundled"
+  },
+  {
+    "id": "lolivault",
+    "label": "LoliVault",
+    "url": "https://lolivault.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "path": "/online/directory/",
+    "language": "spanish",
+    "origin": "bundled"
+  },
+  {
+    "id": "lordmanga",
+    "label": "Lord Manga",
+    "url": "https://lordmanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "randomscan",
+    "label": "Lura Toon",
+    "url": "https://luratoon.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manga41",
+    "label": "Manga 41",
+    "url": "https://manga41.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangaclash",
+    "label": "Manga Clash",
+    "url": "https://mangaclash.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangagecesi",
+    "label": "Manga Gecesi",
+    "url": "https://mangagecesi.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangakomi",
+    "label": "Manga Komi",
+    "url": "https://mangakomi.io",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangamitsu",
+    "label": "Manga Mitsu",
+    "url": "https://mangamitsu.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manganine",
+    "label": "Manga Nine",
+    "url": "https://manganine.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangaonlineteam",
+    "label": "Manga Online Team",
+    "url": "https://mangaonlineteam.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangaproz",
+    "label": "Manga Pro Z",
+    "url": "https://mangaproz.xyz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "arabic"
+    ],
+    "path": "/series/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "mangareadco",
+    "label": "Manga Read",
+    "url": "https://mangaread.co",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manga-scantrad",
+    "label": "Manga-Scantrad",
+    "url": "https://manga-scantrad.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "french"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manga3s",
+    "label": "Manga3S",
+    "url": "https://manga3s.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangaarabics",
+    "label": "MangaArabics",
+    "url": "https://mangaarabics.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "arabic",
+      "webtoon"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangabaz",
+    "label": "Mangabaz",
+    "url": "https://mangabaz.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangacanblog",
+    "label": "MangaCan Blog",
+    "url": "https://mangacanblog.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/daftar-komik-manga-bahasa-indonesia.html",
+    "overrides": {
+      "queryMangas": "div.blix ul li a.series"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "mangadenizi",
+    "label": "MangaDenizi",
+    "url": "http://www.mangadenizi.net",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "turkish",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangadods",
+    "label": "MANGADODS",
+    "url": "https://www.mangadods.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangagreat",
+    "label": "MANGAGREAT",
+    "url": "https://mangagreat.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "div.read-container source"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "mangahanta",
+    "label": "MangaHanta",
+    "url": "http://www.mangahanta.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "language": "tr",
+    "origin": "bundled"
+  },
+  {
+    "id": "mangahubfr",
+    "label": "MangaHub.FR",
+    "url": "https://mangahub.fr",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "french"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangakiss",
+    "label": "Mangakiss",
+    "url": "https://mangakiss.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangakyo",
+    "label": "Mangakyo",
+    "url": "https://mangakyo.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/komik/list-mode/",
+    "overrides": {
+      "queryChapters": "div.bxcl ul li div.eph-num a"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "mangalike",
+    "label": "mangalike",
+    "url": "https://mangalike.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "arabic"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangaowlio",
+    "label": "MangaOwl.io",
+    "url": "https://mangaowl.io",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english",
+      "manga"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangapl",
+    "label": "MangaPL",
+    "url": "https://mangapl.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "korean",
+      "chinese",
+      "japanese"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "mangarawonline",
+    "label": "Mangaraw Online",
+    "url": "http://mangaraw.online",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "raw"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangarawr",
+    "label": "MangaRawr",
+    "url": "https://mangarawr.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangaread",
+    "label": "MangaRead",
+    "url": "https://www.mangaread.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangarolls",
+    "label": "MangaRolls",
+    "url": "https://mangarolls.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "manga",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangarose",
+    "label": "MangaRose",
+    "url": "https://mangarose.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangarow",
+    "label": "MangaRow",
+    "url": "https://www.mangarow.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangasorigines",
+    "label": "Mangas Origines",
+    "url": "https://mangas-origines.fr",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoons",
+      "french"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "flamescans-fr",
+    "label": "Mangas Scans",
+    "url": "https://mangas-scans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "french"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "mangastein",
+    "label": "MangaStein",
+    "url": "https://mangastein.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangastreamcc",
+    "label": "MangaStream",
+    "url": "https://www.mangastream.cc",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangasushi",
+    "label": "Mangasushi",
+    "url": "https://mangasushi.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangasusu",
+    "label": "MangaSusu",
+    "url": "https://m.mangasusu.co",
+    "template": "mangareader-cms",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "indonesian"
+    ],
+    "language": "id",
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "bacamangaorg",
+    "label": "MangaTale",
+    "url": "https://mangatale.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "mangatx",
+    "label": "Mangatx",
+    "url": "https://mangatx.to",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangawow",
+    "label": "MangaWOW",
+    "url": "https://mangawow.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangayuca",
+    "label": "MangaYuca",
+    "url": "https://mangayuca.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english",
+      "hentai"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "mangazuki-raws",
+    "label": "Mangazuki RAWS",
+    "url": "https://raws.mangazuki.co",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "korean",
+      "scanlation"
+    ],
+    "language": "kr",
+    "overrides": {
+      "queryMangas": "ul.price-list li a",
+      "queryChapters": "ul.chapters li h3.chapter-title-rtl a"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "mangazuki-scans",
+    "label": "Mangazuki Scans",
+    "url": "https://mangazuki.co",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "en",
+    "overrides": {
+      "queryMangas": "ul.price-list li a",
+      "queryChapters": "ul.chapters li h3.chapter-title-rtl a"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "mangazuki-online",
+    "label": "MangaZukiOnline",
+    "url": "https://www.mangazuki.online",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manhatic",
+    "label": "ManHatic",
+    "url": "https://manhatic.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "arabic",
+      "hentai"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "manhuaus",
+    "label": "Manhua Us",
+    "url": "https://manhuaus.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "div.page-break source, ul.blocks-gallery-grid li.blocks-gallery-item source"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "manhuafast",
+    "label": "Manhuafast",
+    "url": "https://manhuafast.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryPages": "figure source, div.page-break source"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "topmanhua",
+    "label": "ManhuaTop",
+    "url": "https://manhuatop.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manhwaworld",
+    "label": "Manhwa World",
+    "url": "https://manhwaworld.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manhwa68",
+    "label": "Manhwa68",
+    "url": "https://manhwa68.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english",
+      "hentai"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "manhwaclub",
+    "label": "ManhwaClub",
+    "url": "https://manhwaclub.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "multi-lingual"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "manhwafull",
+    "label": "ManhwaFull",
+    "url": "https://manhwafull.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manhwaid",
+    "label": "Manhwaid",
+    "url": "https://manhwaid.fun",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "hentai",
+      "indonesian"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "manhwaindo",
+    "label": "ManhwaIndo",
+    "url": "https://manhwaindo.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/series/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "manhwatop",
+    "label": "MANHWATOP",
+    "url": "https://manhwatop.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "manhwax",
+    "label": "Manhwax",
+    "url": "https://manhwax.org",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "english",
+      "webtoon",
+      "hentai"
+    ],
+    "path": "/manga/list-mode/",
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "markscans",
+    "label": "Mark Scans",
+    "url": "https://markscans.online",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "martialscans",
+    "label": "Martial Scans",
+    "url": "https://martialscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryMangas": "div.post-title h3 a:not([target]), div.post-title h5 a:not([target])"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "masterkomik",
+    "label": "MasterKomik",
+    "url": "https://masterkomik.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "menudofansub",
+    "label": "MenudoFansub",
+    "url": "http://www.menudo-fansub.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "path": "/slide/directory/",
+    "language": "spanish",
+    "origin": "bundled"
+  },
+  {
+    "id": "milftoon",
+    "label": "Milftoon Comics",
+    "url": "https://milftoon.xxx",
+    "template": "wordpress-madara",
+    "tags": [
+      "porn",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "mindafansub",
+    "label": "Minda Fansub",
+    "url": "https://mindafansub.online",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "turkish",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "minitwoscan",
+    "label": "MiniTwo Scan",
+    "url": "https://minitwoscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangamonarca",
+    "label": "Monarcamanga",
+    "url": "https://monarcamanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "nightcomic",
+    "label": "NIGHT COMIC",
+    "url": "https://www.nightcomic.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "nirvanamanga",
+    "label": "NirvanaManga",
+    "url": "https://nirvanamanga.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "turkish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "noranofansub",
+    "label": "NoraNoFansub",
+    "url": "https://www.noranofansub.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "path": "/lector/directory/",
+    "language": "spanish",
+    "origin": "bundled"
+  },
+  {
+    "id": "novelmic",
+    "label": "NovelMic",
+    "url": "https://novelmic.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "nyrax",
+    "label": "Nyrax",
+    "url": "https://nyraxmanga.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "otakusekaiscan",
+    "label": "OtakuSekai Scan",
+    "url": "https://otkscanlator.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "oxapk",
+    "label": "Oxapk",
+    "url": "https://oxapk.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "arabic",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "ozulscans-en",
+    "label": "Ozul Scans (EN)",
+    "url": "https://ozulscansen.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english",
+      "scanlation"
+    ],
+    "path": "/comics/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "phoenix-scans",
+    "label": "Phoenix-Scans",
+    "url": "http://phoenix-scans.pl",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "polish",
+      "scanlation"
+    ],
+    "language": "pl",
+    "origin": "bundled"
+  },
+  {
+    "id": "piedpiperfb",
+    "label": "Pied Piper",
+    "url": "https://piedpiperfansub.me",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "powermanga",
+    "label": "PowerManga",
+    "url": "http://read.powermanga.org",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "italian",
+      "scanlation"
+    ],
+    "language": "italian",
+    "origin": "bundled"
+  },
+  {
+    "id": "projetoscanlator",
+    "label": "Projeto Scanlator",
+    "url": "https://projetoscanlator.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "pzykosis666hfansub",
+    "label": "Pzykosis666HFansub",
+    "url": "https://pzykosis666hfansub.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "spanish",
+      "scanlation"
+    ],
+    "path": "/online/directory/",
+    "language": "spanish",
+    "origin": "bundled"
+  },
+  {
+    "id": "pmscans",
+    "label": "Rackus",
+    "url": "https://rackusreads.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "webtoon",
+      "scanlation",
+      "english"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "ragnarokscan",
+    "label": "RagnarokScan",
+    "url": "https://ragnarokscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "raiderscans",
+    "label": "RaiderScans",
+    "url": "https://raiderscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "raijinscans",
+    "label": "Raijin Scans",
+    "url": "https://raijinscans.fr",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "french",
+      "webtoon"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "rawkuma",
+    "label": "Rawkuma",
+    "url": "https://rawkuma.net",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "raw",
+      "japanese"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "rawmangasite",
+    "label": "RawMangaSite",
+    "url": "https://rawmanga.site",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "high-quality",
+      "raw"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "readmanhua",
+    "label": "ReadManhua",
+    "url": "https://readmanhua.net",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "rightdarkscan",
+    "label": "RightDarkScan",
+    "url": "https://rightdark-scan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "spanish",
+      "webtoon"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "ruyamanga",
+    "label": "Rüya Manga",
+    "url": "https://www.ruyamanga2.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "turkish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "samuraiscan",
+    "label": "Samurai Scan",
+    "url": "https://latan.visorsmr.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "scanfr",
+    "label": "Scan FR",
+    "url": "https://www.scan-fr.org",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "french"
+    ],
+    "language": "fr",
+    "overrides": {
+      "queryChapters": "ul.chapterszozo li a"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "scanop",
+    "label": "Scan OP",
+    "url": "https://scan-op.cc",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "french"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "scanvf",
+    "label": "Scan VF",
+    "url": "https://www.scan-vf.net",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "french"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "scansraw",
+    "label": "ScansRaw",
+    "url": "https://scansraw.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "manga",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "sectscans",
+    "label": "Sect Scans",
+    "url": "https://sectscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english",
+      "webtoon",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "setsuscans",
+    "label": "SetsuScans",
+    "url": "https://setsuscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "shadowmangas",
+    "label": "ShadowMangas",
+    "url": "https://shadowmangas.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "sheakomik",
+    "label": "SheaKomik",
+    "url": "https://sheakomik.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "shinzooscans",
+    "label": "Shinzoo Scans",
+    "url": "https://shinzooscan.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "shirakami",
+    "label": "Shirakami",
+    "url": "https://shirakami.xyz",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "shootingstarscans",
+    "label": "Shooting Star Scans",
+    "url": "https://shootingstarscans.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "english",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "skymanga",
+    "label": "Sky Manga",
+    "url": "https://skymanga.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "soulscans",
+    "label": "SoulsSans",
+    "url": "https://soulscans.my.id",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "sugarbbscan",
+    "label": "Sugar Babies Scans",
+    "url": "https://sugarbbscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "summertoon",
+    "label": "Summertoon",
+    "url": "https://summertoon.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "webtoon",
+      "turkish",
+      "scanlation"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "taptrans",
+    "label": "TapTrans",
+    "url": "https://taptaptaptaptap.net",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "path": "/fs/directory/",
+    "language": "english",
+    "origin": "bundled"
+  },
+  {
+    "id": "tatakaescan",
+    "label": "Tatakae Scan",
+    "url": "https://tatakaescan.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "manga",
+      "portuguese",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "tempestscans",
+    "label": "Tempest Scans",
+    "url": "https://tempestmangas.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "turkish"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "theguildscans",
+    "label": "The Guild Scans",
+    "url": "https://theguildscans.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "thecatscans",
+    "label": "TheCatScans",
+    "url": "https://reader2.thecatscans.com",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "language": "english",
+    "origin": "bundled"
+  },
+  {
+    "id": "toomtam",
+    "label": "ToomTam",
+    "url": "https://toomtam-manga.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "thai"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "toongod",
+    "label": "ToonGod",
+    "url": "https://www.toongod.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "toonmanga",
+    "label": "ToonManga",
+    "url": "https://toonmanga.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "topcomicporno",
+    "label": "Top Comic Porno",
+    "url": "https://topcomicporno.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "spanish"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "traduccionesamistosas",
+    "label": "Traducciones Amistosas",
+    "url": "https://nartag.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "tritiniascans",
+    "label": "Tritinia Scans",
+    "url": "https://tritinia.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "universoyuri",
+    "label": "Universo Yuri",
+    "url": "http://www.universoyuri.com",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "spanish"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "vermanhwas",
+    "label": "VerManhwas",
+    "url": "https://vermanhwa.es",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "spanish",
+      "webtoon"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "vinmanga",
+    "label": "Vinmanga",
+    "url": "https://vinload.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "wantedteam",
+    "label": "Wanted Team",
+    "url": "http://reader.onepiecenakama.pl",
+    "template": "foolslide",
+    "tags": [
+      "manga",
+      "polish",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "warungkomik",
+    "label": "WarungKomik",
+    "url": "https://warungkomik.com",
+    "template": "wordpress-mangastream",
+    "tags": [
+      "manga",
+      "indonesian"
+    ],
+    "path": "/manga/list-mode/",
+    "origin": "bundled"
+  },
+  {
+    "id": "webtoonxyz",
+    "label": "WebtoonXYZ",
+    "url": "https://www.webtoon.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "english"
+    ],
+    "overrides": {
+      "queryMangas": "div.post-title h3 a, div.post-title h5 a, div.post-title .h5 a"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "xunscans",
+    "label": "XuNScans",
+    "url": "https://xunscans.xyz",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "xxxyaoi",
+    "label": "XXXYaoi",
+    "url": "https://3xyaoi.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "hentai",
+      "high-quality",
+      "portuguese",
+      "scanlation"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "yaoiscan",
+    "label": "YaoiScan",
+    "url": "https://yaoiscan.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "webtoon",
+      "hentai",
+      "english"
+    ],
+    "nsfw": true,
+    "origin": "bundled"
+  },
+  {
+    "id": "yuriverso",
+    "label": "Yuri Verso",
+    "url": "https://yuri.live",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "portuguese"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "zinmanga",
+    "label": "Zin Manga",
+    "url": "https://mangazin.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "high-quality",
+      "english",
+      "scanlation"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "detectiveconanar",
+    "label": "العربية  كونان (Conan Arabic)",
+    "url": "https://manga.detectiveconanar.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "arabic"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "on-manga",
+    "label": "مانجا أون لاين (On-Manga)",
+    "url": "https://onma.top",
+    "template": "mangareader-cms",
+    "tags": [
+      "manga",
+      "webtoon",
+      "arabic"
+    ],
+    "language": "ar",
+    "overrides": {
+      "queryTitleForURI": ".panel .panel-heading"
+    },
+    "origin": "bundled"
+  },
+  {
+    "id": "mangaspark",
+    "label": "مانجا سبارك (MangaSpark)",
+    "url": "https://mangaspark.org",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "mangastarz",
+    "label": "مانجا ستارز (Mangastarz)",
+    "url": "https://manga-starz.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "webtoon",
+      "arabic"
+    ],
+    "origin": "bundled"
+  },
+  {
+    "id": "nijitranslations",
+    "label": "مدونة نيجي (Niji Translations)",
+    "url": "https://niji-translations.com",
+    "template": "wordpress-madara",
+    "tags": [
+      "manga",
+      "arabic"
+    ],
+    "origin": "bundled"
+  }
+]

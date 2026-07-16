@@ -1,0 +1,3245 @@
+{
+  "generatedAt": "2026-07-14T06:44:54.557Z",
+  "legacyDir": "/home/mint/Desktop/hakuneko/src/web/mjs/connectors",
+  "stats": {
+    "totalFiles": 1328,
+    "migrated": 566,
+    "skipped": 762,
+    "perTemplate": {
+      "wordpress-madara": 360,
+      "wordpress-mangastream": 123,
+      "foolslide": 50,
+      "mangareader-cms": 33
+    },
+    "skipReasons": {
+      "unsupported-template": 588,
+      "has-custom-members": 118,
+      "non-trivial-statement": 33,
+      "non-literal-assignment": 23
+    }
+  },
+  "skipped": [
+    {
+      "file": "AGCScanlation.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "AGS.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "AdonisFansub.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Agitoon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Ainzscans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "AlkyoneScans.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "AllHentai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Allanimesite.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Allanimesite2.mjs",
+      "reason": "unsupported-template:Allanimesite"
+    },
+    {
+      "file": "AlliedFansub.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Alphapolis.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "AngelOfResistance.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "AniGliScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "AniMangaES.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "AnimExtremist.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "AnimeCenterScan.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "AnimePahe.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "AnimeParadise.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "AnimeUnity.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "AnshScans.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ArangScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ArazNovel.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "ArgosScan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ArtemisNoFansub.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "Asgard1team.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "AsmHentai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "AstralLibrary.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "AsuraLightNovel.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "AsuraScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "AsuraScansTR.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "AzoraManga.mjs",
+      "reason": "unsupported-template:AzoraWorld"
+    },
+    {
+      "file": "BacaKomik.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "BananaMecanica.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "Baozimh.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "BatoScan.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "Batoto.mjs",
+      "reason": "unsupported-template:AnyACG"
+    },
+    {
+      "file": "BeeToon.mjs",
+      "reason": "unsupported-template:WordPressZbulu"
+    },
+    {
+      "file": "BentoManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "BetaFox.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "BigComics.mjs",
+      "reason": "unsupported-template:YoungChampion"
+    },
+    {
+      "file": "BilibiliComics.mjs",
+      "reason": "unsupported-template:BilibiliManhua"
+    },
+    {
+      "file": "BilibiliManhua.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "BlogTruyen.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Bontoon.mjs",
+      "reason": "unsupported-template:Delitoon"
+    },
+    {
+      "file": "BookLive.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "Boosei.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "BoysLove.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Buka.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Bx117.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "COMICMeDu.mjs",
+      "reason": "unsupported-template:YoungChampion"
+    },
+    {
+      "file": "Caisemh.mjs",
+      "reason": "unsupported-template:MH"
+    },
+    {
+      "file": "CarToonMad.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "CatManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "CeriseScans.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "CloverManga.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Cmoa.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "CocoManHua.mjs",
+      "reason": "unsupported-template:Mangadig"
+    },
+    {
+      "file": "CoffeeManga.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ColoredManga.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ComicAction.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ComicBoost.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicBorder.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ComicBrise.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "ComicBunch.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicBushi.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ComicClear.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicDays.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ComicEarthStar.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ComicExtra.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicFX.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicFire.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "ComicFuz.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicGardo.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ComicGrast.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicK.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicKiba.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicMeteor.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "ComicPolaris.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "ComicRide.mjs",
+      "reason": "unsupported-template:YoungChampion"
+    },
+    {
+      "file": "ComicRyu.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicTrail.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ComicVN.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicValkyrie.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "ComicWalker.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicZenon.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ComicZerosum.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Comico.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ComicoNovel.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Comikey.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ConstellarScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "CopyToon.mjs",
+      "reason": "unsupported-template:GnuBoard5BootstrapBasic2"
+    },
+    {
+      "file": "Copymanga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "CrazyScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "CrunchyAnime.mjs",
+      "reason": "unsupported-template:Crunchyroll"
+    },
+    {
+      "file": "CrunchyManga.mjs",
+      "reason": "unsupported-template:Crunchyroll"
+    },
+    {
+      "file": "CrunchyScan.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "CuuTruyen.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "CxC.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Cycomi.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "DangolineNoFansub.mjs",
+      "reason": "has-custom-members",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "DankeFursLesen.mjs",
+      "reason": "unsupported-template:Guya"
+    },
+    {
+      "file": "DaumWebtoon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Daysneo.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Delitoon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "DelitoonDE.mjs",
+      "reason": "unsupported-template:Delitoon"
+    },
+    {
+      "file": "Delitoonx.mjs",
+      "reason": "unsupported-template:Delitoon"
+    },
+    {
+      "file": "DemoneCeleste.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Desu.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "DigitalMargaret.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "DigitalTeam.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Dm5.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Dmzj.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "DongManManhua.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "DoujinDesu.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "DoujinHentai.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "DoujinZa.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Doujins.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "DragonTranslation.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "DynastyScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "EarlyManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "EdelgardeScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "EightMuses.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ElevenToon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "EpikManga.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "ErosScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "EvaScans.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "FMTeam.mjs",
+      "reason": "unsupported-template:PizzaReader"
+    },
+    {
+      "file": "FRScans.mjs",
+      "reason": "has-custom-members",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "FayScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "FirstKiss.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "FlameScansORG.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "FudidoScanlator.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "FunManga.mjs",
+      "reason": "unsupported-template:MangaInn"
+    },
+    {
+      "file": "Funbe.mjs",
+      "reason": "unsupported-template:GnuBoard5BootstrapBasic2"
+    },
+    {
+      "file": "FuryoSquad.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "FusionScanlation.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Futabanet.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "Futekiya.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "GManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "GSNation.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "GTOTheGreatSite.mjs",
+      "reason": "unsupported-template:PizzaReader"
+    },
+    {
+      "file": "GalaxyManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "GammaPlus.mjs",
+      "reason": "unsupported-template:TakeShobo"
+    },
+    {
+      "file": "GanGanOnline.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Ganma.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Genkan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "GloryScans.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "GloryScansTR.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Gntai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "GoddessManga.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "GoldenManga.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "GoldenMangas.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "GourmetScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "GremoryMangas.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "GuFengMH8.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "Guoman8.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "Hachirumi.mjs",
+      "reason": "unsupported-template:Guya"
+    },
+    {
+      "file": "HamTruyen.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HastaTeam.mjs",
+      "reason": "has-custom-members",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "HastaTeamDDT.mjs",
+      "reason": "has-custom-members",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "HatigarmScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "HatsukiManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HeavenManga.mjs",
+      "reason": "unsupported-template:WordPressZbulu"
+    },
+    {
+      "file": "HeavenManga2.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Helllunatoon.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "HenChan.mjs",
+      "reason": "unsupported-template:MangaChan"
+    },
+    {
+      "file": "Hentai3z.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "HentaiCafe.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HentaiFox.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HentaiHand.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HentaiHere.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HentaiMimi.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HentaiMoney.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HentaiNexus.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HentaiRead.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "HentaiShark.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Hentaidexy.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HeroScan.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "HerosWeb.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "HimeraFansub.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Hinapyon.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "HiperCool.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Hiperdex.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Hocvientruyentranh.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HoduComics.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HolyManga.mjs",
+      "reason": "unsupported-template:WordPressZbulu"
+    },
+    {
+      "file": "HoshiNoFansub.mjs",
+      "reason": "has-custom-members",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "HqNow.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "HunlightScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "HunterScanEN.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "IMHentai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "IMangaScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "IceKr.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "Ichijin-Plus.mjs",
+      "reason": "unsupported-template:ToCoronaEx"
+    },
+    {
+      "file": "Ikifeng.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Imgur.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ImiTui.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "InManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "InfernalVoidScans.mjs",
+      "reason": "unsupported-template:Iken"
+    },
+    {
+      "file": "InstaManhwa.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "IrisScanlator.mjs",
+      "reason": "unsupported-template:WordPressMangaStream"
+    },
+    {
+      "file": "ItaScan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "JapScan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "JapanRead.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Jmana1.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "JumpBookStore.mjs",
+      "reason": "unsupported-template:Publus"
+    },
+    {
+      "file": "KKJScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "Kaguyadex.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "KaiManhua.mjs",
+      "reason": "unsupported-template:MHXK"
+    },
+    {
+      "file": "KanMan.mjs",
+      "reason": "unsupported-template:MHXK"
+    },
+    {
+      "file": "Kanjiku.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Kiryuu.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "KissAway.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "KissComic.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "KissmangaORG.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "KnightNoFansub.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "KokoMH.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "KolNovel.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "KomiScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "KomikCast.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "KomikGoID.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "KomikIndoId.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "KomikLabIND.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "KomikStation.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "KomikindoInfo.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Komiku.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "KomikuCOM.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "KooManga.mjs",
+      "reason": "unsupported-template:WordPressZbulu"
+    },
+    {
+      "file": "KrakenScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "KuManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Kuimh.mjs",
+      "reason": "unsupported-template:MH"
+    },
+    {
+      "file": "Kuman5.mjs",
+      "reason": "unsupported-template:MH"
+    },
+    {
+      "file": "KumoTran.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "KurageBunch.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "KuroiManga.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "LELScan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "LELScanVF.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "LSHiver.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "LectorManga.mjs",
+      "reason": "unsupported-template:TuMangaOnline"
+    },
+    {
+      "file": "LeerCapitulo.mjs",
+      "reason": "unsupported-template:AnyACG"
+    },
+    {
+      "file": "LegacyScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "LegionAsia.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Leitor.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "LetItGoScans.mjs",
+      "reason": "unsupported-template:ComiCake"
+    },
+    {
+      "file": "LeviatanScans.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "LewdManhwa.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "LezhinEN.mjs",
+      "reason": "unsupported-template:Lezhin"
+    },
+    {
+      "file": "LezhinJA.mjs",
+      "reason": "unsupported-template:Lezhin"
+    },
+    {
+      "file": "LezhinKO.mjs",
+      "reason": "unsupported-template:Lezhin"
+    },
+    {
+      "file": "LianScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Lindovel.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "LineMangaJP.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "LineWebtoonDE.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "LineWebtoonEN.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "LineWebtoonES.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "LineWebtoonFR.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "LineWebtoonID.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "LineWebtoonTH.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "LineWebtoonTranslate.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "LineWebtoonZH.mjs",
+      "reason": "unsupported-template:LineWebtoon"
+    },
+    {
+      "file": "LireScan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "LittleGarden.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "LoveHug.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "LuminousScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "LupiTeam.mjs",
+      "reason": "unsupported-template:PizzaReader"
+    },
+    {
+      "file": "Luscious.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "LxHentai.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "MaID.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MadaraDex.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Madokami.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MagComi.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "MagKan.mjs",
+      "reason": "unsupported-template:YoungChampion"
+    },
+    {
+      "file": "MagaParkPublisher.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MagicalTranslators.mjs",
+      "reason": "unsupported-template:Guya"
+    },
+    {
+      "file": "ManHua1359.mjs",
+      "reason": "unsupported-template:ZYMK"
+    },
+    {
+      "file": "ManHua36.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "ManHua517.mjs",
+      "reason": "unsupported-template:ZYMK"
+    },
+    {
+      "file": "ManHuaBei.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "ManHuaFen.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "ManHuaGui.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "ManHuaNiu.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "Manamoa.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Manatoki.mjs",
+      "reason": "unsupported-template:GnuBoard5BootstrapBasic2"
+    },
+    {
+      "file": "MangAs.mjs",
+      "reason": "has-custom-members",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "Manga1001.mjs",
+      "reason": "unsupported-template:MadTheme"
+    },
+    {
+      "file": "Manga1001Top.mjs",
+      "reason": "unsupported-template:MadTheme"
+    },
+    {
+      "file": "Manga18FX.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Manga1st.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Manga33.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "Manga347.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Manga3x.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "Manga9.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Manga99.mjs",
+      "reason": "unsupported-template:TAADD"
+    },
+    {
+      "file": "MangaArab.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaAy.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaBat.mjs",
+      "reason": "unsupported-template:MangaNel"
+    },
+    {
+      "file": "MangaBuddy.mjs",
+      "reason": "unsupported-template:MadTheme"
+    },
+    {
+      "file": "MangaCat.mjs",
+      "reason": "unsupported-template:GnuBoard5BootstrapBasic2"
+    },
+    {
+      "file": "MangaCdn.mjs",
+      "reason": "unsupported-template:MangaIndoWeb"
+    },
+    {
+      "file": "MangaChan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaCross.mjs",
+      "reason": "unsupported-template:YoungChampion"
+    },
+    {
+      "file": "MangaCruzers.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaDNA.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaDeep.mjs",
+      "reason": "unsupported-template:TAADD"
+    },
+    {
+      "file": "MangaDex.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaDig.mjs",
+      "reason": "unsupported-template:ZYMK"
+    },
+    {
+      "file": "MangaDisk.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangaDoom.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaDoor.mjs",
+      "reason": "has-custom-members",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "MangaEclipse.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaEdenEN.mjs",
+      "reason": "unsupported-template:MangaEden"
+    },
+    {
+      "file": "MangaEdenIT.mjs",
+      "reason": "unsupported-template:MangaEden"
+    },
+    {
+      "file": "MangaEffect.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaEighteenClub.mjs",
+      "reason": "has-custom-members",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "MangaEighteenUS.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangaFire.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaForAll.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaForest.mjs",
+      "reason": "unsupported-template:MadTheme"
+    },
+    {
+      "file": "MangaFort.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaFox.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaFoxFull.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaFoxFun.mjs",
+      "reason": "unsupported-template:MangaHub"
+    },
+    {
+      "file": "MangaFreak.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaFull.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaGG.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaGalaxy.mjs",
+      "reason": "unsupported-template:Iken"
+    },
+    {
+      "file": "MangaGo.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaHasu.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaHay.mjs",
+      "reason": "unsupported-template:WordPressZbulu"
+    },
+    {
+      "file": "MangaHere.mjs",
+      "reason": "unsupported-template:MangaFox"
+    },
+    {
+      "file": "MangaHereFun.mjs",
+      "reason": "unsupported-template:MangaHub"
+    },
+    {
+      "file": "MangaHereToday.mjs",
+      "reason": "unsupported-template:AnyACG"
+    },
+    {
+      "file": "MangaHispano.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaHome.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaHost.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaHub.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaHubRU.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaIndoWeb.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaInn.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaItalia.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaJar.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaKakalot.mjs",
+      "reason": "unsupported-template:MangaNel"
+    },
+    {
+      "file": "MangaKakalotFun.mjs",
+      "reason": "unsupported-template:MangaHub"
+    },
+    {
+      "file": "MangaKane.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangaKatana.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaKawaii.mjs",
+      "reason": "has-custom-members",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "MangaKid.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangaKisa.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaKita.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangaKu.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaLib.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaLife.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaLink.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaLivre.mjs",
+      "reason": "unsupported-template:Leitor"
+    },
+    {
+      "file": "MangaMx.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaNel.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaNeloInfo.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaNeloMe.mjs",
+      "reason": "unsupported-template:WordPressZbulu"
+    },
+    {
+      "file": "MangaNeloToday.mjs",
+      "reason": "unsupported-template:AnyACG"
+    },
+    {
+      "file": "MangaNexus.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaOku.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaOkuTr.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangaOnline.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaOnlineBR.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaOnlineFun.mjs",
+      "reason": "unsupported-template:MangaHub"
+    },
+    {
+      "file": "MangaPanda.mjs",
+      "reason": "unsupported-template:MangaReader"
+    },
+    {
+      "file": "MangaPark.mjs",
+      "reason": "unsupported-template:MangaParkEN"
+    },
+    {
+      "file": "MangaParkEN.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaPill.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaPlanet.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "MangaPlaza.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "MangaRaw.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaReader.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaReaderSite.mjs",
+      "reason": "unsupported-template:MangaHub"
+    },
+    {
+      "file": "MangaReaderTo.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaRomance.mjs",
+      "reason": "unsupported-template:SoraOne"
+    },
+    {
+      "file": "MangaRoom.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaRussia.mjs",
+      "reason": "unsupported-template:TAADD"
+    },
+    {
+      "file": "MangaSY.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaSail.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaSect.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "MangaSee.mjs",
+      "reason": "unsupported-template:MangaLife"
+    },
+    {
+      "file": "MangaSehri.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaShip.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaShiro.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangaShow.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaStreamToday.mjs",
+      "reason": "unsupported-template:AnyACG"
+    },
+    {
+      "file": "MangaSwat.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangaTR.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "MangaTail.mjs",
+      "reason": "unsupported-template:MangaSail"
+    },
+    {
+      "file": "MangaTensei.mjs",
+      "reason": "unsupported-template:AnyACG"
+    },
+    {
+      "file": "MangaToRead.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaToonCN.mjs",
+      "reason": "unsupported-template:MangaToon"
+    },
+    {
+      "file": "MangaToonEN.mjs",
+      "reason": "unsupported-template:MangaToon"
+    },
+    {
+      "file": "MangaToonES.mjs",
+      "reason": "unsupported-template:MangaToon"
+    },
+    {
+      "file": "MangaToonFR.mjs",
+      "reason": "unsupported-template:MangaToon"
+    },
+    {
+      "file": "MangaToonID.mjs",
+      "reason": "unsupported-template:MangaToon"
+    },
+    {
+      "file": "MangaToonPT.mjs",
+      "reason": "unsupported-template:MangaToon"
+    },
+    {
+      "file": "MangaToonTH.mjs",
+      "reason": "unsupported-template:MangaToon"
+    },
+    {
+      "file": "MangaToonVI.mjs",
+      "reason": "unsupported-template:MangaToon"
+    },
+    {
+      "file": "MangaToro.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "MangaToroJA.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "MangaToroVI.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "MangaTown.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaTownOnline.mjs",
+      "reason": "unsupported-template:WordPressZbulu"
+    },
+    {
+      "file": "MangaTube.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaWindow.mjs",
+      "reason": "unsupported-template:AnyACG"
+    },
+    {
+      "file": "MangaWorld.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaWorth.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaYeh.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaYosh.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaZone.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MangaZukiArchive.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MangaZukimobi.mjs",
+      "reason": "unsupported-template:WordPressZbulu"
+    },
+    {
+      "file": "Mangabox.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Mangafast.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Mangafest.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Mangajp.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Mangalek.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Manganelos.mjs",
+      "reason": "unsupported-template:AnyACG"
+    },
+    {
+      "file": "Mangarawto.mjs",
+      "reason": "unsupported-template:Manga9"
+    },
+    {
+      "file": "MangasRaw.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MangasTk.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Mangatales.mjs",
+      "reason": "unsupported-template:GManga"
+    },
+    {
+      "file": "ManhuaID.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ManhuaIndex.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ManhuaPlus.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ManhuaScan.mjs",
+      "reason": "unsupported-template:MadTheme"
+    },
+    {
+      "file": "ManhuaTai.mjs",
+      "reason": "unsupported-template:MHXK"
+    },
+    {
+      "file": "ManhuaZ.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "Manhuaga.mjs",
+      "reason": "unsupported-template:WordPressMangaStream"
+    },
+    {
+      "file": "Manhwa18.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Manhwa18cc.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ManhwaEighteen.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ManhwaFreak.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "ManhwaHub.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ManhwaLatino.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ManhwaSmut.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "ManhwaTime.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Manhwaland.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "ManhwasMen.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ManhwasNet.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Manmankan.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "MataKomik.mjs",
+      "reason": "non-literal-assignment:queryChaptersTitle",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MeioNovel.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "MerakiScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MethodScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "Mexat.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Mgkomik.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Miauscan.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Migudm.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Mikoroku.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MintManga.mjs",
+      "reason": "unsupported-template:ReadManga"
+    },
+    {
+      "file": "ModeScanlator.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "MomoNoHanaScan.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "MonoManga.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "MonochromeScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MonzeeKomik.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "MoonLoversScan.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "MoreNovel.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "MuchoHentai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MyAnimeListManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MyNovel.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "MyReadingManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "MysticalMerries.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "NHentaiCom.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NaniScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Naver.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NeoxScan.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "NeoxxxScan.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "NetComics.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NetTruyen.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "NeuManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NewToki.mjs",
+      "reason": "unsupported-template:GnuBoard5BootstrapBasic2"
+    },
+    {
+      "file": "NewType.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NextScan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Ngomik.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "NhatTruyen.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "NicoNicoSeiga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NightScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Nightow.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Nimemob.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NineAnime.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NineEkor.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NineHentai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "NineMangaBR.mjs",
+      "reason": "unsupported-template:NineManga"
+    },
+    {
+      "file": "NineMangaDE.mjs",
+      "reason": "unsupported-template:NineManga"
+    },
+    {
+      "file": "NineMangaEN.mjs",
+      "reason": "unsupported-template:NineManga"
+    },
+    {
+      "file": "NineMangaES.mjs",
+      "reason": "unsupported-template:NineManga"
+    },
+    {
+      "file": "NineMangaFR.mjs",
+      "reason": "unsupported-template:NineManga"
+    },
+    {
+      "file": "NineMangaIT.mjs",
+      "reason": "unsupported-template:NineManga"
+    },
+    {
+      "file": "NineMangaNet.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "NineMangaRU.mjs",
+      "reason": "unsupported-template:NineManga"
+    },
+    {
+      "file": "NitroScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "NiveraFansub.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Noromax.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "NovelCoolBR.mjs",
+      "reason": "unsupported-template:NovelCool"
+    },
+    {
+      "file": "NovelCoolDE.mjs",
+      "reason": "unsupported-template:NovelCool"
+    },
+    {
+      "file": "NovelCoolEN.mjs",
+      "reason": "unsupported-template:NovelCool"
+    },
+    {
+      "file": "NovelCoolES.mjs",
+      "reason": "unsupported-template:NovelCool"
+    },
+    {
+      "file": "NovelCoolFR.mjs",
+      "reason": "unsupported-template:NovelCool"
+    },
+    {
+      "file": "NovelCoolIT.mjs",
+      "reason": "unsupported-template:NovelCool"
+    },
+    {
+      "file": "NovelCoolRU.mjs",
+      "reason": "unsupported-template:NovelCool"
+    },
+    {
+      "file": "NovelRingan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Novelgo.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Ohtabooks.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "OlympusScanlation.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "OmegaScans.mjs",
+      "reason": "unsupported-template:HeanCms"
+    },
+    {
+      "file": "OnePieceTube.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "OnePunchMan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "OneShotScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "OneTwoThreeHon.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "Opiatoon.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "OremangaNet.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PeanuToon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PelaTeam.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Penlab.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PerfScan.mjs",
+      "reason": "unsupported-template:HeanCms"
+    },
+    {
+      "file": "PervEden.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PervEdenIT.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PhenixScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "PhoenixScansIT.mjs",
+      "reason": "unsupported-template:PizzaReader"
+    },
+    {
+      "file": "Piccoma.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PiccomaFR.mjs",
+      "reason": "unsupported-template:Piccoma"
+    },
+    {
+      "file": "Pixiv.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PixivComics.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PlotTwistNoFansub.mjs",
+      "reason": "unsupported-template:WordPressClarityMangaReader"
+    },
+    {
+      "file": "PornComix.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ProjectTime.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "PsychoPlay.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "Puzzmos.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "Qiman5.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "Qimiaomh.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "QueensManga.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "RachelScanlator.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "RadiantScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "RainDropFansub.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "RavensScansEN.mjs",
+      "reason": "unsupported-template:ReaderFront"
+    },
+    {
+      "file": "RavensScansES.mjs",
+      "reason": "unsupported-template:ReaderFront"
+    },
+    {
+      "file": "RawDevart.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "RawSenManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReadAllComics.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReadComicBooksOnline.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReadComicsOnline.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "ReadHentai.mjs",
+      "reason": "unsupported-template:HentaiShark"
+    },
+    {
+      "file": "ReadHentaiManga.mjs",
+      "reason": "unsupported-template:WordPressLightPro"
+    },
+    {
+      "file": "ReadM.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReadMNG.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "ReadManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReadMangaEU.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReadManhwa.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReadRawMangaInfo.mjs",
+      "reason": "unsupported-template:WordPressJarida"
+    },
+    {
+      "file": "ReadWebtoons.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "RealmScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "ReaperScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReaperScansBR.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ReaperScansFR.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ReaperScansID.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ReaperScansTR.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "Reyume.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Ridibooks.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Riwyat.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "RokariComics.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "RomantikManga.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "RoozFun.mjs",
+      "reason": "unsupported-template:MH"
+    },
+    {
+      "file": "S2Manga.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Sa3i9a.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Sadscans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Saikaiscan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "SakuraNovel.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "ScamberTraslator.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ScanHentaiMenu.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ScanManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ScanTrad.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ScansMangas.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ScansMangasxyz.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "ScantradUnion.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ScyllaScans.mjs",
+      "reason": "unsupported-template:ReaderFront"
+    },
+    {
+      "file": "SeinagiAdultoFansub.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "SeinagiFansubEN.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "SeinagiFansubES.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "SekaiKomik.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "SekteKomik.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "SelfManga.mjs",
+      "reason": "unsupported-template:ReadManga"
+    },
+    {
+      "file": "SenManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "SenseScans.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "SeriManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Seven8te.mjs",
+      "reason": "unsupported-template:MH"
+    },
+    {
+      "file": "Shakai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ShimadaScans.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ShinobIScans.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "ShonenJumpPlus.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ShonenJumpRookie.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ShonenMagazine.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "ShonenMagazinePocket.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "Shoumanhua.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "Shqqaa.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ShueishaMangaPlus.mjs",
+      "reason": "unsupported-template:Publus"
+    },
+    {
+      "file": "SiberOwl.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "SinensisScan.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "SirenKomik.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "SixMH7.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "SixParkbbsClub.mjs",
+      "reason": "unsupported-template:SixParkbbs"
+    },
+    {
+      "file": "SixParkbbsWeb.mjs",
+      "reason": "unsupported-template:SixParkbbs"
+    },
+    {
+      "file": "Siyahmelek.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "SkyMangas.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "SleepyPandaScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "SleepyTranslations.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "SmackJeeves.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "SoManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "SoftKomik.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "SouDongMan.mjs",
+      "reason": "unsupported-template:MHXK"
+    },
+    {
+      "file": "SpotToon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "StoriaDash.mjs",
+      "reason": "unsupported-template:TakeShoboNew"
+    },
+    {
+      "file": "Submanga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Sukima.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "SundayWebry.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "SushiScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "SweetTimeScan.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "SwordManga.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "TAADD.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TCBScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TRWebtoon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TaoManhua.mjs",
+      "reason": "unsupported-template:MHXK"
+    },
+    {
+      "file": "Tapas.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TappytoonDE.mjs",
+      "reason": "unsupported-template:Tappytoon"
+    },
+    {
+      "file": "TappytoonEN.mjs",
+      "reason": "unsupported-template:Tappytoon"
+    },
+    {
+      "file": "TappytoonFR.mjs",
+      "reason": "unsupported-template:Tappytoon"
+    },
+    {
+      "file": "Tapread.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Team1x1.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TecnoScan.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "TempleScan.mjs",
+      "reason": "unsupported-template:HeanCms"
+    },
+    {
+      "file": "TenManga.mjs",
+      "reason": "unsupported-template:TAADD"
+    },
+    {
+      "file": "TencentComic.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TenshiMoe.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TheNoNames.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "ThreeHentai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ThunderNovels.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "TimelessLeaf.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TmoManga.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "To-Corona-Ex.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TonariNoYoungJump.mjs",
+      "reason": "unsupported-template:CoreView"
+    },
+    {
+      "file": "TonizuToon.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ToomicsDE.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsEN.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsES.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsFR.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsIT.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsJP.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsKO.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsMX.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsPT.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsSC.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToomicsTC.mjs",
+      "reason": "unsupported-template:Toomics"
+    },
+    {
+      "file": "ToonLatino.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ToonSarang.mjs",
+      "reason": "unsupported-template:GnuBoard5BootstrapBasic2"
+    },
+    {
+      "file": "Toonily.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "ToonilyMe.mjs",
+      "reason": "unsupported-template:MadTheme"
+    },
+    {
+      "file": "Toonkor.mjs",
+      "reason": "unsupported-template:GnuBoard5BootstrapBasic2"
+    },
+    {
+      "file": "TopToon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TrueManga.mjs",
+      "reason": "unsupported-template:MadTheme"
+    },
+    {
+      "file": "TruyenChapVn.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "TruyenChon.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "TruyenQQ.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TruyenTranhAudio.mjs",
+      "reason": "unsupported-template:MojoPortalComic"
+    },
+    {
+      "file": "TruyenTranhAudioOnline.mjs",
+      "reason": "unsupported-template:TruyenTranhAudio"
+    },
+    {
+      "file": "TruyenTranhLH.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "TruyenTranhtuan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Tsumino.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TsundokuTraducoes.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "TuMangaNet.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "TuMangaOnline.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TuMangaOnlineFun.mjs",
+      "reason": "non-literal-assignment:links",
+      "template": "MangaReaderCMS"
+    },
+    {
+      "file": "TuMangaOnlineHentai.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TuManhwas.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "TurkCraft.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TurkceManga.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "Turktoon.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "TvYManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TwentyFourManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "TwistedHelScans.mjs",
+      "reason": "has-custom-members",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "U17.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "UnionMangas.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "UnnieGL.mjs",
+      "reason": "unsupported-template:TuMangaOnline"
+    },
+    {
+      "file": "UraSunday.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "UzayManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "VNSharing.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "VRVCrunchyroll.mjs",
+      "reason": "unsupported-template:VRV"
+    },
+    {
+      "file": "VRVHiDive.mjs",
+      "reason": "unsupported-template:VRV"
+    },
+    {
+      "file": "VRVRoosterteeth.mjs",
+      "reason": "unsupported-template:VRV"
+    },
+    {
+      "file": "ValhallaScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "VerComicsPorno.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "VerMangasPorno.mjs",
+      "reason": "unsupported-template:VerComicsPorno"
+    },
+    {
+      "file": "VeryToon.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ViewComics.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "VizShonenJump.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "VortexScans.mjs",
+      "reason": "unsupported-template:Iken"
+    },
+    {
+      "file": "WBNovel.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "WIBTranslation.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "WanPaMan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WeComics.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WeLoMa.mjs",
+      "reason": "unsupported-template:FlatManga"
+    },
+    {
+      "file": "WebAce.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WebComicGamma.mjs",
+      "reason": "unsupported-template:TakeShoboNew"
+    },
+    {
+      "file": "WebComicsApp.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WebNovel.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WebNovelLive.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "Webmangatr.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WebtoonHatti.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "WebtoonTR.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WebtoonTRCOM.mjs",
+      "reason": "non-trivial-statement",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "WeebCentral.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WeiboManhua.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WhimSubs.mjs",
+      "reason": "unsupported-template:ComiCake"
+    },
+    {
+      "file": "WieManga.mjs",
+      "reason": "unsupported-template:TAADD"
+    },
+    {
+      "file": "Wnacg.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WoopRead.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "WordExcerpt.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "WordRain.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "WorldRomanceTranslation.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "WoweScans.mjs",
+      "reason": "unsupported-template:Genkan"
+    },
+    {
+      "file": "WutopiaComics.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "WuxiaWorld.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "XCaliBRScans.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "XianMan123.mjs",
+      "reason": "unsupported-template:MH"
+    },
+    {
+      "file": "XlecX.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "XoxoComics.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Yanmaga.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "YaoiChan.mjs",
+      "reason": "unsupported-template:MangaChan"
+    },
+    {
+      "file": "YaoiHavenReborn.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "YawarakaSpirits.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "YesMangasBR.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "Ynjn.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "YouBaManga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "YouBaMangaNext.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "YoungChampion.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "YoungJump.mjs",
+      "reason": "unsupported-template:SpeedBinb"
+    },
+    {
+      "file": "YugenMangas.mjs",
+      "reason": "unsupported-template:HeanCms"
+    },
+    {
+      "file": "YumeKomik.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMangastream"
+    },
+    {
+      "file": "YuriISM.mjs",
+      "reason": "has-custom-members",
+      "template": "FoolSlide"
+    },
+    {
+      "file": "Yurineko.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ZYMKMangaWeb.mjs",
+      "reason": "unsupported-template:ZYMK"
+    },
+    {
+      "file": "Zebrack.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ZeroScans.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ZeurelScan.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "ZinNovel.mjs",
+      "reason": "unsupported-template:WordPressMadaraNovel"
+    },
+    {
+      "file": "ZuiMH.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "azoraworld.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "iqiyi.mjs",
+      "reason": "unsupported-template:MH"
+    },
+    {
+      "file": "jpm1234.mjs",
+      "reason": "unsupported-template:SinMH"
+    },
+    {
+      "file": "kakaopage.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "kuaikanmanhua.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "lovablesubs.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "mangaz.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "manmanapp.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "mavimanga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "mkzhan.mjs",
+      "reason": "unsupported-template:MH"
+    },
+    {
+      "file": "muctau.mjs",
+      "reason": "has-custom-members",
+      "template": "WordPressMadara"
+    },
+    {
+      "file": "rawmangatop.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "sakuramanga.mjs",
+      "reason": "unsupported-template:Connector"
+    },
+    {
+      "file": "wuqimh.mjs",
+      "reason": "unsupported-template:SinMH"
+    }
+  ]
+}
