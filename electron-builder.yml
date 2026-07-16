@@ -24,6 +24,13 @@ publish:
   provider: github
   owner: CoNoYaR0
   repo: hakuneko-reborn
+  # Publish as a GitHub pre-release (not "Latest"), which is what an alpha is.
+  # It also keeps auto-update honest: electron-updater only offers pre-releases
+  # to users already running a pre-release build (allowPrerelease defaults to true
+  # when the installed version has a prerelease component, e.g. 1.0.0-alpha.0), so
+  # alpha testers get alpha updates and nobody else is dragged onto them.
+  # Change to `release` for the first stable.
+  releaseType: prerelease
 
 linux:
   icon: build/icon.png
