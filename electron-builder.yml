@@ -31,6 +31,12 @@ publish:
   # alpha testers get alpha updates and nobody else is dragged onto them.
   # Change to `release` for the first stable.
   releaseType: prerelease
+  # electron-builder's default publish timeout is 2 minutes, which is not enough
+  # to upload a ~130 MB installer from a slower runner — the v1.0.0-alpha.0 Windows
+  # job packaged the NSIS .exe fine and then died with "Request timed out" mid-upload,
+  # leaving an orphan .blockmap and no installer. 15 minutes is generous enough that
+  # a slow upload can't fail the release.
+  timeout: 900000
 
 linux:
   icon: build/icon.png
