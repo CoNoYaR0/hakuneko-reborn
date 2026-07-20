@@ -83,6 +83,21 @@ npm run dist:linux   # AppImage + deb + rpm
 
 Requires Node 22+.
 
+**If `npm run dev` fails with `Error: Electron uninstall`**, the Electron binary
+didn't download during `npm install` (npm ran with install scripts disabled, or the
+download was blocked — common in sandboxes, containers, and immutable distros like
+Bazzite/Silverblue). Fetch it manually:
+
+```bash
+node node_modules/electron/install.js
+```
+
+If that errors, `npm config get ignore-scripts` is likely `true`; unset it, then
+`rm -rf node_modules && npm install` and run the line above again. To just *use* the
+app rather than develop it, grab a build from [Releases](../../releases) instead — on
+immutable distros the AppImage (`--appimage-extract-and-run` if FUSE is missing) is
+easiest.
+
 ## Repo layout
 
 ```
