@@ -85,6 +85,29 @@ mac:
   target:
     - dmg
 
+# Flatpak — the right format for immutable distros (Bazzite, Silverblue) and for
+# NVIDIA, where a plain AppImage's bundled Mesa/fontconfig collide with the host
+# (blank window + "could not find any font"). The Electron base app + freedesktop
+# runtime bring a working font/GL stack, and Flatpak wires in the host GPU driver
+# (incl. the NVIDIA extension) via --device=dri.
+#
+# NOT in linux.target above on purpose: it's built explicitly (`--linux flatpak`)
+# so it can't break the AppImage/deb/rpm release while it's still being proven in
+# CI (no flatpak-builder available locally). Fold into the release once green.
+flatpak:
+  runtimeVersion: '23.08'
+  baseVersion: '23.08'
+  # Sandbox permissions. Minimal: GPU, both display sockets, network, and write
+  # access to the user's Downloads (where chapters are saved). Config/cache live
+  # inside the Flatpak's own ~/.var/app tree automatically.
+  finishArgs:
+    - --share=ipc
+    - --socket=fallback-x11
+    - --socket=wayland
+    - --share=network
+    - --device=dri
+    - --filesystem=xdg-download
+
 # Use ${name} (package name, "hakuneko-reborn") not ${productName} — the latter
 # contains a space, which makes for awkward download filenames and CLI paths.
 artifactName: ${name}-${version}-${os}-${arch}.${ext}

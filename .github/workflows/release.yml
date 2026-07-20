@@ -16,7 +16,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - os: ubuntu-latest   # AppImage + deb + rpm
+          - os: ubuntu-latest   # AppImage + deb + rpm + flatpak
           - os: windows-latest  # NSIS installer + portable
     steps:
       - uses: actions/checkout@v4
@@ -29,21 +29,41 @@ jobs:
       - run: npm ci
       - run: npm run build
 
-      # electron-builder reads publish: from electron-builder.yml and uploads
-      # the installers + latest*.yml update manifests to the tag's GitHub Release.
+      # Flatpak needs the toolchain + freedesktop/Electron runtimes (Linux only).
+      # It's the format that actually renders on immutable/NVIDIA distros (Bazzite)
+      # where the AppImage's bundled Mesa/fonts collide with the host.
+      - name: Install Flatpak toolchain (Linux)
+        if: matrix.os == 'ubuntu-latest'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y flatpak flatpak-builder
+          flatpak remote-add --if-not-exists --user flathub https://flathub.org/repo/flathub.flatpakrepo
+          flatpak install --user -y flathub \
+            org.freedesktop.Platform//23.08 \
+            org.freedesktop.Sdk//23.08 \
+            org.electronjs.Electron2.BaseApp//23.08
+
+      # electron-builder reads publish: from electron-builder.yml and uploads the
+      # installers + latest*.yml update manifests to the tag's GitHub Release.
+      # Split per-OS: Linux adds the flatpak target (kept out of linux.target so it
+      # can't break local `npm run dist:linux`, which has no flatpak-builder).
       #
-      # Code signing is opt-in: electron-builder auto-signs when these env vars
-      # are present. Leave the secrets unset and the build stays unsigned (fine
-      # for Linux and testing). Add them (repo → Settings → Secrets) to sign:
+      # Code signing is opt-in: electron-builder auto-signs when these env vars are
+      # present. Leave the secrets unset and the build stays unsigned (fine for
+      # Linux and testing). Add them (repo → Settings → Secrets) to sign:
       #   Windows: CSC_LINK (base64 .pfx), CSC_KEY_PASSWORD
       #   macOS:   CSC_LINK/CSC_KEY_PASSWORD (.p12) + APPLE_ID,
       #            APPLE_APP_SPECIFIC_PASSWORD, APPLE_TEAM_ID (for notarization)
-      - name: Package & publish
+      - name: Package & publish (Linux)
+        if: matrix.os == 'ubuntu-latest'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx electron-builder --linux AppImage deb rpm flatpak --publish always
+
+      - name: Package & publish (Windows)
+        if: matrix.os == 'windows-latest'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CSC_LINK: ${{ secrets.CSC_LINK }}
           CSC_KEY_PASSWORD: ${{ secrets.CSC_KEY_PASSWORD }}
-          APPLE_ID: ${{ secrets.APPLE_ID }}
-          APPLE_APP_SPECIFIC_PASSWORD: ${{ secrets.APPLE_APP_SPECIFIC_PASSWORD }}
-          APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
         run: npx electron-builder --publish always
